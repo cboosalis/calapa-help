@@ -4,6 +4,19 @@ A student-facing guide to CalAPA Version 09: cycle overviews, submission limits,
 complete rubrics, original template images, fictional examples, public-data
 reading support, adjustable text, and connected navigation.
 
+The October 8 help-text review is applied locally. It clarifies synchronous
+Cycle 3 observation, maximum clip lengths, verbal/ASL alternatives, retakes,
+rubric names and self-checks, accessible image labels, and readable source
+references. Official quotations retain their wording; only extraction spacing
+is normalized. The original guides, templates, data, and saved app exports
+remain unchanged. Review decisions, rollback copy, and browser checks are in
+`../review/help-text-amendments-20261008/`. No publication was performed.
+
+The illustrated-page builders retain these edits through
+`../tools/help_wording.py` and its scoped wording rules. A rebuild of all four
+generated page scripts was verified to produce identical bytes. The root Excel
+master and the supplied recommendations workbook were not edited by this review.
+
 This is an instructional resource, not an official CTC site, scored exemplar,
 or substitute for the current assessment guides, templates, policies, and
 preparation-program directions. Candidates collect their own permitted evidence,
@@ -260,6 +273,33 @@ examples are not candidate-format page-fit demonstrations or scored exemplars.
 No Git push, Azure change, publication, or separate Equity Gap app mutation was
 performed. `CalAPA_Master.xlsx` at the workspace root and its established output
 mirror track implemented work separately from those remaining items.
+
+## Local Annotation Trial
+
+The pencil icon opens pen, highlighter, whole-stroke eraser, colors, width,
+undo/redo, and clear controls. Browse mode passes input to the page. Escape
+clears all annotations in the current layout and switches to Browse; the trash
+button also clears them. Both clears can be undone. Escape in an open dialog
+or text-entry field retains its normal behavior. Closing the toolbar does not
+delete marks.
+
+Marks are stored in `sessionStorage` for this browser tab, not in GitHub or a
+server. Reloading the same tab restores them when storage is available. This
+is a temporary teaching tool, not a durable annotation archive. Storage failure
+shows a warning and leaves the marks available in memory until reload.
+
+Annotations use coordinates relative to the reading area and follow scrolling.
+Different content, text sizes, widths, and expanded/collapsed sections have
+separate layouts; marks return when their original layout is restored. They
+are excluded from printing. The page overlay does not draw on the expanded
+image dialog or external PDF viewers.
+
+`vendor/perfect-freehand-1.2.2.js` wraps the unmodified pinned CommonJS build
+in `perfect-freehand-1.2.2.cjs`, exposing `window.PerfectFreehand`. The library
+is MIT licensed; its license is included in the vendor directory. Runtime
+network access is not needed. Browser tests are in
+`../tools/verify_annotations.cjs`; physical tablet behavior still needs a trial
+with the user's device and driver.
 
 ## Source Packages
 

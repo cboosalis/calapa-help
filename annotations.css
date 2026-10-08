@@ -1,0 +1,23 @@
+#annotationCanvas {position:fixed;z-index:21;pointer-events:none;touch-action:none}
+#annotationToolbar {position:fixed;right:16px;bottom:16px;z-index:30;max-width:calc(100% - 32px);width:438px;padding:10px;background:var(--soft);color:var(--ink);border:1px solid var(--line);border-radius:6px;box-shadow:0 3px 16px #0003;font-size:14px}
+#annotationToolbar[hidden] {display:none}
+.ink-tools,.ink-options,.ink-colors {display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.ink-options {margin-top:10px}
+.ink-tools .icon-button {width:40px;height:40px;min-height:40px;flex-shrink:0}
+.ink-divider {height:24px;width:1px;background:var(--line);margin:0 3px}
+#annotationToolbar [aria-pressed=true] {outline:2px solid var(--green);outline-offset:1px;background:var(--pale)}
+.ink-colors button {padding:0;min-height:28px;width:28px;height:28px;border:1px solid var(--muted);border-radius:50%;background:var(--swatch)!important}
+.ink-colors {gap:7px;margin-right:auto}
+.ink-options label {font-size:12px}
+#inkWidth {width:78px;min-width:0;accent-color:var(--green)}
+.ink-options output {width:18px;font-size:12px;text-align:right;font-variant-numeric:tabular-nums}
+@media(max-width:600px) {
+ #annotationToolbar {right:8px;bottom:8px;max-width:calc(100% - 16px);padding:8px}
+ .ink-tools {gap:3px}
+ .ink-tools .icon-button {width:36px;height:38px;min-height:38px;padding:8px}
+ .ink-divider {margin:0 1px}
+ .ink-colors {gap:5px}
+ .ink-colors button {width:26px;height:26px;min-height:26px}
+ #inkWidth {width:60px}
+}
+@media print {#annotationCanvas,#annotationToolbar,#annotationToggle {display:none!important}}

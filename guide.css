@@ -105,6 +105,9 @@
  .requirement-summary table {min-width:480px}
  .lead-question {font-size:20px}
 }
+.text-size-controls {margin-bottom:24px}
+.text-size-controls > p {margin:0 0 9px;font-size:14px;font-weight:700}
+
 @media print {
  .map-expand-icon {display:none}
  .cycle-glance {container-type:normal}

@@ -10,7 +10,7 @@ window.RESEARCH_CONTENT = {
     {
       "unit": "gap-app",
       "source": "Quantitative Research, Unit 1\nQ1, line 71: 1. Evidence begins with cases, variables, and measurement choices",
-      "text": "Before interpreting a Gap app chart, ask what one record represents and which population and year the measure covers. A school-year rate describes an aggregate, not the history of every individual student. Check the measure definition, subgroup, denominator, and source before comparing values. The 2025 selected-group graduation rate of 70.8% and schoolwide rate of 85.9% differ by 15.1 percentage points. That difference describes the reported pattern; it does not explain why it occurred or show that all students in the group had the same experience.",
+      "text": "Before interpreting a Gap app chart, ask what one record represents and which population and year the measure covers. A school-year rate describes an aggregate, not the history of every individual student. Check the measure definition, subgroup, denominator, and source before comparing values. The 2025 English Learner graduation rate of 70.8% and the schoolwide rate of 85.9% differ by 15.1 percentage points. That difference describes the reported pattern; it does not explain why it occurred or show that all students in the group had the same experience.",
       "teachingMove": "Read the displayed year and denominator, calculate the percentage-point gap, and write one supported claim plus one unanswered question."
     },
     {
@@ -109,7 +109,7 @@ window.RESEARCH_CONTENT = {
       "unit": "gap-app",
       "source": "Quantitative Research, Unit 1\nQ1, line 71: 1. Evidence begins with cases, variables, and measurement choices",
       "text": "In reporting year 2025, the selected student group had a reported graduation rate of 70.8%, compared with 85.9% schoolwide. Subtracting the schoolwide rate from the group rate gives a gap of -15.1 percentage points. The group record reports 46 graduates and an accountability denominator of 65. Schoolwide includes the selected group, so the comparison is not between independent populations. These aggregate records identify a pattern; they do not establish individual experiences or its cause.",
-      "reasoning": "The response identifies the period, measure, denominator, comparison, unit of the difference, and claim boundary. Inspect the saved chart and download its table or image in the evidence library; open the separate Equity Gap App for school exploration. Retain source definitions."
+      "reasoning": "The response identifies the period, measure, denominator, comparison, unit of the difference, and claim boundary. Inspect the saved chart and download its table or image in the evidence library; open the separate Equity Gap app for school exploration. Retain source definitions."
     },
     {
       "unit": "c1-investigate",

@@ -33,7 +33,7 @@
       number: 3, title: 'Supporting Teacher Growth',
       short: 'Coach for teacher growth', scope: 'One volunteer teacher and a lesson',
       purpose: 'Conduct a collaborative coaching cycle grounded in a teacher\'s goals, focused observation, lesson video, and student work.',
-      minute: 'Investigate coaching practices and the volunteer teacher\'s experience. Record a pre-observation conversation and jointly select one or two CSTP elements within the same domain. Observe for at least 20 minutes and record the full observation. Analyze notes and student work, then record a post-observation conversation in which you review lesson video together, discuss evidence, and co-determine growth steps. Seek feedback and reflect on your own coaching.',
+      minute: 'Investigate coaching practices and the volunteer teacher\'s experience. Record a pre-observation conversation and jointly select one or two CSTP elements within the same domain. Observe the lesson live (synchronously, while it is taught) for at least 20 minutes and record the full observation. Analyze notes and student work, then record a post-observation conversation in which you review lesson video together, discuss evidence, and co-determine growth steps. Seek feedback and reflect on your own coaching.',
       output: 'Parts A-J: context, lesson plan, pre-observation clips and commentary, observation notes, student work, post-observation clips and commentary, and reflection.',
       distinction: 'The lesson recording supports the coaching conversation; it is not itself submitted as the lesson-video evidence for this cycle. Submitted meeting clips show your coaching.',
       advance: 'Arrange the full sequence, permissions, an audible recording setup, and access to student work before the observed lesson. Agree on the focus with the teacher.',
@@ -136,7 +136,7 @@
     },
     'c3-act': {
       step: 3, name: 'Act', parts: ['F','G','H','I'], pages: [20,21,22,23], rubrics: ['3.3','3.4','3.5'],
-      requirement: 'Observe for at least 20 minutes and record the full observation. Analyze CSTP-focused notes and student work. Record the post-observation conversation, jointly view lesson video, examine strengths and growth, co-determine next steps, and seek feedback on your coaching.',
+      requirement: 'Observe the lesson live (synchronously, while it is taught) for at least 20 minutes and record the full observation. Analyze CSTP-focused notes and student work. Record the post-observation conversation, jointly view lesson video, examine strengths and growth, co-determine next steps, and seek feedback on your coaching.',
       action: 'Keep observations distinct from interpretations. Use the notes, lesson video, and work together to support a two-way learning conversation.',
       watch: 'Record and use the lesson video, but submit post-observation meeting clips for Part H: 1-3 clips, up to 15 minutes total, with each clip at least one minute. Fifteen minutes is not the limit for each clip.',
       next: 'The teacher\'s feedback about your coaching and evidence of the partnership inform Part J.',

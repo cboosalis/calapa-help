@@ -1,6 +1,10 @@
 (() => {
   const esc = text => String(text).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const citation = source => `<p class="source-note research-reference">Research connection: <a href="https://research.chrisboosalis.com" target="_blank" rel="noreferrer">Intro to Research course</a>. ${esc(source)}.</p>`;
+  const citation = source => {
+    const reference = source.replace(/\s+/g, ' ').replace(/\s+(?:I|Q|QL|MM)\d+, line \d+:\s*(?:\d+\.\s*)?/, ': ')
+      .replace(/ NEXT, line \d+:/, ':').replace(/: +/, ': ').replace(/\.$/, '');
+    return `<p class="source-note research-reference">Research connection: <a href="https://research.chrisboosalis.com" target="_blank" rel="noreferrer">Intro to Research course</a>, ${esc(reference)}.</p>`;
+  };
   const data = window.RESEARCH_CONTENT;
   if (!data) return;
   const lecturePositions={orientation:[2],'gap-app':[0],'c1-investigate':[0,1],'c1-plan':[2,0],'c1-act':[0],'c1-reflect':[0],'c2-investigate':[0],'c2-plan':[1],'c2-act':[2],'c2-reflect':[0],'c3-investigate':[1],'c3-plan':[0],'c3-act':[1],'c3-reflect':[0]};

@@ -61,7 +61,7 @@
 
   for (const [id, [sourceId, chartId, claim, action, response]] of Object.entries(bridges)) {
     const u = unit(id), source = sources.find(s => s.id === sourceId);
-    u.lecture.push(section('Connect the Gap app evidence to this step', `<p class="evidence-tag">Gap app: ${source.name}</p>${p(claim)}${p(action)}${p(`<a href="#connections/${u.area==='start'?'c1':u.area}">Evidence connections for this cycle</a> &middot; ${snapshot(source.file,'Inspect the saved source section')}`)}`));
+    u.lecture.push(section(u.id==='orientation'?'Connect the Gap app evidence to this unit':'Connect the Gap app evidence to this step', `<p class="evidence-tag">Gap app: ${source.name}</p>${p(claim)}${p(action)}${p(`<a href="#connections/${u.area==='start'?'c1':u.area}">${u.id==='orientation'?'Evidence connections across the three cycles':'Evidence connections for this cycle'}</a> &middot; ${snapshot(source.file,'Inspect the saved source section')}`)}`));
     u.walkthrough.push(section('From source evidence to a bounded response', `<p class="evidence-tag">${u.area==='start'?'Interpretive example':'Illustrative reasoning, not evidence of completed candidate work'}</p>${chartId?chart(chartId):''}${model(p(response))}${why('The response states what the public evidence contributes and identifies the different local evidence needed for this step. It does not present the app output as evidence of an action, meeting, or observation.')}${p(`${snapshot(source.file,source.name+' snapshot')} &middot; <a href="#connections/${u.area==='start'?'c1':u.area}">Cycle evidence map</a>`)}`));
   }
 
@@ -84,7 +84,7 @@
     if(source.id==='school') example=table(['School','District','County','CDS identifier'],[['Jordan High','Los Angeles Unified','Los Angeles','19647331934454']]);
     if(source.id==='report') example=cycleInfo[cycle].example;
     if(source.id==='timeline') example='<h4>English Learners graduation: saved annual records</h4><div data-history-table></div>';
-    return `<section class="source-connection" id="connection-${source.id}"><h3>${source.name}</h3><p class="evidence-tag">${source.evidence}</p><h4>Value for Cycle ${index+1}</h4>${p(source.use[index])}${example}<p class="note"><strong>Interpretation boundary:</strong> ${source.limit}</p><p class="source-note">${snapshot(source.file,'Full saved '+source.name+' reading and provenance')}</p></section>`;
+    return `<section class="source-connection" id="connection-${source.id}"><h3>${source.name}</h3><p class="evidence-tag">${source.evidence}</p><h4>Value for Cycle ${index+1}</h4>${p(source.use[index])}${example}<p class="note"><strong>Interpretation boundary:</strong> ${source.limit}</p><p class="source-note">${snapshot(source.file,'Saved '+source.name+': complete reading and provenance')}</p></section>`;
   }
   function indicatorSection([name,measure,figure,question,limit], index) {
     const relevance=[
