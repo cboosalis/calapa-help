@@ -1,0 +1,172 @@
+KEY: 050
+TITLE: Equity Timeline Explorer - default
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:30.444113+00:00
+
+## TITLES
+
+[TITLES 1]
+Equity Timeline Explorer
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## SUBHEADERS
+
+[SUBHEADERS 1]
+Build timeline
+
+[SUBHEADERS 2]
+Timeline
+
+[SUBHEADERS 3]
+Readable Evidence Table
+
+[SUBHEADERS 4]
+Counts, Denominators, and Source Group Codes
+
+[SUBHEADERS 5]
+Context
+
+[SUBHEADERS 6]
+Selectable lines
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+David Starr Jordan Senior High | CDS 19647331934454
+
+[CAPTIONS 3]
+Measure: Chronic absenteeism rate (%). Values are percentages; for example, 30.3 means 30.3%.
+
+[CAPTIONS 4]
+Percentages by year. The primary subgroup has its own named column. `Not available` means the comparison line does not have a reported value for that year.
+
+[CAPTIONS 5]
+Prototype note: Academic ELA/Math timelines are intentionally deferred until the numeric student_group_id mapping is verified. Academic subgroup tables are large and must be queried only with targeted filters.
+
+[CAPTIONS 6]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+**Primary subgroup line:** English Learners
+
+[MARKDOWN 3]
+<div style='margin:0.15rem 0 0.75rem 0;line-height:1.65;'><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:2px solid rgba(255,255,255,0.45);font-size:0.78rem;font-weight:700;white-space:nowrap;'><span style='color:#ef4444;font-size:1rem;'>●</span>English Learners</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#fca5a5;font-size:1rem;'>●</span>All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#2563eb;font-size:1rem;'>●</span>District: All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#38bdf8;font-size:1rem;'>●</span>County: All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#4ade80;font-size:1rem;'>●</span>State: All Students</span></div>
+
+[MARKDOWN 4]
+### Data availability notes
+
+[MARKDOWN 5]
+- `Not available` means no public value was returned for that year and comparison line.
+- Missing values should not be interpreted as zero.
+- A value may be unavailable because the student group did not meet CDE public reporting or accountability minimum-size rules.
+- A value may also be unavailable because the indicator did not apply to that entity or grade span, the comparison level is unavailable in the current data table, or the source file did not include a reported value.
+- Public reporting, Status, and performance-color minimums differ by indicator, year, and entity. A numeric status can appear without a performance color; consult the source-year rules.
+- Indicator formulas and business rules should be verified in the current CDE Dashboard Technical Guide.
+- Public Dashboard data should be confirmed with local district records before making final leadership claims or action decisions.
+
+[MARKDOWN 6]
+**Selected school context**
+
+[MARKDOWN 7]
+<div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School:</strong> David Starr Jordan Senior High</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District:</strong> Los Angeles Unified</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>County:</strong> Los Angeles</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School code:</strong> 1934454</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District code:</strong> 64733</div>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+[INFO BOXES 2]
+Caution: These lines compare separately reported aggregate groups or comparison levels. They do not show whether the same students belong to more than one group unless an intersectional category is explicitly available in the data.
+
+## WARNINGS
+
+[WARNINGS 1]
+Source qualifications apply to this timeline. Review the qualification column below before interpreting changes or comparing groups.
+
+[WARNINGS 2]
+Use this view for preliminary pattern identification only. Verify public aggregate data with district records, the district office, the superintendent or designee, and other official local sources before making final leadership claims or action decisions.
+
+## TABLES AND DATAFRAMES
+
+[TABLE 1]
+Year All Students (%) County: All Students (%) District: All Students (%) English Learners (%) State: All Students (%)
+2020-21            41.5%                    13.3%                      15.6%                38.9%                   14.3%
+2021-22            54.9%                    31.2%                      36.9%                54.3%                   30.0%
+2022-23            47.0%                    26.8%                      30.8%                39.2%                   24.9%
+2023-24            45.4%                    22.0%                      25.1%                41.3%                   20.4%
+2024-25            49.1%                    20.5%                      23.9%                40.9%                   19.4%
+
+[TABLE 2]
+Year                   Line Group code Numerator Denominator Rate / percent (%)                                                                    Source Qualification                 Source File
+2020-21           All Students         TA       359         865              41.5% DASS not collected in 2020-21; stored No is an import placeholder, not observed status.    chronicabsenteeism21.txt
+2020-21   County: All Students         TA   186,665   1,404,045              13.3%                                                                                     NaN                         NaN
+2020-21 District: All Students         TA    90,706     579,778              15.6%                                                                                     NaN                         NaN
+2020-21       English Learners         SE        84         216              38.9% DASS not collected in 2020-21; stored No is an import placeholder, not observed status.    chronicabsenteeism21.txt
+2020-21    State: All Students         TA   866,842   6,072,413              14.3%                                                                                     NaN                         NaN
+2021-22           All Students         TA       462         841              54.9%                   Source school DASS classification: No; DataQuest absenteeism measure. chronicabsenteeism22-v3.txt
+2021-22   County: All Students         TA   426,445   1,365,307              31.2%                                                                                     NaN                         NaN
+2021-22 District: All Students         TA   207,620     562,536              36.9%                                                                                     NaN                         NaN
+2021-22       English Learners         SE       125         230              54.3%                   Source school DASS classification: No; DataQuest absenteeism measure. chronicabsenteeism22-v3.txt
+2021-22    State: All Students         TA 1,799,735   5,995,400              30.0%                                                                                     NaN                         NaN
+2022-23           All Students         TA       410         873              47.0%                   Source school DASS classification: No; DataQuest absenteeism measure.    chronicabsenteeism23.txt
+2022-23   County: All Students         TA   359,698   1,344,649              26.8%                                                                                     NaN                         NaN
+2022-23 District: All Students         TA   170,294     553,525              30.8%                                                                                     NaN                         NaN
+2022-23       English Learners         SE        80         204              39.2%                   Source school DASS classification: No; DataQuest absenteeism measure.    chronicabsenteeism23.txt
+2022-23    State: All Students         TA 1,486,302   5,958,889              24.9%                                                                                     NaN                         NaN
+2023-24           All Students         TA       424         934              45.4%                   Source school DASS classification: No; DataQuest absenteeism measure.    chronicabsenteeism24.txt
+2023-24   County: All Students         TA   292,881   1,330,028              22.0%                                                                                     NaN                         NaN
+2023-24 District: All Students         TA   136,791     545,382              25.1%                                                                                     NaN                         NaN
+2023-24       English Learners         SE        95         230              41.3%                   Source school DASS classification: No; DataQuest absenteeism measure.    chronicabsenteeism24.txt
+2023-24    State: All Students         TA 1,216,528   5,958,444              20.4%                                                                                     NaN                         NaN
+2024-25           All Students         TA       430         875              49.1%                   Source school DASS classification: No; DataQuest absenteeism measure. chronicabsenteeism25-v2.txt
+2024-25   County: All Students         TA   267,070   1,302,447              20.5%                                                                                     NaN                         NaN
+2024-25 District: All Students         TA   126,481     528,612              23.9%                                                                                     NaN                         NaN
+2024-25       English Learners         SE        74         181              40.9%                   Source school DASS classification: No; DataQuest absenteeism measure. chronicabsenteeism25-v2.txt
+2024-25    State: All Students         TA 1,143,668   5,903,507              19.4%                                                                                     NaN                         NaN
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download Equity Timeline Explorer (PDF); value=False
+download_button; label=Download Equity Timeline Explorer (Word); value=False
+download_button; label=Download Timeline Data (CSV); value=False
+download_button; label=Download source-qualified timeline evidence as CSV; value=False
+radio; label=Choose a page; value=Equity Timeline Explorer; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project
+selectbox; label=Indicator; value=Chronic Absenteeism; options=Chronic Absenteeism | Suspension | Graduation | ELPI
+selectbox; label=Group category; value=High-interest student groups; options=High-interest student groups | Race/ethnicity | Gender | Grade spans | All available codes
+selectbox; label=Primary group; value=English Learners [SE]; options=English Learners [SE] | Foster Youth [SF] | Homeless Youth [SH] | Socioeconomically Disadvantaged [SS] | Students with Disabilities [SD]
+checkbox; label=All Students; value=True
+checkbox; label=District: All Students; value=True
+checkbox; label=County: All Students; value=True
+checkbox; label=State: All Students; value=True

@@ -1,0 +1,4 @@
+level,name,reporting_year,certify_flag,prior_certify_flag,data_error_flag,source_file,suspended_students,cumulative_enrollment,suspension_rate,status_level,change_level,color
+School,Jordan High,2025,,,,suspdownload2025.txt,0.0,940,0.0,5,3.0,5.0
+District,Los Angeles Unified,2025,,,,suspdownload2025.txt,1343.0,388896,0.3,5,3.0,5.0
+State,California,2025,,,,suspdownload2025.txt,170274.0,5961200,2.9,3,4.0,4.0

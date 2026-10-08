@@ -1,0 +1,76 @@
+KEY: 060
+TITLE: About This Project
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:26.838524+00:00
+
+## TITLES
+
+[TITLES 1]
+About This Project
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+I created this site to help candidates, educators, and instructional leaders work more thoughtfully with public educational data.
+
+This tool is intended to support preliminary evidence exploration. It helps users identify patterns in publicly available school, district, county, and state data, especially where subgroup trends may raise questions for further local inquiry.
+
+ChatGPT supported the coding, debugging, technical development, and drafting of this resource. I provided the educational vision, reviewed the design and content, identified problems, and made the final decisions about what would be useful, responsible, and appropriate for leadership preparation.
+
+This site is not a substitute for district records, local evidence, professional judgment, program guidance, or official California Department of Education documentation. Public aggregate data should be verified with local records, district personnel, and other official sources before being used in final leadership claims or action decisions.
+
+My very best regards,
+
+[MARKDOWN 3]
+**Chris Nicholas Boosalis, Ph.D.**  
+Professor Emeritus  
+Graduate and Professional Studies in Education  
+College of Education  
+Sacramento State
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download About This Project (PDF); value=False
+download_button; label=Download About This Project (Word); value=False
+radio; label=Choose a page; value=About This Project; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

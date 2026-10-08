@@ -1,0 +1,6 @@
+reporting_year,numerator,denominator,rate,source_file,participation_additions,source_qualification
+2019,24,122,19.7,elpidownload2019.txt,,Historical EL aggregate; no student-group field. Participation adjustment not reported; do not assume zero.
+2022,44,116,37.9,elpidownload2022.txt,,Historical EL aggregate; no student-group field. Participation adjustment not reported; do not assume zero.
+2023,43,128,33.6,elpidownload2023.txt,0.0,Historical EL aggregate; no student-group field. Current participation addition 0; prior addition 8. Verify source-year rules.
+2024,42,145,29.0,elpidownload2024.txt,0.0,Reported accountability denominator. Current participation addition 0; verify source-year rules.
+2025,70,126,55.6,elpidownload2025.txt,0.0,Reported accountability denominator. Current participation addition 0; verify source-year rules.

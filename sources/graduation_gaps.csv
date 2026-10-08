@@ -1,0 +1,8 @@
+reporting_year,student_group,graduates,cohort_students,five_year_graduates,source_file,graduation_rate,status_level,change_level,color,schoolwide_graduation_rate,gap_from_schoolwide,student_group_label
+2025,EL,46.0,65,3,graddownload2025.txt,70.8,2.0,4.0,3.0,85.9,-15.100000000000009,English Learners
+2025,LTEL,27.0,33,1,graddownload2025.txt,81.8,3.0,5.0,0.0,85.9,-4.1000000000000085,Long-Term English Learners
+2025,HOM,15.0,18,0,graddownload2025.txt,83.3,3.0,2.0,0.0,85.9,-2.6000000000000085,Homeless
+2025,HI,139.0,163,3,graddownload2025.txt,85.3,3.0,5.0,4.0,85.9,-0.6000000000000085,Hispanic or Latino
+2025,SWD,39.0,44,1,graddownload2025.txt,88.6,3.0,5.0,4.0,85.9,2.6999999999999886,Students with Disabilities
+2025,SED,169.0,190,4,graddownload2025.txt,88.9,3.0,5.0,4.0,85.9,3.0,Socioeconomically Disadvantaged
+2025,AA,28.0,31,1,graddownload2025.txt,90.3,3.0,2.0,2.0,85.9,4.3999999999999915,African American

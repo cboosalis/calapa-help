@@ -1,0 +1,288 @@
+KEY: 030
+TITLE: CalAPA Cycle 1 Support
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:26.389732+00:00
+
+## TITLES
+
+[TITLES 1]
+CalAPA Cycle 1 Support
+
+## HEADERS
+
+[HEADERS 1]
+Cycle 1 overview
+
+[HEADERS 2]
+Evidence requirements
+
+[HEADERS 3]
+How this dashboard supports CalAPA Cycle 1 evidence work
+
+[HEADERS 4]
+Your selected school evidence coverage
+
+[HEADERS 5]
+CalAPA Cycle 1 rubric alignment
+
+[HEADERS 6]
+Evidence to Action readiness snapshot
+
+[HEADERS 7]
+Using quantitative and qualitative evidence
+
+[HEADERS 8]
+Your selected school evidence
+
+[HEADERS 9]
+Selecting an equity inquiry focus
+
+[HEADERS 10]
+Claim-building guidance
+
+[HEADERS 11]
+Leadership Inquiry Alignment Guide
+
+[HEADERS 12]
+Illustrative descriptive claim for your school
+
+[HEADERS 13]
+Educational partner engagement
+
+[HEADERS 14]
+Submission and privacy boundaries
+
+[HEADERS 15]
+Official resources
+
+[HEADERS 16]
+CalAPA Equity Copilot
+
+## SUBHEADERS
+
+[SUBHEADERS 1]
+Jordan High
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Los Angeles Unified | Los Angeles County
+
+[CAPTIONS 3]
+CDS: 19647331934454 | Attendance reporting year: 2024-25. Other indicators show their own source years.
+
+[CAPTIONS 4]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+<span id="report-top"></span>
+
+[MARKDOWN 3]
+<style>#report-top, [id^="indicator-"] {scroll-margin-top: 6rem;}</style>
+
+[MARKDOWN 4]
+Use public data to identify a preliminary equity inquiry focus, then investigate it with local evidence and educational partner perspectives.
+
+[MARKDOWN 5]
+CalAPA Cycle 1 Version 09 requires the three most recent years of related quantitative evidence for the selected state indicator. If those years cannot be accessed, choose another indicator. Related evidence may come from sources beyond the Dashboard. The loaded-data check is not a candidate-readiness certification; verify official releases and local evidence. Source: https://docs.ctc.ca.gov/Document/Download/31322
+
+[MARKDOWN 6]
+This guide connects the public-data dashboard to the major leadership inquiry evidence tasks. The dashboard organizes public evidence; candidates still need local qualitative evidence, research, educational partner feedback, and reflection.
+
+[MARKDOWN 7]
+Step 1A: Identify and analyze a state indicator, student group, school context, and equity gap.
+
+[MARKDOWN 8]
+Packet support: The numbered app sections provide related public outcome measures and local context: current results, available-year trends, system comparisons, subgroup gaps, local conditions, English learner context, discipline, and graduation/completion evidence.
+
+[MARKDOWN 9]
+Evidence still needed: Verify the three most recent years of related quantitative data; connect the selected state indicator to the school vision, mission, and goals; select one defensible student group; and complete the required local data table.
+
+[MARKDOWN 10]
+Step 1A: Use qualitative sources and research to deepen the equity-gap analysis.
+
+[MARKDOWN 11]
+Packet support: The preliminary profile, subgroup tables, interpretation notes, and local-evidence prompts identify patterns that need local follow-up.
+
+[MARKDOWN 12]
+Evidence still needed: Collect and analyze three qualitative sources, compare them with the quantitative pattern, cite relevant research, and define the equity gap without making unsupported causal claims.
+
+[MARKDOWN 13]
+Step 2B: Identify contributing factors, institutional or structural conditions, area of need, and problem statement.
+
+[MARKDOWN 14]
+Packet support: Guardrails and local-evidence prompts distinguish outcome evidence from root-cause claims and point to records, stakeholder input, implementation evidence, climate data, and system conditions.
+
+[MARKDOWN 15]
+Evidence still needed: Use local evidence and research to name plausible contributing factors, explain their impact, identify the area of need, and write a focused problem statement.
+
+[MARKDOWN 16]
+Step 3C: Develop strategies, gather feedback, revise, and plan for buy-in.
+
+[MARKDOWN 17]
+Packet support: The evidence packet and synthesis scaffold keep proposed strategies connected to the selected outcome pattern, equity signal, and local evidence needs.
+
+[MARKDOWN 18]
+Evidence still needed: Develop strategies aligned to the problem statement and contributing factors; gather supervisor and educational partner feedback; revise the strategies; and describe buy-in steps and anticipated implications.
+
+[MARKDOWN 19]
+Step 4D: Reflect on feedback, equity-driven leadership, strengths, growth areas, and professional learning goals.
+
+[MARKDOWN 20]
+Packet support: The packet provides an evidence trail candidates can reference when reflecting on how they moved from public data to local inquiry, strategy development, feedback, and reflection.
+
+[MARKDOWN 21]
+Evidence still needed: Explain the feedback-provider selection and feedback's effect on buy-in. Use evidence from Steps 1-3 to explain learning, leadership implications, strengths, growth areas, and specific professional learning goals.
+
+[MARKDOWN 22]
+Use verified quantitative outcomes to describe the pattern. Use local records, artifacts, observations, and student, family, and staff perspectives to investigate possible contributing conditions. Public data alone does not establish cause.
+
+[MARKDOWN 23]
+Your next step: select local records, artifacts, and educational partner perspectives that directly address a verified pattern. No local evidence or partner feedback has been supplied by this app.
+
+[MARKDOWN 24]
+Choose a defensible student outcome concern and a clearly identified student group or population. Check trends, comparisons, subgroup availability, and local evidence before narrowing the focus.
+
+[MARKDOWN 25]
+Use this guide after reviewing the full indicator set and before drafting a final leadership equity inquiry response. The purpose is to move from public indicator evidence to a focused preliminary area of educational need without overclaiming root cause or intervention impact.
+
+[MARKDOWN 26]
+Claim Strength Guide
+
+[MARKDOWN 27]
+Do / Do Not Claim in leadership inquiry
+
+[MARKDOWN 28]
+Leadership inquiry alignment reminder: a defensible leadership inquiry response should move from student outcome evidence to an equity-centered preliminary focus, then identify the local evidence and stakeholder input needed to understand contributing conditions. It should not jump directly from public data to a root-cause claim or an intervention plan.
+
+[MARKDOWN 29]
+Public data for Jordan High report attendance outcomes for local review. In 2024-25, the schoolwide chronic absenteeism rate was 49.1%, representing 430 chronically absent students out of 875 eligible students, which was above all listed system comparison points. The strongest larger-subgroup attendance equity signal was African American, with a chronic absenteeism rate of 62.1%, 13.0 percentage points above the schoolwide rate (100 chronically absent out of 161 eligible students). Smaller-n elevated patterns also require cautious local review: Foster Youth: 50.0%, +0.9 percentage points from schoolwide (7 chronically absent out of 14 eligible students). This evidence supports further leadership inquiry, but it does not establish root cause, evaluate educator effectiveness, or determine the final inquiry focus.
+
+[MARKDOWN 30]
+Unsupported causal claim: the school result proves that a particular teaching practice caused this outcome. The public records do not establish that explanation.
+
+[MARKDOWN 31]
+Your next step: verify the source and denominator, identify a tentative focus, and investigate contributing conditions. This example does not select your final inquiry focus.
+
+[MARKDOWN 32]
+Include people with relevant experience of the selected concern. Explain whom you engaged, why their perspectives matter, what feedback they offered, and how it informed your inquiry and proposed actions.
+
+[MARKDOWN 33]
+IDENTIFIED WORKING EVIDENCE — NOT A CALAPA SUBMISSION. School names and CDS identifiers are retained here for source verification. Before submission, the candidate must use the current official templates, provide their own authored analysis, and remove actual school/person names and personally identifying information from submitted evidence, including identifiers that reveal the school. Do not submit this generated packet or its draft narrative as a completed assessment. Version 09 reference: https://docs.ctc.ca.gov/Document/Download/31322
+
+[MARKDOWN 34]
+Follow your program and current assessment instructions. Do not upload identifiable student records to this public-data tool. De-identify candidate submission materials as required.
+
+[MARKDOWN 35]
+Official CalAPA assessment information (https://www.ctcexams.nesinc.com/TestView.aspx?f=HTML_FRAG/CalAPA_TestPage.html)
+
+[MARKDOWN 36]
+Use the current guide supplied by your program. The app’s retained guide reference is not a guarantee that it is the latest version.
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## TABLES AND DATAFRAMES
+
+[TABLE 1]
+Evidence area Selected-school data status              Available years Latest year    Usable quantitative years                                                               Recent-year check                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Verification note
+          Indicator 1: Attendance and Engagement                   Available 2021, 2022, 2023, 2024, 2025        2025 2021, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required Measure: CDE DataQuest chronic absenteeism for the reported school/grade population. The Dashboard Chronic Absenteeism Indicator covers TK–8; a high-school DataQuest rate is not that Dashboard indicator. School results include DASS and non-DASS schools; system references cover all DASS classifications. The 2020–21 file lacked a DASS field, so its stored No is an import placeholder, not an observed classification. Sources: https://www.cde.ca.gov/ds/ad/fsabd.asp ; https://www.cde.ca.gov/ta/ac/cm/dashboardchronic.asp
+              Indicator 2: ELA Academic Outcomes                   Available 2021, 2022, 2023, 2024, 2025        2025 2021, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required                                                                                                                        Measure: Smarter Balanced percent meeting/exceeding standard among students with valid scores, not the Dashboard Academic Indicator average Distance from Standard. This dataset does not include CAA results. All-tested-grades system aggregates can have different grade compositions; they are descriptive context, not matched-grade comparisons. Source: https://www.cde.ca.gov/ta/ac/cm/dashboardacad.asp
+             Indicator 3: Math Academic Outcomes                   Available 2021, 2022, 2023, 2024, 2025        2025 2021, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required                                                                                                                        Measure: Smarter Balanced percent meeting/exceeding standard among students with valid scores, not the Dashboard Academic Indicator average Distance from Standard. This dataset does not include CAA results. All-tested-grades system aggregates can have different grade compositions; they are descriptive context, not matched-grade comparisons. Source: https://www.cde.ca.gov/ta/ac/cm/dashboardacad.asp
+Indicator 4: Local Conditions and System Context                   Available 2021, 2022, 2023, 2024, 2025        2025 2021, 2022, 2023, 2024, 2025                     Context only; not a state-indicator readiness determination                                                                                                                                                                                                                                                 Met means the LEA satisfied the applicable annual measurement and reporting standards, including public-board and Dashboard reporting. It does not certify favorable school climate, engagement, or other student outcomes. Source: https://www.cde.ca.gov/Ta/ac/cm/localindicators.asp
+           Indicator 5: English Learner Progress                   Available 2019, 2022, 2023, 2024, 2025        2025 2019, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required                                                                                                                                                                                                                                                                                                                                                                                                                                                         Participation-adjusted ELPI; enrollment and LTEL context are separate measures.
+   Indicator 6: Suspension and Discipline Equity                   Available 2019, 2022, 2023, 2024, 2025        2025 2019, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Verify certification flags, denominator, and source-year definitions.
+ Indicator 7: Graduation and Completion Evidence                   Available 2021, 2022, 2023, 2024, 2025        2025 2021, 2022, 2023, 2024, 2025 Three recent reporting years present; source verification and analysis required                                                                                                                                                                                                                                                                                                                                                                                                                                                    Cohort reporting may not apply to this school; verify source-year cohort definition.
+
+[TABLE 2]
+Rubric                                                                                                                                       Dashboard evidence support                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Candidate must add                                                                           Readiness judgment
+1.1 - Quantitative data and student group                      Displays source-labeled public measures and available trends; numbered app sections are not a list of equivalent official state indicators. CalAPA Cycle 1 Version 09 requires the three most recent years of related quantitative evidence for the selected state indicator. If those years cannot be accessed, choose another indicator. Related evidence may come from sources beyond the Dashboard. The loaded-data check is not a candidate-readiness certification; verify official releases and local evidence. Source: https://docs.ctc.ca.gov/Document/Download/31322 Justify one student group and connect the selection to school vision, mission, and/or goals. History available for some measures — candidate selection and external verification required
+               1.2 - Qualitative evidence Identifies local evidence sources to collect, such as interviews, observations, surveys, records, student work, implementation artifacts, and stakeholder input.                                                                                                                                                                                                                                                                                                                                                            Collect and analyze at least three different relevant qualitative sources and explain how their findings relate to the quantitative pattern and student group issue.                                                                     Prompted, not completed.
+                1.3 - Equity gap analysis                                     Shows outcome gaps, trends, subgroup denominators, comparison points, and interpretation guardrails for equity-gap analysis.                                                                                                                                                                                                                                                                                                                                                      Write the equity-gap analysis using quantitative and qualitative evidence, avoid bias or deficit framing, and link the equity gap to school vision, mission, and/or goals.                                               Partially supported; narrative still required.
+               1.4 - Contributing factors                 Names local evidence needed before making claims and distinguishes public outcome patterns from possible institutional or structural conditions.                                                                                                                                                                                                                                                                                                                                                                             Use local evidence and research to determine plausible institutional and/or structural contributing factors within the school's scope of influence.                                                Guardrails provided; local analysis required.
+                  1.5 - Problem statement                                        Provides a defensible preliminary outcome concern and student-group evidence that can inform a focused problem statement.                                                                                                                                                                                                                                                                                                                                                                                                               Draft a feasible problem statement responsive to the selected student group's achievement and/or well-being need.                                                            Scaffolded; candidate must write.
+                         1.6 - Strategies                                  Keeps strategy thinking anchored to the selected outcome pattern, equity signal, and contributing-factor evidence still needed.                                                                                                                                                                                                                                                                                                                                                                                                   Develop feasible strategies aligned to the problem statement, contributing factors, and school vision, mission, and/or goals.                                                                  Not completed by dashboard.
+                1.7 - Feedback and buy-in                                                                 Identifies evidence and stakeholder groups that can inform feedback and implementation planning.                                                                                                                                                                                                                                                                                                                        Solicit targeted feedback from an administrator, supervisor, or educational leader familiar with the school context; revise strategies, plan buy-in, and describe realistic implementation implications.                                                                  Not completed by dashboard.
+                         1.8 - Reflection                                                          Provides an evidence trail from public data to local inquiry questions that can be cited in reflection.                                                                                                                                                                                                                                                                                                                        Explain why you selected the feedback provider and how feedback changed your approach to buy-in. Reflect on equity-driven leadership learning, strengths, areas for growth, and evidence from Steps 1-3.                                                                  Not completed by dashboard.
+
+[TABLE 3]
+Inquiry move                                                                                           What the dashboard provides                                                                                                 What still must happen locally
+                               1. Public evidence reviewed          State-indicator evidence, available trends, comparison points, subgroup gaps, and interpretation guardrails.                                                     Verify official figures and choose one defensible student outcome concern.
+                                 2. Student group selected                            Subgroup rates, counts, gaps, and denominator cautions where public records are available.                            Select and justify one student group using verified data, local context, and asset-based reasoning.
+                               3. Local evidence collected Prompts for records, interviews, observations, surveys, student work, implementation evidence, and stakeholder input.                     Collect and analyze qualitative evidence that explains how the public-data pattern is experienced locally.
+                                    4. Equity gap analyzed    Trends, comparison points, subgroup gaps, and small-n cautions that can support a defensible preliminary analysis.            Write the equity-gap analysis using quantitative and qualitative evidence while avoiding unsupported causal claims.
+                     5. Contributing conditions identified            Guardrails that distinguish outcome evidence from root-cause claims and point to local systems to examine.                        Use local evidence and research to identify plausible institutional or structural contributing factors.
+6. Problem, strategies, feedback, and reflection completed         An evidence trail that can anchor the problem statement, strategy design, feedback, revision, and reflection. Draft the problem statement, propose strategies, gather feedback, revise, plan for buy-in, and reflect on leadership learning.
+
+[TABLE 4]
+Evidence lens                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Preliminary finding                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Suggested interpretation frame                                                                                                                                                                                                                                Local evidence to verify
+             1. Attendance: schoolwide outcome                                                                                                                                                                                                                                                                                                                              Chronic absenteeism was 49.1%, representing 430 chronically absent students out of 875 eligible students. Comparison points for the same year were District: 23.9%; County: 20.5%; State: 19.4%.                                                                                                                                                                                                                                                                                                                                  Review the attendance outcome alongside all available domains. An exact zero does not establish an attendance concern. Verify elevated comparisons, persistence, denominators, and local context before selecting a focus.                                                                                                                               Attendance procedures, tiered intervention records, family contact logs, attendance team notes, and official source data.
+      2. Attendance: subgroup signal (n >= 30)                                                                                                                                                                                                                                                                                                                                                                                                       African American: 62.1%, +13.0 percentage points from schoolwide (100 chronically absent out of 161 eligible students).                                                                                                                                                                                                                                                                                                                                                                                                                              This may support an attendance equity inquiry, but it should be framed as a question for local verification, not a conclusion.                                                                                                                         Student and family input, outreach records, belonging or climate data, intervention access, and subgroup participation records.
+                3. Attendance: small-n caution                                                                                                                                                                                                                                                                                                                                                                                                               Foster Youth: 50.0%, +0.9 percentage points from schoolwide (7 chronically absent out of 14 eligible students).                                                                                                                                                                                                                                                                                                                                                                                                                      Elevated small-n rates may matter for individual students or targeted supports, but should not be overgeneralized as the lead pattern.                                                                                                                                             Individualized local review, official records, case context where appropriate, and stakeholder perspective.
+                      4. ELA: academic outcome                                                              In 2024-25, 55.3% met or exceeded standard. 123 valid scores. Source assessment coverage: 123 tested / 126 enrolled. These counts are not a certified Dashboard participation-rate calculation; verify participation rules and local records. Students with Disabilities: 21.7%, 33.5 percentage points below schoolwide (n=23). Small-group result; interpret cautiously. Students without Disabilities: 63.0%, 7.7 percentage points above schoolwide (n=100). Consider reported results and subgroup differences alongside other indicators. They do not establish cause or determine the inquiry focus. Measure: Smarter Balanced percent meeting/exceeding standard among students with valid scores, not the Dashboard Academic Indicator average Distance from Standard. This dataset does not include CAA results. All-tested-grades system aggregates can have different grade compositions; they are descriptive context, not matched-grade comparisons. Source: https://www.cde.ca.gov/ta/ac/cm/dashboardacad.asp                                                                                                                  Official CAASPP results, tested grades, score denominators, student work, instructional access, and student/family/staff perspectives.
+                     5. Math: academic outcome                                                                                         In 2024-25, 24.8% met or exceeded standard. 121 valid scores. Source assessment coverage: 121 tested / 126 enrolled. These counts are not a certified Dashboard participation-rate calculation; verify participation rules and local records. Black or African American: 5.9%, 18.9 percentage points below schoolwide (n=17). Small-group result; interpret cautiously. Male: 36.1%, 11.3 percentage points above schoolwide (n=61). Consider reported results and subgroup differences alongside other indicators. They do not establish cause or determine the inquiry focus. Measure: Smarter Balanced percent meeting/exceeding standard among students with valid scores, not the Dashboard Academic Indicator average Distance from Standard. This dataset does not include CAA results. All-tested-grades system aggregates can have different grade compositions; they are descriptive context, not matched-grade comparisons. Source: https://www.cde.ca.gov/ta/ac/cm/dashboardacad.asp                                                                                                                  Official CAASPP results, tested grades, score denominators, student work, instructional access, and student/family/staff perspectives.
+       6. English learners: enrollment context                                                                                                           For 2025-26, the stored context counts were 120 current English learners and 349 students in the broader Fluent English Proficient context category. The combined EL/FEP context count was 469. These counts describe language-access context and should not be interpreted as total school enrollment or as a current-year reclassification total. EL language-source row present; FEP language-source row present                                                                                                                                                                                                                                                                                                                                                                                                                                Use this as language-access context; do not treat it as total school enrollment or as a current-year reclassification count.                                                                                                                       Enrollment records, language-status records, reclassification records, RFEP monitoring rosters, and official source verification.
+    7. English learners: home-language context                                                                                                                                                                                                                                                                               The largest reported English learner language groups for 2025-26 were Spanish; Castilian (120). These counts can inform language-access questions and stakeholder outreach; they should not be used as evidence of academic need or root cause.                                                                                                                                                                                                                                                                                                                                                                                                                      Use this evidence to inform language-access questions, family outreach, translation/interpretation review, and stakeholder engagement.                                                                                                                         Home-language survey records, family engagement artifacts, interpretation/translation access records, and student/family input.
+8. English learners: LTEL/At-Risk LTEL context                                                                           For 2025-26, reported grade-level patterns included grade 09: 2 At-Risk LTEL and 22 LTEL; grade 10: 4 At-Risk LTEL and 13 LTEL; grade 11: 1 At-Risk LTEL and 0 LTEL; grade 12: 0 At-Risk LTEL and 1 LTEL. Because EL, RFEP, duration, At-Risk LTEL, and LTEL categories may overlap, these counts should not be summed across columns. Apply the separate LTEL and At-Risk definitions above; this is Census Day context, not the ELPI denominator.                                                                                                                                                                                                                                                                                                                                                                                           Use this as a grade-level language-development persistence signal. Because categories may overlap, do not sum EL, RFEP, duration, At-Risk LTEL, and LTEL columns.                                                                                                                 LTEL/At-Risk LTEL lists, ELD course placement, ELPAC histories, RFEP monitoring records, student work, and ELD implementation evidence.
+     9. English learners: ELPI progress signal                                                                                                                                                                          For reporting year 2025 (2024-25), the English Learners row reported official ELPI status 55.6%, with numerator 70 and accountability denominator 126; Dashboard color Blue. Source reports 0 denominator additions for participation below 95%. Verify the source-year participation and progress rules: https://www.cde.ca.gov/ta/ac/cm/elpi24.asp                                                                                                                                                                                                                                                                                                                    Use this as a participation-adjusted Dashboard accountability signal, not a simple fraction of all EL students making progress. Verify participation and progress components. Red prompts local review but does not identify root cause. Summative ELPAC reports, reclassification rosters, RFEP monitoring records, LTEL/At-Risk LTEL lists, designated and integrated ELD schedules, language-support placement records, student work, classroom observations, and student/family/staff input.
+          10. Suspension and discipline equity                                                                                                                                                                                                                                                                                                                                                                                                        In 2025, the schoolwide suspension rate was 0.0%, representing 0 suspended students out of 940 cumulative enrollment.                                                                                                                                                                                                                                                                                                                                                                   This may support a discipline-equity inquiry, especially when subgroup suspension rates are substantially above the schoolwide rate. These data identify outcome patterns, not root cause.  Discipline referrals, incident categories, classroom-managed versus office-managed referrals, supervision maps, school climate data, restorative practice records, counseling/support referrals, student/family/staff input, and stakeholder feedback.
+            11. Graduation: schoolwide outcome Graduation was 85.9%, representing 170 graduates out of a Dashboard denominator of 198. This is the Dashboard combined four-/five-year accountability measure, not a four-year-only rate. Its denominator combines the current graduating cohort with fifth-year graduates from the prior class; it does not include all fifth-year students. The source includes 4 fifth-year graduates. Source: https://www.cde.ca.gov/ta/ac/cm/gradindicator24.asp Comparison points for the same year were District: 86.5%; State: 87.8%.                                                                                                                                                                                                                                                                                                                                                                                Use this as a completion outcome lens. Lower graduation rates, declining trends, or below-schoolwide subgroup rates may support local review, but they do not explain cause.                                   Credit completion, transcript patterns, course access, counseling/intervention records, attendance and engagement records, A-G progress where relevant, student/family/staff input, and official source verification.
+    12. Graduation: subgroup completion signal                                                                                                                                                                                                                                                                                                                                                                      English Learners had a graduation rate of 70.8%, -15.1 percentage points from the schoolwide rate, based on 65 in the accountability denominator (n=65).                                                                                                                                                                                                                                                                                                                                                                              This may support a completion-equity inquiry, especially when the subgroup rate is below the schoolwide rate. Frame it as a question for local verification, not a conclusion.                       Transcript review, credit recovery records, course access, ELD/RFEP monitoring where relevant, counseling contacts, intervention participation, attendance patterns, student/family input, and postsecondary transition supports.
+             13. Evidence needed before claims                                                                                                                                                                                                                                                                                                                                                                                                                                                   Public data identify a pattern but do not explain why the pattern occurred.                                                                                                                                                                                                                                                                                                                                                                                                                                                   Move from 'what pattern exists?' to 'what local conditions may be contributing?' before making any claim.                                                                                                                              Student/family/staff input, implementation evidence, intervention records, climate data, and official source verification.
+
+[TABLE 5]
+Inquiry Move                                                                                                                                  Use These Indicators                                                                                                                                                                                   Student Leadership Move
+1. Identify the strongest student outcome pattern Indicator 1 chronic absenteeism, Indicator 2 ELA, Indicator 3 Math, Indicator 5 English learner progress/language access, and Indicator 6 suspension.                                              Name the outcome pattern that is most defensible from the public data: schoolwide concern, trend, system comparison, subgroup gap, or a focused combination.
+            2. Check for equity-centered evidence                                               Subgroup gap tables for attendance, ELA, Math, English learner context where available, and suspension.       Look for a labeled student group with a meaningful difference from the schoolwide result. If subgroup evidence is limited, say that directly and collect local evidence before narrowing the focus.
+     3. Connect outcome evidence to local context                                                               Indicator 4 Local Indicators, historical Not Met records, and local evidence checklist. Use Local Indicators to decide what local systems to inspect next, such as family engagement, school climate, standards implementation, course access, attendance intervention, or instructional support.
+             4. Draft a preliminary inquiry focus                                                                           The draft leadership equity inquiry statement and local evidence checklist.            Write a preliminary focus that names the student outcome, the student group or population, the local evidence to review, and the stakeholder perspectives needed before making a causal claim.
+
+[TABLE 6]
+Claim Strength                                                                                                                           Evidence Pattern                                                                                           Appropriate Language
+  Strong descriptive claim The public outcome data show a clear schoolwide concern, trend, system comparison, or subgroup gap; local evidence has also been reviewed.                       The evidence indicates or shows a student outcome pattern that warrants focused inquiry.
+Moderate preliminary claim                  The public outcome data show a pattern, but local records, artifacts, or stakeholder evidence still need to be collected.              The evidence suggests a preliminary area of need that should be investigated with local evidence.
+  Context-only observation   Local Indicator evidence or system comparison context is present, but it does not directly establish a student outcome pattern or cause. This context points to a local system or condition to examine next; it does not explain the outcome by itself.
+         Unsupported claim  The statement names a cause, intervention effect, teacher effectiveness conclusion, or student/family explanation without local evidence.                                Do not make this claim yet. Reframe it as a question for local evidence review.
+
+[TABLE 7]
+Do Claim                                                                                                                     Do Not Claim
+The public data show a student outcome pattern in attendance, ELA, Math, or a subgroup result.                                                                                  The public data prove why the pattern occurred.
+                      A subgroup gap may identify an equity-centered area for further inquiry.                                                                       A student group characteristic caused the outcome pattern.
+            Local Indicators suggest systems, conditions, and evidence sources to investigate.                                                                  A Local Indicator status explains the school outcome by itself.
+        Local evidence is needed before naming root cause or choosing an improvement strategy. A specific program, curriculum, practice, or staff action caused the outcome unless local evidence directly supports that claim.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download CalAPA Cycle 1 Support (PDF); value=False
+download_button; label=Download CalAPA Cycle 1 Support (Word); value=False
+radio; label=Choose a page; value=CalAPA Cycle 1 Support; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

@@ -1,0 +1,450 @@
+KEY: 040
+TITLE: Framework - Overview
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:27.360894+00:00
+
+## TITLES
+
+[TITLES 1]
+Theoretical / Conceptual Framework
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Graduate research and project development | Theory → concepts → evidence → leadership decisions
+
+[CAPTIONS 3]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+<style>
+.st-key-framework_content table {
+  width: 100%; table-layout: fixed; border-collapse: collapse;
+  font-size: .97rem; line-height: 1.55; margin: 1rem 0 1.35rem;
+}
+.st-key-framework_content th, .st-key-framework_content td {
+  white-space: normal !important; overflow-wrap: anywhere;
+  word-break: normal; vertical-align: top; text-align: left;
+  padding: .65rem .75rem; border: 1px solid rgba(128,128,128,.35);
+}
+.st-key-framework_content th { font-weight: 650; }
+.st-key-framework_content p, .st-key-framework_content li { line-height: 1.65; }
+.st-key-framework_content h2 { margin-top: 1.4rem; }
+.st-key-framework_content h3 { margin-top: 1.25rem; }
+.st-key-framework_content a { overflow-wrap: anywhere; }
+.st-key-framework_content blockquote { padding: .7rem 1rem; }
+.st-key-framework_section_buttons button { min-height: 3rem; }
+.st-key-framework_section_buttons button p { white-space: normal; }
+@media (max-width: 640px) {
+  .st-key-framework_content table { font-size: .86rem; }
+  .st-key-framework_content th, .st-key-framework_content td { padding: .4rem; }
+}
+</style>
+
+[MARKDOWN 3]
+## Overview
+
+**Constructing a theoretical and conceptual framework**
+
+### How to use these pages
+
+Start with the Overview, then select **Elementary School** for the qualitative example, **Middle School** for the quantitative example, **High School** for convergent mixed methods, or **Project** for the administrator professional-development example. The school labels organize the Epsilon teaching cases; they do not mean that a particular methodology belongs only at that school level.
+
+Use the examples to understand why a framework changes a research or project decision. Do not copy their theories, variables, sample targets, or proposed relationships unless those choices fit your own problem. In an actual study or project, replace fictional case material with appropriately authorized evidence and identify what was genuinely collected, developed, or evaluated.
+
+For teaching, mentoring, or proposal review, ask the student to trace one decision all the way through the inquiry. The central question is not how many theories are cited, but whether a named perspective has a defensible consequence for the questions, evidence, analysis, and claims.
+
+**The common architecture**
+
+**Problem → Theoretical commitments → Study-specific concepts and relationships → Questions → Evidence and methods → Analysis → Claim boundaries → Leadership implications**
+
+This is a roadmap for reasoning, not a causal model or a requirement that every inquiry proceed in a straight line. The pages retain the same six-question leadership model while demonstrating different methodological consequences. The distinction between framework and methodology is consistent with the working definitions discussed by Varpio et al. (2020); the instructional roadmap itself is this app’s synthesis.
+
+### From an observed problem to a defensible inquiry
+
+A graduate research project often begins with something the researcher can describe but cannot yet explain. Attendance differs among student groups. Academic results vary across schools. Some students experience suspension more frequently than others. A support program exists, but the researcher does not yet know how students experience it or whether its implementation addresses the problem.
+
+The difficult step comes next: **What does the observed pattern permit the researcher to conclude?**
+
+Research on educational data use shows why this question matters. Dodman et al. (2023) argue that educators need both data literacy and equity literacy: the ability to interpret evidence must be accompanied by attention to the systemic and structural conditions surrounding it. Their study of a yearlong professional-development effort found changes in participants’ understandings of data and equity, while also emphasizing that this learning requires continued development. A table of subgroup differences does not, by itself, provide that preparation.
+
+Roegman et al. (2022) similarly found that principals’ approaches to data use were connected to how their districts understood equity. Their analysis considered access, achievement, identity, and power—not achievement differences alone. This suggests that researchers’ underlying conceptions influence which problems they notice and which questions they ask.
+
+A theoretical framework makes those intellectual commitments explicit. A conceptual framework explains how they will shape the particular inquiry.
+
+The sections below use the application’s evidence-to-action approach as a worked example. The six-question sequence comes from the project’s white paper; the supporting scholarship explains and strengthens its components. The sequence is presented as an instructional synthesis, not as an independently validated theory or evidence that using the application improves leadership practice.
+
+> **The goal is not to attach theory to a completed analysis. The goal is to explain how theory helps determine what will be investigated, how it will be investigated, and what the resulting evidence can support.**
+
+### 1. What distinguishes a theoretical framework from a conceptual framework?
+
+Researchers do not use these terms identically across disciplines or methodological traditions. Varpio et al. (2020) distinguish theory, theoretical frameworks, and conceptual frameworks while explaining that their use differs between deductive and inductive approaches. Therefore, the distinction used here is a working convention for organizing graduate inquiry, not a rule that every thesis must follow in exactly the same way.
+
+In this guide, a **theoretical framework** explains the selected scholarly perspectives and how their concepts and propositions apply to the problem. A **conceptual framework** presents the researcher’s study-specific organization of concepts, proposed relationships, contextual considerations, and evidence needs. Neither is simply a list of variables or citations.
+
+A quick diagnostic is to ask two different questions. **Theoretical framework:** Which scholarly explanation or perspective guides how I understand the problem? **Conceptual framework:** How have I organized the particular concepts, relationships, context, and evidence needs of this inquiry? A conceptual framework can be expressed through a narrative, a visual representation, or both, subject to the requirements of the student’s program. A diagram without an explanation of its relationships is insufficient (Rodriguez et al., 2023; Varpio et al., 2020).
+
+**Table 1. Three connected parts of the inquiry**
+
+| **Component** | **Main question** | **Example** |
+| --- | --- | --- |
+| **Theoretical framework** | Which scholarly ideas guide the interpretation of this problem? | Community Cultural Wealth directs attention to community assets rather than presumed deficiencies. |
+| **Conceptual framework** | Which concepts and relationships will this study investigate? | The study examines attendance alongside institutional responsiveness, access to support, and family experiences. |
+| **Evidence and methods** | How will those concepts and questions be examined? | Attendance records, interviews, observations, communication artifacts, and implementation records. |
+
+*Note.* These working distinctions draw on Varpio et al. (2020) and Rodriguez et al. (2023). The attendance example is an instructional application.
+
+The distinction prevents an important error. Attendance, mathematics performance, suspension, and graduation are not theories. They are outcome domains or measures. A student needs to explain which scholarly ideas guide the interpretation of those outcomes.
+
+Throughout these pages, **reported population** names the population represented by a displayed data row; **student group** names a category relevant to the inquiry; and **subgroup** names a group in relation to a stated larger population. These terms do not imply that categories are mutually exclusive. Source labels are retained, while their meaning and limits are explained in the examples.
+
+Rodriguez et al. (2023), in their review of framework use in chemistry and related discipline-based education research, emphasize that frameworks should influence methodological and interpretive decisions. Although their review is not about school leadership, its methodological implication is useful here: a framework should remain visible in the questions, analysis, and interpretation—not disappear after the literature review.
+
+### 2. Selecting theory: Ask what it helps you see—and what it leaves out
+
+A theoretical framework should be selected because it fits the inquiry, not because the theory is familiar or frequently cited.
+
+Begin with the problem and ask what needs to be understood. Is the inquiry concerned with students’ experiences, institutional decisions, access to opportunities, organizational implementation, or the interpretation of community knowledge? Different theories may direct attention toward different aspects of the same situation.
+
+Stalmeijer and Varpio (2026) illustrate this point by applying different theories to a fictional case. Their methodological guide shows how theory selection changes the research problem, questions, and features of the situation brought into focus. They also emphasize understanding a theory’s concepts and propositions before applying it. Their examples concern health-professions education; the relevant lesson for this application is about research design, not evidence of effects in K–12 schools.
+
+For a graduate student, a useful sentence is:
+
+> **This perspective is appropriate because it directs the inquiry toward \_\_\_\_\_\_, which is necessary to understand \_\_\_\_\_\_.**
+
+Completing that sentence requires more than defining a theory. It requires explaining its purpose in the study.
+
+Using several perspectives also requires an explanation of their relationships. Rios-Aguilar and Neri (2023) examine both connections and tensions among Funds of Knowledge, Community Cultural Wealth, and Bourdieuan understandings of capital. Their analysis cautions against treating related frameworks as interchangeable simply because they share an interest in educational inequality.
+
+The model used here therefore assigns distinct roles to its components. Community Cultural Wealth and Funds of Knowledge inform how communities and knowledge are understood. Culturally Responsive School Leadership directs attention toward institutional practices. Ethical data stewardship supplies commitments governing evidence use. Improvement Science contributes an approach to disciplined change and learning.
+
+These are complementary contributions, but they are not all the same kind of theory.
+
+To keep their roles clear, distinguish a **primary theoretical perspective**, a **complementary theoretical or conceptual perspective**, and a **methodological or ethical commitment**. The first provides the principal interpretive lens; the second contributes a distinct concept or emphasis; the third governs how the inquiry is conducted or how decisions are made. These are roles within a particular study, not rankings of scholarly value. Across the Epsilon examples, Culturally Responsive School Leadership is the primary leadership perspective. Complementary perspectives vary by example: Community Cultural Wealth supplies an asset-based, racialized lens where it is explicitly used, while the Middle School example emphasizes school belonging and equity-oriented quantitative inquiry. Ethical stewardship governs participation and evidence use. Improvement Science is an improvement-and-action orientation. Constructivist grounded theory, an observational quantitative design, and convergent mixed methods describe methodological choices—not additional theories that every finding must confirm.
+
+### 3. Building the theoretical argument
+
+#### Community Cultural Wealth: Refusing the deficit interpretation
+
+Yosso’s (2005) Community Cultural Wealth framework emerged as a critical race theory challenge to deficit interpretations of Communities of Color. It identifies aspirational, linguistic, familial, social, navigational, and resistant forms of capital. Its purpose is not simply to replace negative descriptions with positive ones; it changes whose knowledge and capacities are recognized within educational inquiry.
+
+More recently, Acevedo and Solorzano (2023) examined Community Cultural Wealth as a resource for understanding how Students of Color navigate educational settings and racism. Their analysis retains the framework’s attention to racialized conditions. It should therefore not be reduced to a generic statement that every student has strengths.
+
+Applied to an attendance inquiry, this perspective discourages treating an unfavorable outcome as evidence that families lack commitment to education. An attendance rate does not measure commitment.
+
+The conceptual questions become more productive: What resources do families mobilize? What knowledge does the school recognize? How do institutional practices support or constrain students’ navigation of school?
+
+These are questions generated by the framework. The theory does not establish the answers in advance.
+
+#### Culturally Responsive School Leadership: Investigating the institution
+
+Khalifa et al. (2016) identify critical self-awareness, culturally responsive teaching and school environments, and community advocacy as important elements of Culturally Responsive School Leadership. Their synthesis directs attention beyond individual intentions toward the conditions and practices of the school.
+
+Mansfield and Lambrinou (2024) extend this conversation through a critical analysis of a district’s five-year plan. They integrate culturally responsive leadership, culturally responsive teaching, and student voice, arguing that commitment by individual principals is insufficient without broader organizational support. Their study offers an example of using an integrated framework to analyze institutional planning.
+
+For the graduate researcher, the institution becomes something to investigate rather than a neutral background. Possible concepts include responsiveness, access, communication, placement, instructional opportunity, and implementation.
+
+That does not mean the researcher should replace unsupported family blame with unsupported institutional blame. A particular policy’s contribution to a disparity remains an empirical question. The framework ensures that organizational conditions are examined; it does not prove that a selected condition caused the outcome.
+
+#### Funds of Knowledge: Expanding the evidentiary record
+
+Funds of Knowledge and Community Cultural Wealth both challenge narrow institutional understandings of learners, but their emphases and intellectual histories differ. Rios-Aguilar and Neri (2023) argue that educational practice must do more than acknowledge learners’ knowledge and wealth: it must engage substantively with them while examining the structures through which knowledge is valued.
+
+For this inquiry model, the practical implication is that institutional records are incomplete representations of students’ lives. Records may document absence without explaining how students experienced transportation, communication, caregiving, or school support.
+
+Stanley and Gilzene (2023) offer a complementary model of responsible community engagement organized around listening, engaging, advocating, and partnering. Their conceptual article treats community-based assets as resources for educational leadership, rather than positioning communities only as recipients of institutional decisions.
+
+Accordingly, the proposed inquiry asks:
+
+> **Whose knowledge could change our understanding of the problem?**
+
+A family account is not automatically representative of every family. Nevertheless, an account can identify an overlooked condition, challenge a question’s assumptions, or reveal why additional inquiry is needed. The researcher should explain whose perspectives are represented and avoid turning a limited set of accounts into a universal conclusion.
+
+#### Ethical data stewardship: Governing evidence, not merely securing files
+
+Ethical inquiry involves more than protecting a password.
+
+Phillips et al. (2024) examine the ethical dimensions of educational data through positionality, values, presence, representation, and form. Their argument draws attention to how data represent people and how the researcher’s choices shape the resulting account. This supports examining not only whether information is accurate, but also how people are portrayed through it.
+
+Popescu et al. (2024), studying data stewards in the California State University system, show how organizational roles and constraints can complicate privacy practices. Their own study also addresses the risk that a senior administrator’s involvement could influence participation: that coauthor did not collect interviews or access raw interview data. This provides a concrete example of treating power relationships as part of research ethics.
+
+In the application’s instructional model, these concerns become practical questions about necessary data collection, voluntary participation, language access, confidentiality, small-group reporting, and the return of findings. Those safeguards are commitments of the proposed inquiry, not claims that the software automatically guarantees them.
+
+#### Improvement Science: Treating action as an opportunity to learn
+
+Bonney et al. (2025) examined how EdD students understood and applied Improvement Science. Participants described opportunities to involve communities and develop collaborative approaches, alongside difficulties resisting quick solutions and navigating political and relational conditions. The study makes clear that knowing an improvement process does not eliminate the challenges of using it.
+
+For this application, Improvement Science contributes a question rather than a promise:
+
+> **What change would address the condition supported by our inquiry, and how would we learn whether it helps?**
+
+A proposed action should identify the condition it is intended to address, what will be observed, and what would prompt revision. This does not require waiting for perfect certainty before every supportive response. It requires distinguishing a limited, monitored action under uncertainty from a strong claim that a proven cause has been identified.
+
+**Table 2. How the perspectives contribute to the framework**
+
+| Perspective or commitment | Role in these examples | What it changes in the inquiry |
+|---|---|---|
+| **Community Cultural Wealth** | Complementary theoretical perspective on racialized recognition of community assets | Investigate capacities and institutional recognition rather than infer deficiency. |
+| **Culturally Responsive School Leadership** | Primary theoretical perspective on institutional responsiveness | Examine school practices, opportunities, relationships, and implementation. |
+| **Funds of Knowledge and community engagement** | Complementary conceptual and participation perspectives, with distinct histories | Include knowledge beyond institutional records that can challenge the working interpretation. |
+| **Ethical data stewardship** | Ethical commitment governing representation, participation, and protection | Examine power, privacy, necessity, and possible harm. |
+| **Improvement Science** | Improvement-and-action orientation | Connect collaborative, problem-specific action to evidence and explicit revision criteria. |
+
+*Note.* This table is an instructional synthesis of the preceding scholarship, not a framework reproduced from one article. Its foundations include Yosso (2005), Khalifa et al. (2016), Rios-Aguilar and Neri (2023), Stanley and Gilzene (2023), Phillips et al. (2024), and Bonney et al. (2025).
+
+### 4. Turning theory into a conceptual framework
+
+The next task is to make the inquiry specific.
+
+Suppose the research problem concerns attendance differences. The framework might identify **institutional responsiveness**, **access to support**, and **student and family experiences** as concepts to investigate. The researcher must explain what each concept means in this setting and what evidence would illuminate it.
+
+This requires attention to the connection between a concept and a measure. Lundberg et al. (2021) argue that quantitative researchers should clearly define the quantity their analysis is intended to estimate and explain how the available evidence informs it. For this application, the practical implication is to distinguish the outcome being described from the broader concept being discussed.
+
+For example, an absenteeism rate is not a direct measure of belonging. Mathematics performance is not, by itself, a measure of access to high-quality instruction. A suspension rate does not explain the decision process leading to suspension.
+
+The following table shows **possible inquiry directions**, not relationships already established by the app.
+
+**Table 3. Connecting indicators to conceptual questions**
+
+| **App evidence** | **Initial descriptive question** | **Additional conceptual question** |
+| --- | --- | --- |
+| **Chronic absenteeism** | Where and when do attendance outcomes differ? | How do students experience access, communication, and attendance support? |
+| **ELA and mathematics** | What academic patterns appear? | What instructional opportunities and support conditions should be examined? |
+| **Suspension** | Which reported groups experience different outcomes? | How do referral routines and disciplinary decisions operate? |
+| **English Learner context and ELPI** | What language-status and progress information is available? | How are language-development opportunities and communication experienced? |
+| **Graduation or completion** | What completion patterns are reported? | What course, scheduling, counseling, or support conditions require inquiry? |
+| **Local Indicators** | What institutional context is reported? | How do reported commitments compare with implementation? |
+
+*Note.* The indicator domains and the distinction between public patterns and local explanatory evidence come from the project’s white paper. The questions in the third column are proposed applications, not findings about Epsilon or any real school.
+
+A conceptual framework must also explain the **relationships** being investigated. Listing attendance, communication, and support in three boxes is not enough.
+
+For this example, the researcher might propose that the accessibility of school communication influences how families understand and obtain available supports, and that students’ experiences of those supports may be relevant to attendance. That is a relationship to investigate, not a conclusion.
+
+The narrative should identify what could challenge it. Families might understand the communications but encounter other barriers. Supports might be accessible but unrelated to the reasons for absence. Different students may experience different conditions.
+
+A framework guides attention without determining the result.
+
+### 5. Connecting the conceptual framework to evidence and claims
+
+The white paper uses five elements to make the reasoning explicit: **claim, evidence, warrant, rival explanation, and boundary**. These are the application’s instructional tools for explaining why a conclusion is—or is not—justified.
+
+Consider the statement:
+
+> English Learners had a higher reported chronic-absenteeism rate than the schoolwide population in the specified year.
+
+This is a descriptive claim. The evidence consists of the relevant records. The warrant depends on the comparability of the measure, reporting period, population, and denominator.
+
+The boundary is that the comparison does not establish the effect of language status, family motivation, or any particular school practice. A descriptive difference and a causal effect are different targets of analysis; specifying the target and the assumptions connecting evidence to it is essential (Lundberg et al., 2021).
+
+Now imagine that interviews suggest difficulties using an attendance-support process. The researcher has additional evidence, but still needs to ask whose experience was captured, what records or observations bear on the account, and whether other explanations remain plausible.
+
+Theory can help focus this analysis while leaving room for contradiction. Stalmeijer and Varpio (2026) specifically discuss seeking disconfirming evidence when theory is brought into qualitative analysis.
+
+The practical rule is:
+
+> **The next claim must be supported by the next appropriate evidence—not by greater confidence in the original assumption.**
+
+### 6. Using the six-question process
+
+The application’s six-question sequence organizes these commitments into a repeatable inquiry process. It should not be presented as a causal model or as a research methodology on its own. It is a scaffold for decisions within a properly designed study.
+
+**Table 4. The six-question inquiry scaffold**
+
+| **Inquiry move** | **Question** | **Expected product** |
+| --- | --- | --- |
+| **Describe** | What does the evidence show? | A bounded, verifiable description |
+| **Locate variation** | Which students experience different outcomes? | A more precise account of the pattern |
+| **State the boundary** | What cannot yet be established? | Claim limits and missing-evidence questions |
+| **Include missing knowledge** | Whose knowledge is absent? | A revised or expanded interpretation |
+| **Investigate the system** | What additional evidence is needed? | A provisional, evidence-supported explanation |
+| **Decide and learn** | What action or further inquiry is justified? | A defensible decision and revision plan |
+
+*Note.* Adapted from the inquiry sequence in the project’s white paper.
+
+The sequence does not require every inquiry to proceed in a straight line. A conversation may change the initial problem definition. A records review may reveal that the comparison was inappropriate. An attempted improvement may expose an assumption that needs reconsideration.
+
+Bonney et al. (2025) found that practitioners’ improvement work involved precisely the kinds of collaborative, relational, and implementation challenges that a simple sequence can conceal. The proposed scaffold should therefore organize reflection without suggesting that completing six steps guarantees an accurate explanation or successful intervention.
+
+#### Follow one complete theory-to-design connection
+
+The following display brings together reasoning that is otherwise distributed across the example. It is a worked alignment example, not a claim that every attendance inquiry must use the same perspective or methods.
+
+**Table 5. One complete alignment example**
+
+| Decision | Attendance-support example |
+|---|---|
+| **Observed problem** | Reported chronic absenteeism differs across populations; the aggregate records do not explain the difference. |
+| **Theoretical lens** | Culturally Responsive School Leadership directs attention to institutional responsiveness (Khalifa et al., 2016). |
+| **Study-specific concept** | How attendance concerns become—or fail to become—usable support. |
+| **Research question** | How do families experience and negotiate access to attendance support? |
+| **Evidence and analytic unit** | Interviews, communication artifacts, procedures, and observations connected to particular attendance-support episodes. |
+| **Analysis** | Compare episodes, decisions, and contradictory cases; develop and qualify a process explanation. |
+| **Permitted claim** | A situated account of the support process supported by the collected evidence. |
+| **Claim not established** | Proof that a specific practice caused the aggregate attendance disparity. |
+
+The theoretical perspective does not prescribe those interview questions word for word. The researcher must explain why these concepts, sources, and comparisons are an appropriate application of the perspective to this problem.
+
+### 7. Writing the theoretical framework as a narrative
+
+A written framework should make an argument about the study, not merely summarize several authors.
+
+The following model is instructional text. It illustrates how scholarship can be connected to research decisions.
+
+#### Model theoretical-framework narrative
+
+> This inquiry uses Community Cultural Wealth and Culturally Responsive School Leadership to examine an attendance disparity without treating the disparity as evidence of student or family deficiency. Community Cultural Wealth directs attention toward the knowledge, relationships, and capacities that Communities of Color bring to educational settings and the ways institutions recognize or disregard those resources (Acevedo & Solorzano, 2023; Yosso, 2005).
+>
+> Culturally Responsive School Leadership complements this orientation by directing attention toward school practices, relationships, and organizational responsiveness (Khalifa et al., 2016). The inquiry therefore examines the institution as well as the reported outcome. Relevant conditions include how attendance supports are communicated, made accessible, and implemented.
+>
+> Community engagement provides an additional commitment: students and families will participate in interpreting the problem rather than being consulted only after its explanation has been selected. Stanley and Gilzene’s (2023) model supports attention to listening, engagement, advocacy, and partnership. These perspectives guide the questions and evidence collection; they do not establish in advance why the attendance disparity occurred.
+
+The example draws on the cited theoretical and conceptual scholarship, rather than reporting findings from a completed attendance study.
+
+Notice the narrowing. The model does not claim to use every perspective in the Overview as an equally central theory. It identifies its principal interpretive perspectives and then explains the role of community engagement.
+
+A student should also discuss tensions and limitations. For example, which experiences might the chosen perspectives illuminate less clearly? Which important question would require another lens? Framework integration should preserve meaningful differences rather than erase them (Rios-Aguilar & Neri, 2023).
+
+### 8. Writing the conceptual framework as the design of this study
+
+The conceptual narrative should make the inquiry more specific. The following model illustrates the study proposed above.
+
+#### Model conceptual-framework narrative
+
+> This study conceptualizes the attendance disparity as a descriptive outcome requiring further investigation. Its central concepts are institutional responsiveness, access to attendance support, and student and family experiences. The framework proposes that communication and implementation practices may shape access to support, while students’ and families’ accounts can illuminate how that access is experienced. These relationships are provisional questions, not established causes.
+>
+> Attendance records will describe the reported pattern and its variation. Communication artifacts, support procedures, and implementation records will document relevant institutional practices. Interviews will examine participants’ experiences, knowledge, and resources. Evidence will be compared to identify agreement, disagreement, and alternative explanations. This organization makes explicit the relationship between the concepts guiding the inquiry and the information used to investigate them (Rodriguez et al., 2023).
+>
+> Participation and reporting will be designed to address power relationships and confidentiality. These concerns will inform recruitment, access to identifiable records, and the presentation of findings, consistent with the attention to organizational power and privacy illustrated by Popescu et al. (2024).
+>
+> Any recommendation will identify the condition it addresses, the evidence supporting that choice, the uncertainty that remains, and the observations that would prompt reconsideration. Where evidence is insufficient, the study will identify the next inquiry rather than present an unsupported explanation.
+
+The citations support the methodological and ethical choices; the proposed relationships and evidence plan are the researcher’s application of those ideas.
+
+This is the difference between using a framework and displaying one. The concepts now influence which records are examined, whose experiences are sought, how evidence is compared, and what the study will refuse to conclude prematurely.
+
+### 9. Applying the Overview to the Epsilon examples
+
+The Epsilon school sections demonstrate this reasoning rather than supply conclusions to copy.
+
+For each school, the student should begin with a clearly labeled synthetic pattern. The next task is to identify relevant theory, derive concepts, explain proposed relationships, and determine which concepts the available indicators cannot measure. Institutional conditions and community experiences must remain hypothetical unless they are separately supplied as part of a clearly labeled teaching case.
+
+The framework should also remain responsive to the setting. An elementary, middle, or high school may invite different questions, but school level alone does not establish an explanation. The Epsilon examples are opportunities to practice constructing an inquiry—not evidence of actual barriers, community beliefs, or institutional failures.
+
+#### Compare the methodological consequences
+
+The framework performs a related intellectual function across the examples, but the evidence and analytic products differ. This comparison is a teaching synthesis of the four worked cases, not a ranking of methodologies.
+
+**Table 6. The four examples compared**
+
+| App page and design | What the framework organizes | Evidence, analytic product, and boundary |
+|---|---|---|
+| **Elementary School — qualitative thesis** | Sensitizing concepts and questions about a social process, without imposing final codes | Interviews, observations, and artifacts support categories and process relationships. A situated explanation is not universal causation. |
+| **Middle School — quantitative thesis** | Measured constructs, comparisons, and the quantity to be estimated | Survey and linked records support distributions, estimates, and uncertainty. An adjusted association is not an intervention effect. |
+| **High School — convergent mixed methods** | Shared concepts, linked strands, and questions for integration | Quantitative and qualitative evidence support joint interpretation and meta-inferences. Agreement across strands does not establish causality. |
+| **Project — professional development** | The connection from scholarship to design requirements, learning activities, and evaluation | Needs evidence, development records, review, and any actual pilot evidence support a product and revision rationale. Development is not proof of effectiveness. |
+
+#### Review your own alignment
+
+Use the following questions as a student self-check or a faculty discussion aid. This is not a validated assessment instrument. A strong response identifies a decision in the actual study or project rather than merely repeating a definition.
+
+**Table 7. Framework-to-design review guide**
+
+| Review focus | What should be visible | Question that tests the connection |
+|---|---|---|
+| **Problem and theory** | A clear problem, an explained primary lens, and distinct roles for complementary perspectives | Why does this perspective fit this problem, and what does it leave less visible? |
+| **Conceptual organization** | Specific concepts and proposed relationships | Which relationship is a question to investigate rather than an assumed finding? |
+| **Evidence and methods** | Sources, sampling, and analysis suited to the questions | What evidence would challenge the initial interpretation? |
+| **Ethics and participation** | Protections matching the real participation, power, and identification risks | Whose knowledge can change the interpretation, and how is that participation protected? |
+| **Claims and decisions** | A clear distinction among description, association, process explanation, and causation | What remains unknown, and what justifies the next decision or revision? |
+
+Model narratives within each school example remain illustrations to adapt, not text that can stand in for the student’s own scholarly justification.
+
+The central lesson is broader than any example:
+
+> **A theoretical framework explains the scholarly commitments guiding the inquiry. A conceptual framework shows how those commitments become a study-specific model. Evidence determines which interpretations can be sustained, which must be revised, and what needs to be learned next.**
+
+### References
+
+Most of the supporting scholarship below was published in **2022–2026**. Earlier works are retained where they establish the original theory or a central methodological distinction. Publication years refer to the journal issue where one has been assigned; an article’s first-online year may differ.
+
+Acevedo, N., & Solorzano, D. G. (2023). An overview of community cultural wealth: Toward a protective factor against racism. *Urban Education, 58*(7), 1470–1488. <https://doi.org/10.1177/00420859211016531>
+
+Bonney, E. N., Yurkofsky, M. M., & Capello, S. A. (2025). EdD students’ sensemaking of improvement science as a tool for change in education. *Journal of Research on Leadership Education, 20*(1), 3–31. <https://doi.org/10.1177/19427751231221032>
+
+Dodman, S. L., DeMulder, E. K., View, J. L., Stribling, S. M., & Brusseau, R. (2023). “I knew it was a problem before, but did I really?”: Engaging teachers in data use for equity. *Journal of Educational Change, 24*(4), 995–1023. <https://doi.org/10.1007/s10833-022-09477-z>
+
+Khalifa, M. A., Gooden, M. A., & Davis, J. E. (2016). Culturally responsive school leadership: A synthesis of the literature. *Review of Educational Research, 86*(4), 1272–1311. <https://doi.org/10.3102/0034654316630383>
+
+Lundberg, I., Johnson, R., & Stewart, B. M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review, 86*(3), 532–565. <https://doi.org/10.1177/00031224211004187>
+
+Mansfield, K. C., & Lambrinou, M. (2024). Culturally responsive leadership: A critical analysis of one school district’s five-year plan. *Frontiers in Education, 9*, Article 1385788. <https://doi.org/10.3389/feduc.2024.1385788>
+
+Phillips, L. G., Hamid, M. O., Reyes, V., & Hardy, I. (2024). To give: Ethically storying data. *Educational Review, 76*(7), 1857–1874. <https://doi.org/10.1080/00131911.2023.2293453>
+
+Popescu, M., Baruh, L., & Sudhakar, S. (2024). Role-based privacy cynicism and local privacy activism: How data stewards navigate privacy in higher education. *Big Data & Society, 11*(2), Article 20539517241240664. <https://doi.org/10.1177/20539517241240664>
+
+Rios-Aguilar, C., & Neri, R. C. (2023). Funds of knowledge, community cultural wealth, and the forms of capital: Strengths, tensions, and practical considerations. *Urban Education, 58*(7), 1443–1448. <https://doi.org/10.1177/00420859211016522>
+
+Rodriguez, J.-M. G., Nardo, J. E., Finkenstaedt-Quinn, S. A., & Watts, F. M. (2023). The use of frameworks in chemistry education research. *Chemistry Education Research and Practice, 24*(4), 1109–1126. <https://doi.org/10.1039/D3RP00149K>
+
+Roegman, R., Perkins-Williams, R., Budzyn, M., Killian-Tarr, O., & Allen, D. (2022). How conceptions of equity inform principal data use: A purposeful examination of principals from four school districts. *Educational Administration Quarterly, 58*(2), 183–222. <https://doi.org/10.1177/0013161X211056084>
+
+Stalmeijer, R. E., & Varpio, L. (2026). How to incorporate theory in qualitative research: AMEE Guide No. 183. *Medical Teacher*. Advance online publication. <https://doi.org/10.1080/0142159X.2026.2614604>
+
+Stanley, D. A., & Gilzene, A. (2023). Listening, engaging, advocating and partnering (L.E.A.P): A model for responsible community engagement for educational leaders. *Journal of Research on Leadership Education, 18*(2), 253–276. <https://doi.org/10.1177/19427751221076409>
+
+Varpio, L., Paradis, E., Uijtdehaage, S., & Young, M. (2020). The distinctions between theory, theoretical framework, and conceptual framework. *Academic Medicine, 95*(7), 989–994. <https://doi.org/10.1097/ACM.0000000000003075>
+
+Yosso, T. J. (2005). Whose culture has capital? A critical race theory discussion of community cultural wealth. *Race Ethnicity and Education, 8*(1), 69–91. <https://doi.org/10.1080/1361332052000341006>
+
+*Project source:* *From Equity Gaps to Community Care: Preparing Educational Leaders for Evidence-Informed Action*, the project white paper supplied by the author. The six-question sequence is used here as an instructional synthesis, not as an independently validated theory.
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Overview; value=False
+button; label=Elementary School; value=False
+button; label=Middle School; value=False
+button; label=High School; value=False
+button; label=Project; value=False
+button; label=Change school; value=False
+download_button; label=Download Framework Overview (PDF); value=False
+download_button; label=Download Framework Overview (Word); value=False
+radio; label=Choose a page; value=Theoretical and Conceptual Framework; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

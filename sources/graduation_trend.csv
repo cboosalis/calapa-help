@@ -1,0 +1,6 @@
+reporting_year,cds,county_code,district_code,school_code,county_name,district_name,school_name,graduates,cohort_students,five_year_graduates,source_file,graduation_rate,prior_graduation_rate,graduation_rate_change,status_level,change_level,color
+2021,19647331934454,19,64733,1934454,Los Angeles,Los Angeles Unified,David Starr Jordan Senior High,141.0,183,2,graddownload2021.txt,77.0,,,,,
+2022,19647331934454,19,64733,1934454,Los Angeles,Los Angeles Unified,Jordan High,154.0,192,2,graddownload2022.txt,80.2,,,3.0,,
+2023,19647331934454,19,64733,1934454,Los Angeles,Los Angeles Unified,Jordan High,139.0,178,0,graddownload2023.txt,78.1,80.2,-2.1,2.0,2.0,2.0
+2024,19647331934454,19,64733,1934454,Los Angeles,Los Angeles Unified,Jordan High,155.0,191,4,graddownload2024.txt,81.2,78.1,3.1,3.0,4.0,4.0
+2025,19647331934454,19,64733,1934454,Los Angeles,Los Angeles Unified,Jordan High,170.0,198,4,graddownload2025.txt,85.9,81.2,4.7,3.0,4.0,4.0

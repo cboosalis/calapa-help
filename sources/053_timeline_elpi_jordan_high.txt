@@ -1,0 +1,162 @@
+KEY: 053
+TITLE: Equity Timeline Explorer - ELPI
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:32.433413+00:00
+
+## TITLES
+
+[TITLES 1]
+Equity Timeline Explorer
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## SUBHEADERS
+
+[SUBHEADERS 1]
+Build timeline
+
+[SUBHEADERS 2]
+Timeline
+
+[SUBHEADERS 3]
+Readable Evidence Table
+
+[SUBHEADERS 4]
+Counts, Denominators, and Source Group Codes
+
+[SUBHEADERS 5]
+Context
+
+[SUBHEADERS 6]
+Selectable lines
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+David Starr Jordan Senior High | CDS 19647331934454
+
+[CAPTIONS 3]
+Measure: ELPI current status (%). Values are percentages; for example, 30.3 means 30.3%.
+
+[CAPTIONS 4]
+Percentages by year. The primary subgroup has its own named column. `Not available` means the comparison line does not have a reported value for that year.
+
+[CAPTIONS 5]
+Prototype note: Academic ELA/Math timelines are intentionally deferred until the numeric student_group_id mapping is verified. Academic subgroup tables are large and must be queried only with targeted filters.
+
+[CAPTIONS 6]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+**Primary subgroup line:** English Learners
+
+[MARKDOWN 3]
+<div style='margin:0.15rem 0 0.75rem 0;line-height:1.65;'><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:2px solid rgba(255,255,255,0.45);font-size:0.78rem;font-weight:700;white-space:nowrap;'><span style='color:#ef4444;font-size:1rem;'>●</span>English Learners</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#2563eb;font-size:1rem;'>●</span>District: English Learners</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#4ade80;font-size:1rem;'>●</span>State: English Learners</span></div>
+
+[MARKDOWN 4]
+### Data availability notes
+
+[MARKDOWN 5]
+- `Not available` means no public value was returned for that year and comparison line.
+- Missing values should not be interpreted as zero.
+- A value may be unavailable because the student group did not meet CDE public reporting or accountability minimum-size rules.
+- A value may also be unavailable because the indicator did not apply to that entity or grade span, the comparison level is unavailable in the current data table, or the source file did not include a reported value.
+- Public reporting, Status, and performance-color minimums differ by indicator, year, and entity. A numeric status can appear without a performance color; consult the source-year rules.
+- Indicator formulas and business rules should be verified in the current CDE Dashboard Technical Guide.
+- Public Dashboard data should be confirmed with local district records before making final leadership claims or action decisions.
+
+[MARKDOWN 6]
+**Selected school context**
+
+[MARKDOWN 7]
+<div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School:</strong> David Starr Jordan Senior High</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District:</strong> Los Angeles Unified</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>County:</strong> Los Angeles</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School code:</strong> 1934454</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District code:</strong> 64733</div>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+[INFO BOXES 2]
+Caution: These lines compare separately reported aggregate groups or comparison levels. They do not show whether the same students belong to more than one group unless an intersectional category is explicitly available in the data.
+
+[INFO BOXES 3]
+County comparison is not available for this indicator in the current database tables.
+
+## WARNINGS
+
+[WARNINGS 1]
+Source qualifications apply to this timeline. Review the qualification column below before interpreting changes or comparing groups.
+
+[WARNINGS 2]
+Use this view for preliminary pattern identification only. Verify public aggregate data with district records, the district office, the superintendent or designee, and other official local sources before making final leadership claims or action decisions.
+
+## TABLES AND DATAFRAMES
+
+[TABLE 1]
+Year District: English Learners (%) English Learners (%) State: English Learners (%)
+2019                          45.0%                19.7%                       48.3%
+2022                          51.4%                37.9%                       50.3%
+2023                          48.4%                33.6%                       48.7%
+2024                          47.5%                29.0%                       45.7%
+2025                          51.5%                55.6%                       46.4%
+
+[TABLE 2]
+Year                       Line Group code Numerator Denominator Rate / percent (%) Academic Year  Current Participation Denominator Additions  Prior Participation Denominator Additions                                                                                                                                                                                                                                                                             Source Qualification          Source File
+2019 District: English Learners         EL    30,672      68,139              45.0%       2018-19                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2019.txt
+2019           English Learners         EL        24         122              19.7%       2018-19                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2019.txt
+2019    State: English Learners         EL   408,042     844,257              48.3%       2018-19                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2019.txt
+2022 District: English Learners         EL    31,467      61,175              51.4%       2021-22                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2022.txt
+2022           English Learners         EL        44         116              37.9%       2021-22                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2022.txt
+2022    State: English Learners         EL   395,049     785,734              50.3%       2021-22                                         <NA>                                       <NA>                                                                                                                     Historical EL aggregate (source layout has no student-group field). ELPI participation adjustment not reported in this record; do not assume zero. Verify source-year rules. elpidownload2022.txt
+2023 District: English Learners         EL    30,094      62,185              48.4%       2022-23                                            0                                          0 Historical EL aggregate (source layout has no student-group field). Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2023.txt
+2023           English Learners         EL        43         128              33.6%       2022-23                                            0                                          8 Historical EL aggregate (source layout has no student-group field). Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2023.txt
+2023    State: English Learners         EL   403,493     829,209              48.7%       2022-23                                            0                                          0 Historical EL aggregate (source layout has no student-group field). Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2023.txt
+2024 District: English Learners         EL    27,219      57,347              47.5%       2023-24                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2024.txt
+2024           English Learners         EL        42         145              29.0%       2023-24                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2024.txt
+2024    State: English Learners         EL   363,550     796,176              45.7%       2023-24                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2024.txt
+2025 District: English Learners         EL    26,924      52,253              51.5%       2024-25                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2025.txt
+2025           English Learners         EL        70         126              55.6%       2024-25                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2025.txt
+2025    State: English Learners         EL   360,812     777,537              46.4%       2024-25                                            0                                          0                                                                     Official ELPI accountability denominator includes 0 additions for participation below 95%; these are not necessarily tested students who failed to progress. Retain the official adjusted rate and verify source-year rules. elpidownload2025.txt
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download Equity Timeline Explorer (PDF); value=False
+download_button; label=Download Equity Timeline Explorer (Word); value=False
+download_button; label=Download Timeline Data (CSV); value=False
+download_button; label=Download source-qualified timeline evidence as CSV; value=False
+radio; label=Choose a page; value=Equity Timeline Explorer; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project
+selectbox; label=Indicator; value=ELPI; options=Chronic Absenteeism | Suspension | Graduation | ELPI
+selectbox; label=Primary group; value=English Learners [EL]; options=English Learners [EL] | Long-Term English Learners [LTEL]
+checkbox; label=District: Same Group; value=True
+checkbox; label=State: Same Group; value=True

@@ -1,0 +1,58 @@
+KEY: 001
+TITLE: Select School search results
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:16.553813+00:00
+
+## TITLES
+
+[TITLES 1]
+Select School
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+CDS: 19647331934454 | Jordan High | Los Angeles Unified | Los Angeles
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+Search, confirm the exact school and CDS code, then open its full report.
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Open Full Report; value=False
+radio; label=Choose a page; value=Select School; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project
+selectbox; label=Filtered results; value=19647331934454; options=Jordan High | Los Angeles Unified | Los Angeles
+text_input; label=Search by school, district, county, or city; value=19647331934454

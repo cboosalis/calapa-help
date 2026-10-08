@@ -1,0 +1,489 @@
+KEY: 041
+TITLE: Framework - Elementary School
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:27.869642+00:00
+
+## TITLES
+
+[TITLES 1]
+Theoretical / Conceptual Framework
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Graduate research and project development | Theory → concepts → evidence → leadership decisions
+
+[CAPTIONS 3]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+<style>
+.st-key-framework_content table {
+  width: 100%; table-layout: fixed; border-collapse: collapse;
+  font-size: .97rem; line-height: 1.55; margin: 1rem 0 1.35rem;
+}
+.st-key-framework_content th, .st-key-framework_content td {
+  white-space: normal !important; overflow-wrap: anywhere;
+  word-break: normal; vertical-align: top; text-align: left;
+  padding: .65rem .75rem; border: 1px solid rgba(128,128,128,.35);
+}
+.st-key-framework_content th { font-weight: 650; }
+.st-key-framework_content p, .st-key-framework_content li { line-height: 1.65; }
+.st-key-framework_content h2 { margin-top: 1.4rem; }
+.st-key-framework_content h3 { margin-top: 1.25rem; }
+.st-key-framework_content a { overflow-wrap: anywhere; }
+.st-key-framework_content blockquote { padding: .7rem 1rem; }
+.st-key-framework_section_buttons button { min-height: 3rem; }
+.st-key-framework_section_buttons button p { white-space: normal; }
+@media (max-width: 640px) {
+  .st-key-framework_content table { font-size: .86rem; }
+  .st-key-framework_content th, .st-key-framework_content td { padding: .4rem; }
+}
+</style>
+
+[MARKDOWN 3]
+## Elementary School
+
+**Epsilon Elementary School — qualitative thesis / constructivist grounded theory**
+
+Applying a Theoretical and Conceptual Framework to a Qualitative Thesis
+
+**Illustrative thesis title:** *Negotiating Attendance Support at Epsilon Elementary: A Constructivist Grounded Theory of Family–School Interaction and Leadership Practice*
+
+> **Status of this example**
+>
+> Epsilon is a fictional teaching district. School figures are synthetic; proposed study materials, participant excerpts, statistical results, findings, and recommendations are illustrative unless explicitly identified otherwise. They are not evidence collected from actual participants or schools. Published scholarship and institutional guidance are cited separately; neither is an Epsilon finding.
+
+The example retains the leadership model from the project white paper: describe the pattern, locate variation, establish the evidence boundary, include community knowledge, investigate institutional conditions, and decide what action or further inquiry is justified. It modifies the theoretical and conceptual frameworks to support **constructivist grounded theory**, in which the researcher develops an explanation of a social process rather than testing a predetermined explanation.
+
+### 1. Begin with the Epsilon evidence—but do not mistake it for an explanation
+
+Epsilon Elementary’s synthetic attendance data identify a concern worth investigating. In the most recent synthetic year, several reported student groups have higher chronic-absenteeism rates than the schoolwide population.
+
+**Table 1. Epsilon Elementary’s synthetic attendance context, 2024–25**
+
+| **Reported population** | **Eligible students** | **Chronically absent** | **Rate** |
+| --- | --- | --- | --- |
+| Schoolwide | 610 | 111 | 18.2% |
+| English Learners | 220 | 69 | 31.4% |
+| Students with Disabilities | 95 | 32 | 33.7% |
+| Foster Youth | 24 | 10 | 41.7% |
+
+*Note.* These are fabricated teaching data. Rates reflect the application’s generated whole-student counts and rounding, rather than the initial target percentages used to generate them. Student groups can overlap; the rows must not be summed or interpreted as mutually exclusive populations. The schoolwide population includes these students, so it is not a separate comparison group. Source: the app’s epsilon_synthetic.py teaching-data definitions.
+
+The table does not explain how families experienced attendance support, what school personnel did when concerns arose, or whether a particular practice contributed to absence. It also cannot establish how students at the intersections of these categories experienced school.
+
+The qualitative thesis therefore should not begin with a claim such as:
+
+> Epsilon Elementary’s attendance disparities are caused by ineffective family communication.
+
+That explanation has not been established.
+
+A more appropriate starting point is:
+
+> The synthetic attendance profile identifies differences that warrant inquiry into how families and school personnel recognize attendance concerns, communicate about them, and organize support.
+
+This distinction preserves the app’s evidence-bound leadership approach. It also reflects Dodman et al.’s (2023) argument that equitable data use requires more than reading numbers: educators must examine the assumptions and structural conditions surrounding their interpretation.
+
+#### Model problem statement
+
+The problem addressed by this proposed study is the limited understanding of how attendance concerns become—or fail to become—usable support through interactions among families, students, and school personnel. Epsilon Elementary’s synthetic indicators establish the instructional context for examining this problem, but they do not reveal the processes through which concerns are interpreted, responsibilities are negotiated, or supports are experienced.
+
+The inquiry will therefore investigate attendance-support processes without presuming that student characteristics, family practices, or institutional actions provide a complete explanation.
+
+#### Model purpose statement
+
+The purpose of this constructivist grounded theory study is to develop a substantive explanation of how families and school personnel identify, negotiate, coordinate, and experience attendance support at Epsilon Elementary. The study will examine the conditions under which support processes operate differently and the implications of those differences for culturally responsive, community-accountable leadership.
+
+#### Central research question
+
+> **How do families and school personnel negotiate attendance support at Epsilon Elementary, and what conditions shape how that support is understood, accessed, and experienced?**
+
+Supporting questions concern how participants define attendance concerns, whose knowledge influences decisions, how responsibility moves among participants, and how people respond when a proposed support does not meet the identified need.
+
+**The focus is a process—not a search for the single cause of the statistical gap.**
+
+### 2. The theoretical framework: A leadership lens that guides inquiry without deciding the findings
+
+#### Model theoretical-framework narrative
+
+This study is guided primarily by **Culturally Responsive School Leadership**, supported by Community Cultural Wealth and a community-knowledge orientation. These perspectives establish the study’s attention to institutional responsibility, the recognition of community resources, and participation in interpreting school problems. They will inform the inquiry without serving as a predetermined list of findings.
+
+Culturally Responsive School Leadership provides the central leadership perspective. Khalifa et al. (2016) describe leadership that attends to critical self-awareness, culturally responsive teaching and school environments, and authentic engagement with communities. In this study, those commitments direct attention toward how attendance procedures and relationships operate—not merely toward whether a school has an attendance policy.
+
+The researcher will examine how personnel interpret concerns, whose accounts they consider credible, how decisions are communicated, and how responsibility for follow-up is assigned. Leadership will be studied through decisions, routines, relationships, and organizational conditions rather than treated as an individual principal’s personal qualities.
+
+Mansfield and Lambrinou’s (2024) analysis reinforces the importance of examining organizational support alongside leadership commitments. Their study of a district plan connects culturally responsive leadership with teaching and student voice, while questioning whether individual commitment is sufficient to produce institution-wide responsiveness. For Epsilon, this directs the proposed inquiry toward the relationship between stated commitments and everyday practices.
+
+Community Cultural Wealth provides a complementary perspective on families and communities. Yosso (2005) identifies forms of knowledge, relationships, and capacity that institutions may overlook when interpreting Communities of Color through deficit assumptions. Acevedo and Solorzano (2023) retain the framework’s attention to racism and the resources Students of Color use to navigate educational settings.
+
+Within this study, that perspective directs attention toward the work families already perform: organizing transportation, maintaining relationships, sharing knowledge, seeking assistance, advocating, and navigating institutional expectations. An absence record will not be treated as evidence that a family lacks commitment.
+
+The framework’s racial and cultural origins will remain explicit. It will not be assumed that every English Learner has the same racial identity, that disability or foster-care status implies a particular culture, or that one asset-based theory fully accounts for all forms of marginalization. Participants’ circumstances must be investigated rather than inferred from reporting categories.
+
+A community-knowledge orientation further establishes that family accounts are not merely supplementary quotations. They may change the researcher’s understanding of the problem. Rios-Aguilar and Neri (2023) distinguish Funds of Knowledge and Community Cultural Wealth while arguing for substantive engagement with learners’ knowledge rather than symbolic recognition alone.
+
+Accordingly, the proposed study will investigate how family knowledge enters attendance decisions, what happens when it conflicts with institutional interpretations, and whether families recognize the resulting response as useful. Stanley and Gilzene’s (2023) model of listening, engaging, advocating, and partnering supports this community-accountable leadership orientation.
+
+Ethical stewardship governs how the inquiry is conducted. Improvement-oriented leadership governs how its conclusions may inform action. Neither will be treated as an additional theory that every interview must confirm.
+
+#### What this framework changes
+
+Without this framework, the study might ask families to explain why their children are absent and then categorize their answers.
+
+With this framework, the study also investigates **what happens between families and institutions**: how concerns are interpreted, whose knowledge influences decisions, what resources become available, and who must do the work of obtaining support.
+
+The institution is examined without being presumed guilty. Families are recognized as knowledgeable without being presumed to share one interpretation. The researcher remains responsible for examining contradictory evidence.
+
+### 3. How can grounded theory begin with an existing theoretical framework?
+
+The distinction is between **theory that informs the inquiry** and **theory developed through the inquiry**.
+
+Constructivist grounded theory recognizes the researcher’s role in interpreting evidence. Its goal is to construct an explanatory account through engagement with participants and systematic analysis—not to claim that the researcher enters the setting without assumptions. Charmaz and Thornberg (2021) emphasize reflexivity, comparison, and the development of theoretically meaningful explanations.
+
+**These design choices reflect a constructivist grounded theory orientation; they are not universal requirements across all grounded theory traditions.** The student should explain the selected tradition and use collection, comparison, memoing, and theory-development procedures that are coherent with it.
+
+For this thesis, culturally responsive leadership and community assets will supply **sensitizing concepts**: informed starting points that direct attention. They will not supply a closed coding system.
+
+Zaidi (2022) argues that constructivist-critical grounded theory should begin with an explicit, informed theoretical perspective, giving that perspective a stronger role than loosely framed sensitizing concepts. This example draws on that argument to make its equity commitments explicit; its analytic categories and proposed explanations remain revisable through comparison with the evidence.
+
+For example, *institutional responsiveness* may initially sensitize the researcher to how staff respond to family accounts. It does not authorize the researcher to code every difficulty as “unresponsive leadership.”
+
+**The six leadership questions are likewise not six predetermined themes.** They organize the researcher’s responsibilities. Grounded theory analysis must still develop categories from the incidents and relationships examined.
+
+A useful design statement would be:
+
+> The study uses constructivist grounded theory with an explicit equity-oriented leadership perspective. Existing scholarship informs initial questions and sensitizing concepts, while iterative analysis determines which concepts explain the processes encountered, which require modification, and which are not supported.
+
+### 4. The conceptual framework: Investigating how an attendance concern becomes a response
+
+#### Model conceptual-framework narrative
+
+The initial conceptual framework locates attendance support within interactions among families, students, school personnel, and organizational procedures. The focus is not simply the existence of a support program but the process through which a concern is recognized, interpreted, assigned, acted upon, and reviewed.
+
+The study begins with five sensitizing concepts: **recognition of concerns, interpretation of family knowledge, negotiation of responsibility, usability of support, and follow-through**. These concepts identify possible areas of inquiry rather than fixed stages that every participant must experience.
+
+The principal analytic unit will be an **attendance-support episode**: a bounded sequence of events in which someone raises or identifies an attendance concern, including what follows when a response is delayed, absent, or declined. An episode may involve several people, communications, decisions, delays, or revisions. Comparing episodes will allow the researcher to investigate how similar concerns lead to different experiences.
+
+**The analytic unit is the attendance-support episode, not simply the individual interview.** Defining that unit connects recruitment, interview prompts, document selection, comparison, and the scope of the eventual claims. Several people may describe the same episode; one participant may describe several episodes. The researcher records those connections rather than assuming each interview represents an independent event.
+
+The conceptual framework initially proposes that how participants interpret a concern may influence which response becomes possible, and that responsibility, resources, and relationships may shape whether that response becomes usable. These are relationships to investigate—not conclusions about Epsilon.
+
+**Table 2. Initial concepts and their implications for inquiry**
+
+| **Sensitizing concept** | **What the researcher will investigate** | **Evidence to seek** |
+| --- | --- | --- |
+| **Recognizing a concern** | Who identifies the concern, and how is it defined? | Accounts of specific episodes; notices; meeting observations |
+| **Interpreting family knowledge** | How are family explanations understood, questioned, or incorporated? | Interviews; communication artifacts; decision records |
+| **Negotiating responsibility** | Who becomes responsible for acting and following up? | Episode timelines; referrals; accounts across roles |
+| **Making support usable** | How do participants experience the proposed response? | Follow-up interviews; student accounts; implementation evidence |
+| **Following through** | How is success, nonuse, or unresolved need recognized? | Subsequent communications; review meetings; revised plans |
+
+*Note.* These are proposed concepts for this teaching example. They are not established Epsilon findings or mandatory codes. The framework’s use of explicit starting concepts follows the methodological concern addressed by Zaidi (2022).
+
+The framework must allow alternative routes. A family may resolve a concern through community relationships without using school support. Staff may understand a need but lack authority or resources to respond. A proposed support may be declined because it does not fit the circumstances—not because the family rejects assistance.
+
+Those possibilities prevent the conceptual framework from becoming a story that can only confirm itself.
+
+#### The app’s role in the design
+
+The app provides the descriptive starting point and supports questions about variation. It does not supply participants’ experiences or measure the concepts in Table 2.
+
+For this example, attendance is the primary focus. Other indicators may provide background, but a manageable qualitative thesis does not need to investigate every outcome in the dashboard.
+
+The design also does not include a separate quantitative hypothesis-testing strand. The synthetic percentages establish the teaching case; qualitative evidence would support the proposed process explanation.
+
+### 5. Implications for participant selection
+
+The proposed study will use initial purposive recruitment followed by **theoretical sampling**: later decisions about whom to interview, what to observe, and which records to examine will respond to developing analytic questions.
+
+Lane’s (2023) constructivist grounded theory study provides a recent methodological example of this iterative movement between interviews, coding, negative cases, and subsequent sampling. Its healthcare findings are not being transferred to Epsilon; its value here is as an illustration of research procedure.
+
+#### Initial recruitment
+
+> **Illustrative recruitment planning—not a sample-size prescription**
+>
+> One starting plan could include **10–12 caregivers and 6–8 school personnel**, with opportunities for follow-up interviews. Where approved and appropriate, **6–8 upper-elementary students** could also contribute through accessible, age-appropriate interviews.
+>
+> Adequacy must be justified through analytic development, variation, access, ethical constraints, and the study’s scope—not by copying these numbers.
+
+Recruitment would include varied experiences of attendance support, including families of English Learners, Students with Disabilities, and Foster Youth. These are not statistical quotas, and participants would not be sorted into three supposedly uniform populations.
+
+The initial sample should also include contrasting experiences: concerns resolved promptly, concerns remaining unresolved, supports declined, and families who experienced attendance difficulties without becoming chronically absent. These contrasts could reveal how processes vary.
+
+School personnel might include an administrator, teachers, attendance personnel, and staff involved in relevant support functions. Their selection would depend on their involvement in episodes—not simply their availability.
+
+Direct student participation, where approved, contributes a perspective that adult accounts cannot simply replace. The study would not claim to represent student experience solely through adults.
+
+#### Recruitment must not reproduce institutional control
+
+Families should not be selected only because staff consider them cooperative or articulate. An independent, accessible invitation would reduce the risk of collecting only favorable institutional accounts.
+
+Reporting categories should be used only through approved recruitment arrangements and minimum necessary information. The aggregate app cannot identify individual participants, establish their intersecting identities, or authorize access to their records.
+
+#### How theoretical sampling would change recruitment
+
+Suppose early interviews suggest that families repeatedly explain the same concern to different offices. The next step is not automatically to interview more families in general.
+
+The researcher would seek episodes that clarify this process: a case resolved despite multiple handoffs, a case involving a designated contact person, and a case in which the concern reached the correct person but remained unresolved because resources were unavailable.
+
+Those comparisons would examine whether the developing explanation concerns coordination, authority, resource availability, or something else.
+
+### 6. Implications for data collection
+
+The study needs more than general opinions about leadership. Its evidence must reveal **events, interpretations, decisions, and consequences**.
+
+#### Interviews organized around concrete episodes
+
+A caregiver interview might begin:
+
+> “Tell me about a particular time when getting your child to school became difficult. What happened first, and what happened after that?”
+
+Follow-up questions would investigate how the family responded, whom they approached, what knowledge or resources they used, what the school understood, and what happened next.
+
+A particularly useful question would be:
+
+> “What did you want the school to understand that was not captured in its usual forms or messages?”
+
+The interviewer should also ask about helpful experiences:
+
+> “Describe a response that worked well for your family. What made it useful?”
+
+This approach avoids building the interview around an assumed institutional failure.
+
+Staff interviews would reconstruct corresponding kinds of decisions:
+
+> “Walk me through a recent attendance concern from the point when you learned about it. What information influenced the response, who became involved, and how did you know what happened afterward?”
+
+The question is not “Are you culturally responsive?” It asks what people do.
+
+For students, questions could be concrete and age-appropriate:
+
+> “When a school morning is difficult, who helps you?”  
+> “What do adults understand about those mornings?”  
+> “What would you like them to understand better?”
+
+These prompts are newly proposed for the Epsilon teaching case, not quotations from a published interview instrument.
+
+#### Observation of the work
+
+With appropriate permissions, the researcher could observe attendance-support meetings, referral discussions, or other relevant interactions.
+
+Fieldnotes would distinguish observed behavior from interpretation. “The family’s explanation was interrupted twice” is an observation requiring contextual detail. “Staff did not respect the family” is an interpretation that requires further analysis.
+
+Observations would attend to who speaks, what information is considered, how decisions are documented, and how follow-up responsibility is assigned.
+
+#### Documents connected to episodes
+
+Relevant materials might include blank notification templates, referral procedures, translated communications, meeting protocols, and appropriately authorized, deidentified episode records.
+
+A completed referral should not automatically be treated as evidence that a family received usable support. The researcher would compare the document’s function with participants’ accounts and subsequent events.
+
+Collection and analysis would proceed together. Early interviews would be examined before later interviews are finalized, allowing emerging questions to reshape the inquiry rather than merely adding more transcripts to an unchanged plan.
+
+### 7. Implications for analysis: From accounts to a process explanation
+
+#### Start with actions rather than theory labels
+
+Initial coding would remain close to the material. Instead of immediately coding a passage as “Community Cultural Wealth” or “leadership failure,” the researcher might identify actions such as *retelling circumstances*, *seeking a familiar adult*, *recording a referral*, or *waiting for confirmation*.
+
+The following excerpts are **invented solely to demonstrate analysis**. They must not be represented as actual Epsilon testimony.
+
+**Table 3. Illustrative movement from excerpts to analytic questions**
+
+| **Invented excerpt** | **Possible initial code** | **Question for further analysis** |
+| --- | --- | --- |
+| “I explained it to the teacher. When the office called, I had to explain everything again.” | **Retelling circumstances across offices** | When does information travel, and when must the family carry it? |
+| “Once I sent the referral, I assumed the next person would contact them.” | **Treating referral as a transfer of responsibility** | Who checks whether contact occurred? |
+| “The liaison stayed with it until we knew what the next step would be.” | **Maintaining continuity across decisions** | What enables a person to sustain responsibility? |
+| “Everyone understood the problem, but there was no transportation option available.” | **Encountering a resource limit despite recognition** | Does coordination matter differently when a usable resource is absent? |
+
+One passage does not establish a category. The researcher would compare these kinds of incidents within and across episodes.
+
+Repeated retelling might initially suggest “poor communication.” Comparison could reveal a more precise process: the information is available, but no one retains responsibility for the next action. Alternatively, further evidence could show that responsibility is clear while a resource is missing.
+
+This is the analytic value of comparison: it can change what the researcher thinks the problem is.
+
+#### Develop focused categories
+
+A provisional category might become **carrying the coordination work**.
+
+Its properties could include who contacts the next person, who tracks progress, who interprets instructions, and who notices that nothing happened. Its variation could include families carrying the work alone, responsibility shared with staff, or a staff member maintaining continuity.
+
+This category is more explanatory than a broad theme such as “communication.” It identifies an activity, the people performing it, and conditions under which it changes.
+
+#### Use memos to test the developing explanation
+
+An analytic memo might read:
+
+> **Illustrative memo:** The current material suggests a difference between documenting that a response occurred and establishing that the need was addressed. However, the transportation example challenges an explanation based only on communication or follow-through. I need to compare episodes in which responsibility remained clear but the available response still did not fit the family’s circumstances.
+
+That memo generates further data collection. It does not merely summarize an interview.
+
+#### Use theory without forcing the evidence
+
+During comparison and memoing, the researcher relates developing categories to the theoretical framework without using the framework as a fixed coding scheme. Theory does not have to be excluded until analysis ends, and its initial concepts must not dictate the categories. The researcher documents when theory helps interpret an incident and when the evidence requires a different account (Charmaz & Thornberg, 2021; Zaidi, 2022).
+
+Does carrying coordination work illuminate institutional responsiveness? Does reliance on community relationships show how families mobilize resources? Does a successful response depend on whose knowledge is recognized?
+
+The theoretical lens helps interpret the category, but the category must still fit the incidents. Lane’s (2023) study illustrates how analysis can revise an initial sensitizing idea through attention to contradictory cases rather than simply confirm it.
+
+#### Develop a theory, not merely a list of themes
+
+A grounded theory account should connect categories into an explanation of a process. For this teaching example, a possible emerging account might concern **negotiating a usable response**.
+
+Its provisional logic could be that recognizing a concern is insufficient by itself. Participants must negotiate what the concern means, establish responsibility, and connect the response to resources that fit the circumstances. The process may stall, bypass the school, or require renegotiation.
+
+**That is a hypothetical analytic destination—not the study’s expected finding.** A real investigation could generate different categories or show that this account is inadequate.
+
+### 8. An illustrative findings paragraph—and its limits
+
+The following paragraph demonstrates how a completed analysis *might* be written **if actual evidence supported it**:
+
+> Across the examined attendance-support episodes, participants distinguished between receiving a response and obtaining usable assistance. The process of negotiating a usable response involved making circumstances understandable, establishing continuing responsibility, and connecting decisions to available resources. Episodes varied in who carried the coordination work. In some accounts, families maintained contact across several offices; in others, a staff member retained responsibility through follow-up. Resource constraints qualified this process: clear communication and continuing responsibility did not necessarily resolve concerns when no suitable support was available.
+
+In a real thesis, each category and proposed relationship would require documented analytic support, contrasting cases, and appropriately contextualized excerpts.
+
+The paragraph would **not** justify stating that poor coordination caused the entire English Learner attendance gap or that assigning a liaison would reduce absenteeism by a particular amount. It offers a situated process explanation, not an estimate of an intervention’s effect.
+
+Nor would matching accounts from several sources automatically establish causation. Disagreement, missing episodes, retrospective accounts, and the researcher’s role would remain part of the interpretation.
+
+### 9. Preserving the six-question leadership model
+
+The leadership model remains visible throughout the thesis, but it performs a different function from the grounded theory methodology.
+
+**Table 4. Connecting leadership inquiry with the qualitative design**
+
+| **Leadership move** | **Application at Epsilon** | **Boundary** |
+| --- | --- | --- |
+| **Describe the pattern** | Establish the synthetic attendance context. | The rates do not explain the process. |
+| **Locate variation** | Identify contrasting support experiences for inquiry. | Reporting categories are not uniform experiences. |
+| **State the boundary** | Identify what remains unknown about interactions and conditions. | Missing evidence is not proof of a preferred explanation. |
+| **Include community knowledge** | Examine how students and families understand episodes. | Participation must be able to change the interpretation. |
+| **Investigate the system** | Compare accounts, procedures, decisions, and follow-through. | Institutional responsibility is investigated, not assumed. |
+| **Decide and learn** | Develop bounded recommendations or further questions. | A recommendation is not evidence that an intervention works. |
+
+*Note.* The leadership sequence is adapted from the white paper. Its grounded theory application is proposed here.
+
+The final thesis could recommend testing a process change when the findings justify it. For example, evidence about unclear responsibility might support collaboratively examining a designated-contact process. Evidence about unavailable resources would require a different response.
+
+Such recommendations should identify what leaders would monitor and what would prompt revision. Bonney et al. (2025) show how practitioners’ engagement with Improvement Science involves collaboration, organizational constraints, and changes in how problems are understood. Their work supports treating improvement as further inquiry rather than an automatic consequence of identifying a promising idea.
+
+An intervention trial is **not required to complete this proposed grounded theory thesis**. Implementing and evaluating one would extend the study’s scope and require a corresponding design.
+
+### 10. Credibility, researcher positioning, and ethical protection
+
+#### Make the researcher’s influence visible
+
+An insider researcher may have prior commitments about families, staff, or attendance programs. The proposed study would document those expectations before recruitment and revisit them through reflexive memos.
+
+A memo should distinguish “what I expected,” “what participants described,” “what I observed,” and “what challenges my interpretation.” Independent peer discussion can examine analytic decisions without treating agreement among coders as the sole measure of quality.
+
+Charmaz and Thornberg (2021) identify credibility, originality, resonance, and usefulness as important considerations in constructivist grounded theory. For this study, those considerations require a traceable relationship between episodes, codes, categories, and the resulting explanation.
+
+**Participant reflection or dialogic review** would invite responses to accessible summaries: what fits, what is missing, and where interpretations differ. Those responses become further evidence. They do not collectively validate the explanation, require unanimous agreement, or give approval the status of proof. The researcher records both resonance and disagreement (Charmaz & Thornberg, 2021).
+
+#### Justify theoretical sufficiency and analytic adequacy
+
+The proposed sample size cannot guarantee a sufficiently developed explanation. The researcher would document the variation examined within central categories, the evidence for relationships among categories, and unresolved contradictory cases. These are the practical questions behind a claim of theoretical sufficiency or analytic adequacy.
+
+When using the term *theoretical saturation*, define what it means within the chosen grounded theory tradition and show the evidence supporting it. It is not established by a deadline, a copied sample target, or hearing a word repeatedly. Where access or time limits the explanation, report the limitation rather than announce completion without justification (Charmaz & Thornberg, 2021).
+
+#### Protect participation and identities
+
+Before actual recruitment, the protocol would require the relevant university ethics review and institutional permissions. Direct child participation would follow approved permission and assent procedures. Foster-care status requires particular care: the researcher should not assume that any caregiver can authorize a child’s participation; the institutional review board must determine the applicable arrangements and protections (Office for Human Research Protections, n.d.).
+
+For this proposed design, recruitment and interviews should be separated from disciplinary decisions and staff evaluation. Language access, accessible participation formats, and limits to confidentiality should be explained in advance.
+
+The researcher would avoid publishing combinations of grade, role, disability, foster-care status, and distinctive events that could identify participants locally. Raw interviews and identifiable case records would remain in an approved research environment—not be entered into the public app.
+
+### 11. How the completed thesis would fit together
+
+**Chapter 1** would establish the attendance context, delimit the process being investigated, and present the purpose and research questions.
+
+**Chapter 2** would develop the leadership-centered theoretical argument and present the initial conceptual framework. It would explain why the concepts guide attention without constituting predetermined findings.
+
+**Chapter 3** would show the consequences for recruitment, episode-based interviews, observation, document selection, iterative coding, theoretical sampling, reflexivity, and participant protection.
+
+**Chapter 4** would present the categories and their relationships, supported by actual evidence. It would not merely organize quotations beneath the names of the original theories.
+
+**Chapter 5** would explain how the substantive account relates to, extends, qualifies, or challenges the theoretical framework. Leadership recommendations would remain proportionate to the evidence.
+
+The central teaching distinction is:
+
+> **The theoretical framework supplies the leadership commitments. The initial conceptual framework identifies what needs investigation. Constructivist grounded theory develops a process explanation through the evidence. The leadership model then disciplines what can responsibly be recommended.**
+
+### References
+
+Acevedo, N., & Solorzano, D. G. (2023). An overview of community cultural wealth: Toward a protective factor against racism. *Urban Education, 58*(7), 1470–1488. <https://doi.org/10.1177/00420859211016531>
+
+Bonney, E. N., Yurkofsky, M. M., & Capello, S. A. (2025). EdD students’ sensemaking of improvement science as a tool for change in education. *Journal of Research on Leadership Education, 20*(1), 3–31. <https://doi.org/10.1177/19427751231221032>
+
+Charmaz, K., & Thornberg, R. (2021). The pursuit of quality in grounded theory. *Qualitative Research in Psychology, 18*(3), 305–327. <https://doi.org/10.1080/14780887.2020.1780357>
+
+Dodman, S. L., DeMulder, E. K., View, J. L., Stribling, S. M., & Brusseau, R. (2023). “I knew it was a problem before, but did I really?”: Engaging teachers in data use for equity. *Journal of Educational Change, 24*(4), 995–1023. <https://doi.org/10.1007/s10833-022-09477-z>
+
+Khalifa, M. A., Gooden, M. A., & Davis, J. E. (2016). Culturally responsive school leadership: A synthesis of the literature. *Review of Educational Research, 86*(4), 1272–1311. <https://doi.org/10.3102/0034654316630383>
+
+Lane, J. (2023). Working through stigma: A constructivist grounded theory of delivering health services to diverse 2SLGBTQ populations. *Qualitative Health Research, 33*(7), 624–637. <https://doi.org/10.1177/10497323231167828>
+
+Mansfield, K. C., & Lambrinou, M. (2024). Culturally responsive leadership: A critical analysis of one school district’s five-year plan. *Frontiers in Education, 9*, Article 1385788. <https://doi.org/10.3389/feduc.2024.1385788>
+
+Office for Human Research Protections. (n.d.). *Research with children FAQs.* U.S. Department of Health and Human Services. <https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/children-research/index.html>
+
+Rios-Aguilar, C., & Neri, R. C. (2023). Funds of knowledge, community cultural wealth, and the forms of capital: Strengths, tensions, and practical considerations. *Urban Education, 58*(7), 1443–1448. <https://doi.org/10.1177/00420859211016522>
+
+Stanley, D. A., & Gilzene, A. (2023). Listening, engaging, advocating and partnering (L.E.A.P): A model for responsible community engagement for educational leaders. *Journal of Research on Leadership Education, 18*(2), 253–276. <https://doi.org/10.1177/19427751221076409>
+
+Yosso, T. J. (2005). Whose culture has capital? A critical race theory discussion of community cultural wealth. *Race Ethnicity and Education, 8*(1), 69–91. <https://doi.org/10.1080/1361332052000341006>
+
+Zaidi, S. B. (2022). Situating sensitizing concepts in the constructivist-critical grounded theory method. *International Journal of Qualitative Methods, 21*. <https://doi.org/10.1177/16094069211061957>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Overview; value=False
+button; label=Elementary School; value=True
+button; label=Middle School; value=False
+button; label=High School; value=False
+button; label=Project; value=False
+button; label=Change school; value=False
+download_button; label=Download Framework Elementary School (PDF); value=False
+download_button; label=Download Framework Elementary School (Word); value=False
+radio; label=Choose a page; value=Theoretical and Conceptual Framework; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

@@ -1,0 +1,532 @@
+KEY: 043
+TITLE: Framework - High School
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:29.015000+00:00
+
+## TITLES
+
+[TITLES 1]
+Theoretical / Conceptual Framework
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Graduate research and project development | Theory → concepts → evidence → leadership decisions
+
+[CAPTIONS 3]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+<style>
+.st-key-framework_content table {
+  width: 100%; table-layout: fixed; border-collapse: collapse;
+  font-size: .97rem; line-height: 1.55; margin: 1rem 0 1.35rem;
+}
+.st-key-framework_content th, .st-key-framework_content td {
+  white-space: normal !important; overflow-wrap: anywhere;
+  word-break: normal; vertical-align: top; text-align: left;
+  padding: .65rem .75rem; border: 1px solid rgba(128,128,128,.35);
+}
+.st-key-framework_content th { font-weight: 650; }
+.st-key-framework_content p, .st-key-framework_content li { line-height: 1.65; }
+.st-key-framework_content h2 { margin-top: 1.4rem; }
+.st-key-framework_content h3 { margin-top: 1.25rem; }
+.st-key-framework_content a { overflow-wrap: anywhere; }
+.st-key-framework_content blockquote { padding: .7rem 1rem; }
+.st-key-framework_section_buttons button { min-height: 3rem; }
+.st-key-framework_section_buttons button p { white-space: normal; }
+@media (max-width: 640px) {
+  .st-key-framework_content table { font-size: .86rem; }
+  .st-key-framework_content th, .st-key-framework_content td { padding: .4rem; }
+}
+</style>
+
+[MARKDOWN 3]
+## High School
+
+**Epsilon High School — convergent mixed-methods thesis**
+
+Applying a Theoretical and Conceptual Framework to a Convergent Mixed-Methods Thesis
+
+**Illustrative thesis title:** *Available Is Not Always Accessible: A Convergent Mixed-Methods Study of Academic Support, Student Experience, and Leadership Practice at Epsilon High*
+
+> **Status of this example**
+>
+> Epsilon is a fictional teaching district. School figures are synthetic; proposed study materials, participant excerpts, statistical results, findings, and recommendations are illustrative unless explicitly identified otherwise. They are not evidence collected from actual participants or schools. Published scholarship and institutional guidance are cited separately; neither is an Epsilon finding.
+
+The example retains the leadership model from the white paper: describe the pattern, locate variation, identify the evidence boundary, incorporate community knowledge, investigate institutional conditions, and decide what action or further inquiry is justified. Here, that model guides a study in which quantitative and qualitative evidence are deliberately brought together.
+
+### 1. What is convergent mixed-methods research?
+
+**Convergent mixed-methods research examines a problem through quantitative and qualitative strands conducted during approximately the same phase of a study. The researcher analyzes each strand using appropriate methods and then deliberately integrates the findings.**
+
+The quantitative strand might examine the distribution of academic support, participation, and course outcomes. The qualitative strand might investigate how students experience those supports, what makes them usable, and how school decisions shape access. Integration asks what can be understood by examining those findings together that neither strand adequately establishes alone (Fetters & Tajima, 2022).
+
+For this Epsilon example, the basic structure is:
+
+**Quantitative evidence and analysis + Qualitative evidence and analysis → Integrated interpretation → Bounded leadership implications**
+
+The two strands are connected by a shared research problem and conceptual framework. They are not two unrelated studies placed in the same document.
+
+#### “Convergent” does not mean the results must agree
+
+The name describes how the research strands are brought together. It does not require a predetermined finding of agreement.
+
+This page uses four working labels consistently when examining the relationship between strands. They are interpretive aids, not an exhaustive taxonomy or a numerical test of agreement.
+
+**Table 1. Working labels for integrated relationships**
+
+| Relationship | What it means in this tutorial |
+|---|---|
+| **Convergence** | Comparable findings support a similar interpretation. |
+| **Complementarity/expansion** | One strand adds detail, context, or a different aspect of the problem. |
+| **Discordance** | Findings appear inconsistent after attention to constructs, samples, timing, and level of analysis. |
+| **Silence** | A consequential concept appears in one strand but was not measured or investigated in the other. |
+
+Silence is not a zero, a null statistical effect, or disproof of the concept. The researcher identifies the coverage gap instead of manufacturing corroboration. These labels organize the integration work illustrated by Fetters and Tajima (2022) and the attention to disagreement discussed by Younas et al. (2023).
+
+The findings may support a similar interpretation, illuminate different aspects of the problem, conflict, or reveal something that only one method captured. Discordance is not automatically a methodological failure. Younas et al. (2023) argue that researchers should examine disagreements rather than exclude them to produce a tidier account.
+
+For example, school records may show that tutoring is available, while students describe difficulty obtaining permission to attend. Those findings may concern a difference between **documented provision** and **experienced access**, rather than an error in either source.
+
+#### How does it differ from sequential mixed methods?
+
+In an **explanatory sequential** study, the researcher ordinarily analyzes quantitative findings first and then designs qualitative follow-up to investigate those findings.
+
+In an **exploratory sequential** study, qualitative inquiry ordinarily comes first and informs the development of a later quantitative component.
+
+In a **convergent** study, both strands are planned from the outset to investigate related aspects of the problem. Neither must wait for the other’s completed findings before its principal data collection begins. These distinctions concern the relationship between the strands, not simply the dates on which individual interviews or surveys occur (Fetters et al., 2013).
+
+#### What makes the study genuinely mixed methods?
+
+Having survey results and interview quotations is not enough.
+
+The study must explain how the two forms of evidence are connected and how their relationship changes the overall interpretation. Firestone et al. (2024), for example, demonstrate how joint displays can help researchers refine a theoretical model within a convergent educational study. Integration contributes to reasoning; it is not merely a presentation technique.
+
+For the proposed Epsilon thesis, both strands have substantial interpretive importance. That does not require equal sample sizes or identical methods. It means that student and family accounts are not reduced to illustrations of whatever the statistical analysis appears to show.
+
+### 2. Establish the Epsilon High problem without inventing its explanation
+
+Epsilon High’s synthetic indicators identify attendance and academic concerns.
+
+**Table 2. Selected synthetic Epsilon High results, 2024–25**
+
+| **Reported population** | **Chronic absenteeism: count and rate** | **Mathematics met/exceeded standard** |
+| --- | --- | --- |
+| Schoolwide | 174 of 880; **19.8%** | 66 of 219 valid scores; **30.1%** |
+| English Learners | 81 of 220; **36.8%** | 6 of 65 valid scores; **9.2%** |
+| Students with Disabilities | 44 of 125; **35.2%** | 3 of 33 valid scores; **9.1%** |
+| Foster Youth | 16 of 34; **47.1%** | 1 of 16 valid scores; **6.2%** |
+
+*Note.* These are fabricated teaching data. Attendance rates reflect the application’s generated whole-student counts and rounding. Attendance and assessment results represent different eligible populations. Student groups overlap, and the schoolwide population includes the subgroup students. The rows must not be summed or treated as independent samples. Source: the app’s epsilon_synthetic.py teaching-data definitions.
+
+The table does not establish whether students can obtain academic support, how support is organized, or whether a particular practice explains their outcomes. It also does not show which individual students experienced both attendance difficulty and low assessment performance.
+
+For this thesis, the inquiry will focus on **access to usable mathematics support**. Attendance provides related context. The study will not attempt to explain every indicator or evaluate every program.
+
+Importantly, the mathematics indicator in the app is not a course-passing rate. The proposed study will collect a separate local outcome—semester mathematics credit attainment—and will not substitute the assessment percentage for that measure.
+
+#### Model problem statement
+
+The problem addressed by this study is the limited understanding of whether the mathematics supports documented by Epsilon High correspond to supports students can practically access and use. The synthetic indicators identify outcome concerns but do not establish how academic support is distributed, how students experience it, or how institutional procedures influence its use.
+
+#### Model purpose statement
+
+The purpose of this convergent mixed-methods study is to examine the distribution of mathematics-support opportunities, their association with course-credit attainment, and students’ and families’ experiences of obtaining and using support. Quantitative and qualitative findings will be integrated to identify agreements, differences, and unresolved questions relevant to culturally responsive, community-accountable leadership.
+
+### 3. Construct the theoretical framework
+
+#### Model theoretical-framework narrative
+
+This study is guided primarily by **Culturally Responsive School Leadership**, supported by Community Cultural Wealth and a community-engagement orientation. These perspectives establish the inquiry’s attention to institutional responsibility, community assets, and whose knowledge influences decisions.
+
+Culturally Responsive School Leadership directs attention toward leaders’ critical self-awareness, school environments, instructional conditions, and relationships with communities. Khalifa et al. (2016) position these concerns within a leadership approach that examines the institution rather than locating educational difficulties solely within students or families.
+
+Applied to Epsilon High, this perspective raises questions about scheduling, eligibility, communication, staffing, referral procedures, and permission to use support. The existence of a tutoring program does not establish that these arrangements are responsive to students’ circumstances.
+
+Mansfield and Lambrinou (2024) reinforce this organizational emphasis through their analysis of a district’s five-year plan. They connect culturally responsive leadership with teaching and student voice while emphasizing the need for institutional support beyond individual leaders’ commitments. Their work supports examining how a stated intention becomes an implemented opportunity.
+
+Community Cultural Wealth provides a complementary interpretation of students and communities. Acevedo and Solorzano (2023) explain how this framework challenges deficit assumptions and recognizes resources that Students of Color use while navigating educational settings and racism. In this proposed study, a student’s nonparticipation in tutoring will not automatically be interpreted as indifference or lack of family support.
+
+Instead, the researcher will investigate how students mobilize relationships, knowledge, advocacy, and other resources—and what institutional conditions support or constrain those efforts. The framework’s racialized origins will remain explicit. English Learner classification, disability, foster-care status, and racial identity will not be treated as interchangeable categories.
+
+A community-engagement orientation establishes that students and families are knowledgeable contributors to understanding the problem. Stanley and Gilzene’s (2023) model of listening, engaging, advocating, and partnering supports treating community participation as a substantive leadership responsibility rather than an activity performed after the institution has selected its explanation.
+
+Accordingly, the qualitative strand will be allowed to challenge the quantitative measures and the initial conceptual framework. Students might reveal, for example, that the researcher’s definition of “available support” misses a consequential permission requirement or an experience of stigma.
+
+#### The theoretical argument connecting these perspectives
+
+The proposed study begins with the following proposition:
+
+> **Leadership-relevant opportunity cannot be understood solely by documenting that a service exists. The inquiry must also examine how institutional arrangements and student circumstances shape whether that service becomes usable.**
+
+This is the study’s proposed theoretical application—not an established finding about Epsilon.
+
+Ethical stewardship governs participation and evidence use. The leadership model governs how findings inform decisions. **Convergent mixed methods is the research design, not the theoretical framework.**
+
+### 4. Translate the theories into a conceptual framework
+
+#### Model conceptual-framework narrative
+
+The initial conceptual framework distinguishes **formal availability**, **practical accessibility**, **experienced usability**, and **academic progress**.
+
+Formal availability concerns the supports documented by the institution. Practical accessibility concerns whether a student has a feasible opportunity to attend. Experienced usability concerns whether the student can obtain assistance in a form that addresses the need. Academic progress concerns the selected educational outcome.
+
+These concepts may be related, but they are not equivalent. A support can be listed without fitting a student’s timetable. A timetable can permit attendance while the student experiences difficulty obtaining permission. A student can attend regularly without receiving help relevant to the current course.
+
+The quantitative strand will estimate selected features of these concepts and their distribution. The qualitative strand will investigate how students, families, and personnel understand and experience them. The integrated analysis will examine where the two accounts fit and where the initial concepts need revision.
+
+**Table 3. Planning the connection between the two strands**
+
+| **Shared concept** | **Quantitative evidence** | **Qualitative evidence** |
+| --- | --- | --- |
+| **Formal availability** | Support schedules, eligibility records, staffing, and referral counts | How personnel explain the purpose and organization of support |
+| **Practical accessibility** | Timetable compatibility and student reports of scheduling or permission barriers | Accounts of trying to attend and obtaining permission |
+| **Experienced usability** | Separate survey items on relevance, communication, and obtaining needed assistance | Descriptions of helpful, unhelpful, or avoided support |
+| **Academic progress** | Semester mathematics credit attainment; prior performance for context | Students’ accounts of learning, unresolved needs, and perceived changes |
+
+*Note.* This is a proposed data-collection plan. Fetters and Tajima (2022) recommend planning the conceptual links between quantitative and qualitative evidence before collection so that meaningful integration is possible.
+
+Table 3 is not a causal model. The relationships remain questions.
+
+For example, students with the greatest academic difficulty may receive the most support. A simple association between participation and low grades could therefore reflect support being directed toward greater need rather than support causing poor outcomes.
+
+The framework must allow that possibility, as well as the possibility that an available support is ineffective or poorly matched to students’ needs.
+
+### 5. Write quantitative, qualitative, and integration questions
+
+A mixed-methods thesis needs a question that explains **why the strands must be combined**.
+
+#### Quantitative question
+
+**How are mathematics-support opportunities and reported access distributed, and how is a baseline timetable-compatible support opportunity associated with semester mathematics credit attainment?**
+
+This question addresses distribution and association. It does not estimate the causal effect of tutoring.
+
+#### Qualitative question
+
+**How do students, families, and school personnel experience and negotiate access to usable mathematics support during the same semester?**
+
+This question examines meaning, processes, and institutional conditions.
+
+#### Mixed-methods integration question
+
+**Where do quantitative descriptions of support availability and access converge with, expand upon, or conflict with participants’ experiences, and how does their integration change the interpretation of leadership-relevant opportunities?**
+
+The integration question is central. Without it, the thesis risks producing one chapter of statistics and another of quotations without explaining their relationship.
+
+### 6. Organize a genuinely convergent study
+
+The proposed design is a **single-school, nonexperimental convergent mixed-methods study** conducted across one semester.
+
+The app’s historical synthetic indicators establish the instructional problem. They are not a completed quantitative phase used to design a later qualitative follow-up. The formal study’s quantitative and qualitative components are planned together.
+
+#### Procedural integration map
+
+The following map shows how the planned strands meet. These stages organize this proposed convergent study; they are not a causal pathway.
+
+**Table 4. From parallel collection to integrated interpretation**
+
+| Stage | What happens |
+|---|---|
+| **Shared starting point** | Establish the problem, conceptual framework, quantitative question, qualitative question, and integration question. |
+| **Same general collection phase** | Collect planned quantitative records and survey evidence alongside qualitative interviews, observations, and documents. |
+| **Strand-specific analysis** | Analyze each form of evidence with its appropriate methods and retain its limitations. |
+| **Deliberate comparison** | Bring comparable findings together through joint displays and, where authorized, linked participant cases. |
+| **Meta-inference** | Explain convergence, complementarity/expansion, discordance, and silence; record unresolved questions. |
+| **Framework and leadership review** | Decide whether the combined interpretation revises the framework and what bounded implication follows. |
+
+The design’s key integration decisions are planned before data collection, while their substantive results remain open (Fetters & Tajima, 2022; Firestone et al., 2024).
+
+#### Timing
+
+Before the semester, the researcher would finalize permissions, review instruments, establish record definitions, and plan how the strands will be linked.
+
+During the opening weeks, the quantitative strand would audit support opportunities and collect baseline survey information. Qualitative interviews and observations would begin during this same general period.
+
+Across the semester, participation and attendance records would accumulate while interviews and observations examined the same support arrangements. Final course outcomes would become available at semester-end.
+
+Each strand would then be analyzed using its own methods before the principal integrated interpretation.
+
+The dates do not need to be identical. The important feature is that the main qualitative collection is not postponed until statistical results identify whom to interview or what unexpected association to explain.
+
+#### Sampling
+
+The quantitative population would consist of eligible students enrolled in credit-bearing mathematics courses—not automatically all 880 students in the synthetic school total. The actual population, permissions, responses, and complete records would determine the analytic sample.
+
+The qualitative component could begin with approximately **12–16 students, 4–6 caregivers, and 5–7 school personnel**. These are planning targets, not guarantees of sufficient depth.
+
+Students would be purposefully recruited across grades, course levels, support arrangements, and relevant experiences. Recruitment would include contrasting cases such as students who use school support, students who decline it, and students who rely on other resources.
+
+Selection would begin from those planned contrasts rather than wait for final course results. That preserves the convergent design.
+
+#### Linking the samples
+
+Where participants authorize linkage, interviewed students would also belong to the quantitative cohort. A protected study identifier would connect their survey and administrative records to their accounts.
+
+That permits two kinds of integration: comparison across the school’s overall evidence and closer examination of matched individual cases.
+
+Caregiver and staff accounts provide contextual evidence. They would not be treated as interchangeable with a student’s own report.
+
+### 7. Develop the quantitative strand
+
+#### Operationalize a specific opportunity
+
+The primary exposure would be a **documented timetable-compatible, in-school mathematics-support option at baseline**.
+
+A student would receive a value of 1 when records show an eligible, scheduled support option that does not conflict with the student’s required timetable; 0 would mean no such documented option. Unresolved records would remain unknown rather than automatically becoming 0.
+
+This variable measures one aspect of accessibility. It does not measure whether the student feels welcome, can obtain permission in practice, or receives appropriate help.
+
+Survey items would examine additional aspects separately, including awareness, scheduling, permission, and relevance. Newly developed items would be identified as such and reviewed for clarity, language accessibility, and content. They would not be averaged into a supposedly validated “leadership score” without an appropriate measurement justification.
+
+#### Define the outcome
+
+The primary outcome would be whether a student earns the expected semester credit in a designated mathematics course.
+
+For students taking more than one mathematics course, the protocol would specify the course-selection rule in advance. Transfers, incomplete grades, and withdrawals without evaluable outcomes would be reported separately rather than silently counted as failure or success.
+
+This local outcome is distinct from the app’s assessment indicator.
+
+#### Analysis
+
+The first analysis would describe access, survey responses, participation, and credit attainment, including missingness and the composition of the represented students.
+
+A parsimonious logistic regression could then estimate the association between baseline timetable-compatible support and credit attainment, accounting for prespecified factors such as prior mathematics performance, grade/course level, and prior attendance. The plan would address course-section clustering when supported by the actual data structure.
+
+Support participation later in the semester would not automatically be added as a “control.” It occurs after the baseline opportunity and may be part of the process under investigation.
+
+The study would report effect estimates, uncertainty intervals, and interpretable predicted probabilities. Its target is an **observational association in the represented cohort**, not the effect of assigning every student to support. Lundberg et al. (2021) emphasize specifying that target quantity before selecting and interpreting a statistical model.
+
+Sample-size planning would address the precision needed, the expected distribution of outcomes, the number of parameters, and incomplete data. Lakens (2022) supports aligning this justification with the intended inference rather than treating a conventional sample-size rule as sufficient.
+
+A small subgroup may remain educationally important without supporting a reliable separate regression or interaction estimate.
+
+### 8. Develop the qualitative strand
+
+The qualitative component would use semistructured interviews, selected observations, and relevant documents, followed by **reflexive thematic analysis**.
+
+The analysis is **theoretically informed and open to inductively developed themes**. The initial concepts help focus attention, but they are not a fixed list of themes. The researcher can move between close reading, coding, and theoretical interpretation, documenting both how the framework helps and how new evidence requires a different account. Refusing predetermined themes does not require excluding theory from the analysis (Braun & Clarke, 2022).
+
+Unlike the Elementary example, this component is not designed to produce a separate grounded theory. Its purpose is to develop an interpretive account of access and usability that can be integrated with the quantitative findings.
+
+Braun and Clarke (2022) emphasize methodological coherence in thematic analysis: the research questions, assumptions, collection methods, and analytic practices should fit together. Accordingly, this study would not use intercoder agreement to establish coding accuracy or the correctness of themes. Collaborative discussion could instead deepen reflexive engagement with the data and examine alternative interpretations.
+
+#### Ask about actual attempts to obtain help
+
+A student interview could begin:
+
+> “Tell me about a particular time this semester when you needed help in mathematics. How did you decide what to do, and what happened next?”
+
+Follow-up questions would examine how the student found out about support, what made attendance possible or difficult, what help was obtained, and what resources were used outside the formal program.
+
+An important contrasting question would be:
+
+> “Describe a time when getting help worked well. What made that experience different?”
+
+Staff interviews would investigate how eligibility, scheduling, permission, and follow-through operate. Caregiver interviews could examine communication and the resources families mobilize.
+
+Observations would focus on relevant decisions and practices—not on evaluating individual teachers through isolated incidents.
+
+#### Develop themes rather than reuse the conceptual headings
+
+“Scheduling,” “communication,” and “support” are initial areas of inquiry. They are not automatically findings.
+
+Through reading, coding, comparison, and reflexive memoing, the researcher might develop an interpretive pattern such as **“having a place without having permission”** or **“obtaining help through a trusted intermediary.”**
+
+Those are hypothetical illustrations. A real analysis might produce very different themes.
+
+The qualitative findings should retain contradictions and contextual detail. Interview mentions would not be converted into population prevalence simply because a statistical strand exists alongside them.
+
+### 9. Integrate the findings through joint displays
+
+The researcher now asks how the strands affect one another.
+
+A **joint display** is a structured presentation that places related quantitative findings, qualitative findings, and the integrated interpretation together. Firestone et al. (2024) demonstrate how such displays can support theoretical refinement, rather than merely summarize results already interpreted separately.
+
+For Epsilon, the integrated analysis would begin with the shared concepts in Table 3 but remain open to concepts introduced through the qualitative findings.
+
+Before comparing results, the researcher would check whether they concern the same construct, students, time period, and level of analysis. Schoolwide survey results and a small interview sample are related evidence, but they are not identical populations.
+
+**Table 5. Illustrative joint display**
+
+**Every result in this table is invented to demonstrate integration. None was calculated from Epsilon’s data or collected from participants.**
+
+| **Hypothetical quantitative finding** | **Hypothetical qualitative finding** | **Integrated interpretation** |
+| --- | --- | --- |
+| **72%** of eligible records show a timetable-compatible support option. | Students describe needing case-by-case permission despite having an open support period. | **Complementarity/expansion:** Timetable compatibility measures potential access, not permission in practice. |
+| Some matched students select “I can obtain help when I need it” on the survey. | Those same students describe avoiding the formal program while obtaining help from a trusted teacher. | **Apparent discordance:** “Help” may refer to informal assistance rather than the intended service; matched-case review could clarify the difference. |
+| The adjusted association between timetable access and credit attainment is imprecise. | Participants describe support that helps with particular assignments but does not resolve other course difficulties. | **Complementarity/expansion:** Specific benefits and an uncertain course-level association concern different scopes and can coexist. |
+| The quantitative instruments contain no item about being publicly identified as needing support. | Students describe concern about being singled out. | **Silence:** The quantitative instruments did not investigate public identification; the framework may need a participation-safety concept. |
+
+The first row does not prove the records are wrong. It reveals a limit in what they measure.
+
+The second row demonstrates why matched cases matter. A survey response that initially appears inconsistent with an interview may become understandable when the researcher examines the respondent’s meaning.
+
+The third row prevents a common mistake: interpreting an inconclusive statistical result as proof that participants’ reported benefits are false.
+
+Younas et al. (2023) recommend examining cases, variables, and sociocultural context when addressing discordance. In this example, unresolved differences would be reported rather than forced into agreement.
+
+#### What is a meta-inference?
+
+A **meta-inference** is the overall interpretation developed by considering both strands and their relationship. It is more than repeating the quantitative conclusion and adding a quotation.
+
+An illustrative meta-inference might be:
+
+> The integrated findings suggest that the study’s initial definition of access was incomplete. Timetable compatibility identifies an opportunity in the formal school structure, but students’ accounts indicate that obtaining usable assistance may also involve permission, trusted relationships, and the perceived consequences of participating. Leadership review should therefore distinguish scheduled provision from students’ practical routes to help.
+
+This statement is hypothetical. In a completed thesis, the researcher would show exactly which quantitative findings, qualitative themes, and contrasting cases support it.
+
+#### Check the quality of the meta-inference
+
+A strong integrated claim names the identifiable findings on which it depends and checks that their constructs, participants, observation periods, and levels of analysis can legitimately be related. It states whether the evidence converges, expands the account, conflicts, or leaves a silence. When a concept appears in only one strand, identify that limit rather than claim two-strand confirmation (Younas et al., 2023).
+
+The combined interpretation must not be stronger than the evidentiary connections supporting it. This does not require discarding a credible single-strand finding because the other strand did not investigate it; it requires describing the finding at the appropriate scope. A useful meta-inference also states what it changes in the original conceptual framework and what remains unresolved. Joint displays should make those decisions traceable (Firestone et al., 2024).
+
+Agreement across strands would still not turn an observational study into a causal experiment.
+
+### 10. Show how integration can revise the conceptual framework
+
+The initial framework distinguished availability, accessibility, usability, and academic progress.
+
+Suppose actual findings eventually resembled the hypothetical display. The revised framework might distinguish:
+
+**Scheduled opportunity → Permission to participate → A usable encounter with support**
+
+It might also identify informal relationships as an alternative route to help and public identification as a condition affecting participation.
+
+These would be proposed relationships emerging from the combined interpretation, not an automatically proven sequence experienced by every student.
+
+The quantitative analysis might show that the original measure captured only scheduled opportunity. The qualitative analysis might explain why that measure was incomplete. Integration would then improve the conceptual framework and identify what a later quantitative study would need to measure.
+
+This is a stronger contribution than announcing that “the interviews confirmed the survey.”
+
+It is also not a reason to rewrite the original hypotheses after seeing the results. The thesis should preserve the distinction between its initial framework, planned analyses, exploratory discoveries, and revised interpretation.
+
+### 11. Evaluate the quality of both strands and their integration
+
+The quantitative analysis would document measurement quality, record completeness, model assumptions, precision, selection, and missing-data decisions. The qualitative analysis would document researcher positioning, analytic development, contextual evidence, and accounts that complicate the main interpretation.
+
+For integration, the researcher would maintain an explicit record of which findings were compared, why they were considered comparable, how disagreements were examined, and what remains unresolved. Joint displays would retain that evidence trail rather than show only successful matches.
+
+Three cautions are especially important in this proposed study.
+
+**First, matching does not eliminate selection.** Students who consent to both components may differ from students who complete only the survey or are not represented at all. Their cases offer depth but cannot automatically characterize every student.
+
+**Second, neither strand is automatically the judge of the other.** An administrative record is not necessarily a complete account of practice, and an interview is not automatically representative or immune to interpretive difficulty.
+
+**Third, ethical integration requires protection.** Linking records and interviews increases what can be learned about a participant—and what could identify that participant.
+
+The proposed protocol would obtain the required ethics and institutional approvals, establish appropriate participation and record-linkage permissions, and separate research participation from grades, discipline, services, and employee evaluation. Students and families would have accessible participation options. Identifiable records and transcripts would remain in an approved research environment, not the public app.
+
+Public joint displays would not expose small combinations of grade, course, disability, foster-care status, and distinctive incidents. More detailed internal analysis does not justify more identifiable reporting.
+
+### 12. Return to the leadership model
+
+The mixed-methods design strengthens the leadership inquiry only when the integrated evidence changes what leaders are justified in saying or doing.
+
+**Table 6. Maintaining the six-question leadership model**
+
+| **Leadership move** | **Mixed-methods application** | **Decision safeguard** |
+| --- | --- | --- |
+| **Describe the pattern** | Establish numerical outcomes and participants’ descriptions of support. | Neither description establishes cause alone. |
+| **Locate variation** | Examine distributions and contrasting experiences. | Group labels do not imply uniform experiences. |
+| **State the boundary** | Identify what each method did not capture. | Two incomplete sources do not automatically create a complete explanation. |
+| **Include community knowledge** | Allow accounts to challenge measures and interpretations. | Participation must influence the inquiry. |
+| **Investigate the system** | Compare documented arrangements with experienced practices. | Institutional responsibility is examined, not presumed. |
+| **Decide and learn** | Recommend a bounded response or further investigation. | An integrated explanation is not proof that an intervention will work. |
+
+*Note.* The leadership sequence is retained from the white paper. Its mixed-methods application is proposed here.
+
+For example, findings about permission barriers might justify reviewing release procedures with students and teachers. Findings about an unsuitable support format would suggest a different response. An unresolved disagreement might justify improving the measurement or examining additional cases.
+
+A later improvement effort could test the resulting change. That would be a further phase of inquiry, not an effect already demonstrated by this thesis.
+
+### 13. How the thesis chapters connect
+
+**Chapter 1** would establish the problem, purpose, three kinds of research questions, and why neither quantitative nor qualitative evidence alone adequately addresses the inquiry.
+
+**Chapter 2** would develop the leadership-centered theoretical framework and the initial conceptual distinctions among availability, accessibility, usability, and progress.
+
+**Chapter 3** would specify the convergent design, timing, sampling, record linkage, separate analyses, integration procedures, and safeguards.
+
+**Chapter 4** would present quantitative findings, qualitative findings, and a substantive integrated findings section. The joint displays and meta-inferences would make the mixing visible.
+
+**Chapter 5** would explain how integration supports, qualifies, or revises the conceptual framework and what leadership implications remain defensible.
+
+The central teaching principle is:
+
+> **Quantitative evidence describes distributions and estimates relationships. Qualitative evidence investigates experiences, meanings, and processes. Convergent mixed methods brings their findings into deliberate conversation. The theoretical framework guides that conversation; the conceptual framework is strengthened—or revised—by what it reveals.**
+
+### References
+
+Acevedo, N., & Solorzano, D. G. (2023). An overview of community cultural wealth: Toward a protective factor against racism. *Urban Education, 58*(7), 1470–1488. <https://doi.org/10.1177/00420859211016531>
+
+Braun, V., & Clarke, V. (2022). Conceptual and design thinking for thematic analysis. *Qualitative Psychology, 9*(1), 3–26. <https://doi.org/10.1037/qup0000196>
+
+Fetters, M. D., Curry, L. A., & Creswell, J. W. (2013). Achieving integration in mixed methods designs—Principles and practices. *Health Services Research, 48*(6, Pt. 2), 2134–2156. <https://doi.org/10.1111/1475-6773.12117>
+
+Fetters, M. D., & Tajima, C. (2022). Joint displays of integrated data collection in mixed methods research. *International Journal of Qualitative Methods, 21*. <https://doi.org/10.1177/16094069221104564>
+
+Firestone, A. R., Cruz, R. A., & Massey, D. (2024). Theorizing with joint displays: Salient contributors to improving preservice teachers’ practice. *Journal of Mixed Methods Research, 18*(2), 115–136. <https://doi.org/10.1177/15586898231179508>
+
+Khalifa, M. A., Gooden, M. A., & Davis, J. E. (2016). Culturally responsive school leadership: A synthesis of the literature. *Review of Educational Research, 86*(4), 1272–1311. <https://doi.org/10.3102/0034654316630383>
+
+Lakens, D. (2022). Sample size justification. *Collabra: Psychology, 8*(1), Article 33267. <https://doi.org/10.1525/collabra.33267>
+
+Lundberg, I., Johnson, R., & Stewart, B. M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review, 86*(3), 532–565. <https://doi.org/10.1177/00031224211004187>
+
+Mansfield, K. C., & Lambrinou, M. (2024). Culturally responsive leadership: A critical analysis of one school district’s five-year plan. *Frontiers in Education, 9*, Article 1385788. <https://doi.org/10.3389/feduc.2024.1385788>
+
+Stanley, D. A., & Gilzene, A. (2023). Listening, engaging, advocating and partnering (L.E.A.P): A model for responsible community engagement for educational leaders. *Journal of Research on Leadership Education, 18*(2), 253–276. <https://doi.org/10.1177/19427751221076409>
+
+Younas, A., Pedersen, M., & Inayat, S. (2023). Practical strategies to identify and address discordant findings in mixed methods research. *Research Methods in Medicine & Health Sciences, 4*(1), 24–33. <https://doi.org/10.1177/26320843221122342>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Overview; value=False
+button; label=Elementary School; value=False
+button; label=Middle School; value=False
+button; label=High School; value=True
+button; label=Project; value=False
+button; label=Change school; value=False
+download_button; label=Download Framework High School (PDF); value=False
+download_button; label=Download Framework High School (Word); value=False
+radio; label=Choose a page; value=Theoretical and Conceptual Framework; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

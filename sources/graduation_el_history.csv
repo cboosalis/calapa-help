@@ -1,0 +1,4 @@
+reporting_year,student_group,graduates,cohort_students,five_year_graduates,source_file,graduation_rate,status_level,change_level,color,schoolwide_graduation_rate,gap_from_schoolwide,student_group_label
+2023,EL,36.0,52,0,graddownload2023.txt,69.2,2.0,4.0,3.0,78.1,-8.899999999999991,English Learners
+2024,EL,31.0,47,0,graddownload2024.txt,66.0,1.0,2.0,1.0,81.2,-15.200000000000003,English Learners
+2025,EL,46.0,65,3,graddownload2025.txt,70.8,2.0,4.0,3.0,85.9,-15.100000000000009,English Learners

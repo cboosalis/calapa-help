@@ -1,0 +1,169 @@
+KEY: 052
+TITLE: Equity Timeline Explorer - Graduation
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:31.784048+00:00
+
+## TITLES
+
+[TITLES 1]
+Equity Timeline Explorer
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## SUBHEADERS
+
+[SUBHEADERS 1]
+Build timeline
+
+[SUBHEADERS 2]
+Timeline
+
+[SUBHEADERS 3]
+Readable Evidence Table
+
+[SUBHEADERS 4]
+Counts, Denominators, and Source Group Codes
+
+[SUBHEADERS 5]
+Context
+
+[SUBHEADERS 6]
+Selectable lines
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+David Starr Jordan Senior High | CDS 19647331934454
+
+[CAPTIONS 3]
+Measure: Graduation rate (%). Values are percentages; for example, 30.3 means 30.3%.
+
+[CAPTIONS 4]
+Percentages by year. The primary subgroup has its own named column. `Not available` means the comparison line does not have a reported value for that year.
+
+[CAPTIONS 5]
+Prototype note: Academic ELA/Math timelines are intentionally deferred until the numeric student_group_id mapping is verified. Academic subgroup tables are large and must be queried only with targeted filters.
+
+[CAPTIONS 6]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+**Primary subgroup line:** African American / Black
+
+[MARKDOWN 3]
+<div style='margin:0.15rem 0 0.75rem 0;line-height:1.65;'><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:2px solid rgba(255,255,255,0.45);font-size:0.78rem;font-weight:700;white-space:nowrap;'><span style='color:#ef4444;font-size:1rem;'>●</span>African American / Black</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#fca5a5;font-size:1rem;'>●</span>All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#2563eb;font-size:1rem;'>●</span>District: All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#4ade80;font-size:1rem;'>●</span>State: All Students</span></div>
+
+[MARKDOWN 4]
+### Data availability notes
+
+[MARKDOWN 5]
+- `Not available` means no public value was returned for that year and comparison line.
+- Missing values should not be interpreted as zero.
+- A value may be unavailable because the student group did not meet CDE public reporting or accountability minimum-size rules.
+- A value may also be unavailable because the indicator did not apply to that entity or grade span, the comparison level is unavailable in the current data table, or the source file did not include a reported value.
+- Public reporting, Status, and performance-color minimums differ by indicator, year, and entity. A numeric status can appear without a performance color; consult the source-year rules.
+- Indicator formulas and business rules should be verified in the current CDE Dashboard Technical Guide.
+- Public Dashboard data should be confirmed with local district records before making final leadership claims or action decisions.
+
+[MARKDOWN 6]
+**Selected school context**
+
+[MARKDOWN 7]
+<div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School:</strong> David Starr Jordan Senior High</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District:</strong> Los Angeles Unified</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>County:</strong> Los Angeles</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School code:</strong> 1934454</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District code:</strong> 64733</div>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+[INFO BOXES 2]
+Caution: These lines compare separately reported aggregate groups or comparison levels. They do not show whether the same students belong to more than one group unless an intersectional category is explicitly available in the data.
+
+[INFO BOXES 3]
+Caution: At least one displayed denominator is below 30. Small denominators can make year-to-year rates unstable. Confirm counts, suppression rules, and local context before interpreting the pattern.
+
+[INFO BOXES 4]
+County comparison is not available for this indicator in the current database tables.
+
+## WARNINGS
+
+[WARNINGS 1]
+Source qualifications apply to this timeline. Review the qualification column below before interpreting changes or comparing groups.
+
+[WARNINGS 2]
+Use this view for preliminary pattern identification only. Verify public aggregate data with district records, the district office, the superintendent or designee, and other official local sources before making final leadership claims or action decisions.
+
+## TABLES AND DATAFRAMES
+
+[TABLE 1]
+Year African American / Black (%) All Students (%) District: All Students (%) State: All Students (%)
+2021                        81.0%            77.0%              Not available           Not available
+2022                        79.3%            80.2%                      86.0%                   87.4%
+2023                        65.4%            78.1%                      83.6%                   86.4%
+2024                        91.7%            81.2%                      86.7%                   86.7%
+2025                        90.3%            85.9%                      86.5%                   87.8%
+
+[TABLE 2]
+Year                     Line Group code Numerator Denominator Rate / percent (%)  Fifth-Year Graduates                                      Source Qualification          Source File
+2021 African American / Black         AA        17          21              81.0%                     0     Verify historical graduation measure and DASS variant graddownload2021.txt
+2021             All Students        ALL       141         183              77.0%                     2     Verify historical graduation measure and DASS variant graddownload2021.txt
+2022 African American / Black         AA        23          29              79.3%                     0     Verify historical graduation measure and DASS variant graddownload2022.txt
+2022             All Students        ALL       154         192              80.2%                     2     Verify historical graduation measure and DASS variant graddownload2022.txt
+2022   District: All Students        ALL    27,160      31,570              86.0%                  1247     Verify historical graduation measure and DASS variant graddownload2022.txt
+2022      State: All Students        ALL   447,979     512,524              87.4%                 14640     Verify historical graduation measure and DASS variant graddownload2022.txt
+2023 African American / Black         AA        17          26              65.4%                     0     Verify historical graduation measure and DASS variant graddownload2023.txt
+2023             All Students        ALL       139         178              78.1%                     0     Verify historical graduation measure and DASS variant graddownload2023.txt
+2023   District: All Students        ALL    25,480      30,476              83.6%                   466     Verify historical graduation measure and DASS variant graddownload2023.txt
+2023      State: All Students        ALL   435,295     503,548              86.4%                  8054     Verify historical graduation measure and DASS variant graddownload2023.txt
+2024 African American / Black         AA        33          36              91.7%                     2 Dashboard combined four-/five-year accountability measure graddownload2024.txt
+2024             All Students        ALL       155         191              81.2%                     4 Dashboard combined four-/five-year accountability measure graddownload2024.txt
+2024   District: All Students        ALL    25,751      29,706              86.7%                   616 Dashboard combined four-/five-year accountability measure graddownload2024.txt
+2024      State: All Students        ALL   448,696     517,434              86.7%                 10631 Dashboard combined four-/five-year accountability measure graddownload2024.txt
+2025 African American / Black         AA        28          31              90.3%                     1 Dashboard combined four-/five-year accountability measure graddownload2025.txt
+2025             All Students        ALL       170         198              85.9%                     4 Dashboard combined four-/five-year accountability measure graddownload2025.txt
+2025   District: All Students        ALL    25,851      29,899              86.5%                   547 Dashboard combined four-/five-year accountability measure graddownload2025.txt
+2025      State: All Students        ALL   445,720     507,889              87.8%                 11093 Dashboard combined four-/five-year accountability measure graddownload2025.txt
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download Equity Timeline Explorer (PDF); value=False
+download_button; label=Download Equity Timeline Explorer (Word); value=False
+download_button; label=Download Timeline Data (CSV); value=False
+download_button; label=Download source-qualified timeline evidence as CSV; value=False
+radio; label=Choose a page; value=Equity Timeline Explorer; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project
+selectbox; label=Indicator; value=Graduation; options=Chronic Absenteeism | Suspension | Graduation | ELPI
+selectbox; label=Primary group; value=African American / Black [AA]; options=African American / Black [AA] | American Indian or Alaska Native [AI] | Asian [AS] | English Learners [EL] | Foster Youth [FOS] | Hispanic / Latino [HI] | Homeless Youth [HOM] | Long-Term English Learners [LTEL] | Socioeconomically Disadvantaged [SED] | Students with Disabilities [SWD] | Two or More Races [MR] | White [WH]
+checkbox; label=All Students; value=True
+checkbox; label=District: All Students; value=True
+checkbox; label=State: All Students; value=True

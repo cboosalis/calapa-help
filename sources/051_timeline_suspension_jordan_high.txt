@@ -1,0 +1,165 @@
+KEY: 051
+TITLE: Equity Timeline Explorer - Suspension
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:31.128747+00:00
+
+## TITLES
+
+[TITLES 1]
+Equity Timeline Explorer
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## SUBHEADERS
+
+[SUBHEADERS 1]
+Build timeline
+
+[SUBHEADERS 2]
+Timeline
+
+[SUBHEADERS 3]
+Readable Evidence Table
+
+[SUBHEADERS 4]
+Counts, Denominators, and Source Group Codes
+
+[SUBHEADERS 5]
+Context
+
+[SUBHEADERS 6]
+Selectable lines
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+David Starr Jordan Senior High | CDS 19647331934454
+
+[CAPTIONS 3]
+Measure: Suspension rate (%). Values are percentages; for example, 30.3 means 30.3%.
+
+[CAPTIONS 4]
+Percentages by year. The primary subgroup has its own named column. `Not available` means the comparison line does not have a reported value for that year.
+
+[CAPTIONS 5]
+Prototype note: Academic ELA/Math timelines are intentionally deferred until the numeric student_group_id mapping is verified. Academic subgroup tables are large and must be queried only with targeted filters.
+
+[CAPTIONS 6]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+**Primary subgroup line:** African American / Black
+
+[MARKDOWN 3]
+<div style='margin:0.15rem 0 0.75rem 0;line-height:1.65;'><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:2px solid rgba(255,255,255,0.45);font-size:0.78rem;font-weight:700;white-space:nowrap;'><span style='color:#ef4444;font-size:1rem;'>●</span>African American / Black</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#fca5a5;font-size:1rem;'>●</span>All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#2563eb;font-size:1rem;'>●</span>District: All Students</span><span style='display:inline-flex;align-items:center;gap:0.35rem;margin:0.15rem 0.55rem 0.15rem 0;padding:0.18rem 0.42rem;border-radius:999px;border:1px solid rgba(255,255,255,0.20);font-size:0.78rem;font-weight:500;white-space:nowrap;'><span style='color:#4ade80;font-size:1rem;'>●</span>State: All Students</span></div>
+
+[MARKDOWN 4]
+### Data availability notes
+
+[MARKDOWN 5]
+- `Not available` means no public value was returned for that year and comparison line.
+- Missing values should not be interpreted as zero.
+- A value may be unavailable because the student group did not meet CDE public reporting or accountability minimum-size rules.
+- A value may also be unavailable because the indicator did not apply to that entity or grade span, the comparison level is unavailable in the current data table, or the source file did not include a reported value.
+- Public reporting, Status, and performance-color minimums differ by indicator, year, and entity. A numeric status can appear without a performance color; consult the source-year rules.
+- Indicator formulas and business rules should be verified in the current CDE Dashboard Technical Guide.
+- Public Dashboard data should be confirmed with local district records before making final leadership claims or action decisions.
+
+[MARKDOWN 6]
+**Selected school context**
+
+[MARKDOWN 7]
+<div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School:</strong> David Starr Jordan Senior High</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District:</strong> Los Angeles Unified</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>County:</strong> Los Angeles</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>School code:</strong> 1934454</div><div style='font-size:1.03rem;line-height:1.22;margin:0.18rem 0;'><strong>District code:</strong> 64733</div>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+[INFO BOXES 2]
+Caution: These lines compare separately reported aggregate groups or comparison levels. They do not show whether the same students belong to more than one group unless an intersectional category is explicitly available in the data.
+
+[INFO BOXES 3]
+County comparison is not available for this indicator in the current database tables.
+
+## WARNINGS
+
+[WARNINGS 1]
+Use this view for preliminary pattern identification only. Verify public aggregate data with district records, the district office, the superintendent or designee, and other official local sources before making final leadership claims or action decisions.
+
+## TABLES AND DATAFRAMES
+
+[TABLE 1]
+Year African American / Black (%) All Students (%) District: All Students (%) State: All Students (%)
+2019                         0.0%             0.0%                       0.4%                    3.4%
+2022                         4.9%             1.3%                       0.3%                    3.1%
+2023                         0.0%             0.0%                       0.4%                    3.5%
+2024                         0.0%             0.0%                       0.4%                    3.2%
+2025                         0.0%             0.0%                       0.3%                    2.9%
+
+[TABLE 2]
+Year                     Line Group code Numerator Denominator Rate / percent (%) Source Qualification          Source File
+2019 African American / Black         AA         0         104               0.0%                      suspdownload2019.txt
+2019             All Students        ALL         0         598               0.0%                      suspdownload2019.txt
+2019   District: All Students        ALL     1,809     475,140               0.4%                      suspdownload2019.txt
+2019      State: All Students        ALL   214,441   6,362,507               3.4%                      suspdownload2019.txt
+2022 African American / Black         AA         8         163               4.9%                      suspdownload2022.txt
+2022             All Students        ALL        12         917               1.3%                      suspdownload2022.txt
+2022   District: All Students        ALL     1,202     422,509               0.3%                      suspdownload2022.txt
+2022      State: All Students        ALL   189,079   6,066,021               3.1%                      suspdownload2022.txt
+2023 African American / Black         AA         0         171               0.0%                      suspdownload2023.txt
+2023             All Students        ALL         0         940               0.0%                      suspdownload2023.txt
+2023   District: All Students        ALL     1,495     412,032               0.4%                      suspdownload2023.txt
+2023      State: All Students        ALL   212,681   6,019,472               3.5%                      suspdownload2023.txt
+2024 African American / Black         AA         0         173               0.0%                      suspdownload2024.txt
+2024             All Students        ALL         0         971               0.0%                      suspdownload2024.txt
+2024   District: All Students        ALL     1,627     404,344               0.4%                      suspdownload2024.txt
+2024      State: All Students        ALL   193,100   6,021,915               3.2%                      suspdownload2024.txt
+2025 African American / Black         AA         0         174               0.0%                      suspdownload2025.txt
+2025             All Students        ALL         0         940               0.0%                      suspdownload2025.txt
+2025   District: All Students        ALL     1,343     388,896               0.3%                      suspdownload2025.txt
+2025      State: All Students        ALL   170,274   5,961,200               2.9%                      suspdownload2025.txt
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Change school; value=False
+download_button; label=Download Equity Timeline Explorer (PDF); value=False
+download_button; label=Download Equity Timeline Explorer (Word); value=False
+download_button; label=Download Timeline Data (CSV); value=False
+download_button; label=Download source-qualified timeline evidence as CSV; value=False
+radio; label=Choose a page; value=Equity Timeline Explorer; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project
+selectbox; label=Indicator; value=Suspension; options=Chronic Absenteeism | Suspension | Graduation | ELPI
+selectbox; label=Primary group; value=African American / Black [AA]; options=African American / Black [AA] | American Indian or Alaska Native [AI] | Asian [AS] | English Learners [EL] | Foster Youth [FOS] | Hispanic / Latino [HI] | Homeless Youth [HOM] | Long-Term English Learners [LTEL] | Socioeconomically Disadvantaged [SED] | Students with Disabilities [SWD] | Two or More Races [MR] | White [WH]
+checkbox; label=All Students; value=True
+checkbox; label=District: All Students; value=True
+checkbox; label=State: All Students; value=True

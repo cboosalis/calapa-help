@@ -1,0 +1,523 @@
+KEY: 044
+TITLE: Framework - Project
+CONTEXT: Jordan High | Los Angeles Unified | Los Angeles County | CDS 19647331934454
+EXPORTED: 2026-10-06T16:17:29.567439+00:00
+
+## TITLES
+
+[TITLES 1]
+Theoretical / Conceptual Framework
+
+## HEADERS
+
+[HEADERS 1]
+CalAPA Equity Copilot
+
+## CAPTIONS
+
+[CAPTIONS 1]
+Download this page. Includes the displayed scope, source notes, and limitations.
+
+[CAPTIONS 2]
+Graduate research and project development | Theory → concepts → evidence → leadership decisions
+
+[CAPTIONS 3]
+Selected school: Jordan High | Los Angeles Unified | CDS 19647331934454
+
+## MARKDOWN
+
+[MARKDOWN 1]
+<style>
+    div[data-testid="stMarkdownContainer"] p,
+    div[data-testid="stMarkdownContainer"] li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    div[data-testid="stMarkdownContainer"] table {
+        font-size: 1rem;
+    }
+
+    textarea {
+        font-size: 1rem !important;
+        line-height: 1.45 !important;
+    }
+
+    .stCaptionContainer {
+        font-size: 0.95rem !important;
+    }
+</style>
+
+[MARKDOWN 2]
+<style>
+.st-key-framework_content table {
+  width: 100%; table-layout: fixed; border-collapse: collapse;
+  font-size: .97rem; line-height: 1.55; margin: 1rem 0 1.35rem;
+}
+.st-key-framework_content th, .st-key-framework_content td {
+  white-space: normal !important; overflow-wrap: anywhere;
+  word-break: normal; vertical-align: top; text-align: left;
+  padding: .65rem .75rem; border: 1px solid rgba(128,128,128,.35);
+}
+.st-key-framework_content th { font-weight: 650; }
+.st-key-framework_content p, .st-key-framework_content li { line-height: 1.65; }
+.st-key-framework_content h2 { margin-top: 1.4rem; }
+.st-key-framework_content h3 { margin-top: 1.25rem; }
+.st-key-framework_content a { overflow-wrap: anywhere; }
+.st-key-framework_content blockquote { padding: .7rem 1rem; }
+.st-key-framework_section_buttons button { min-height: 3rem; }
+.st-key-framework_section_buttons button p { white-space: normal; }
+@media (max-width: 640px) {
+  .st-key-framework_content table { font-size: .86rem; }
+  .st-key-framework_content th, .st-key-framework_content td { padding: .4rem; }
+}
+</style>
+
+[MARKDOWN 3]
+## Project
+
+**Epsilon Union School District — administrator professional-development project**
+
+A Graduate Project to Develop Professional Learning for Elementary, Middle, and High School Administrators
+
+**Illustrative project title:** *From Equity Indicators to Leadership Action: Developing a Professional-Development Workshop and Follow-Up Inquiry Cycle for Epsilon District Administrators*
+
+This example differs from the preceding thesis examples. **The graduate project’s central product is a professional-development program**, supported by a scholarly rationale, a theoretical framework, a conceptual framework, instructional materials, and an evaluation plan.
+
+The intended participants are elementary, middle, and high school **principals, assistant principals, and district administrators**. The workshop prepares them to investigate equity gaps through decisions about school procedures, instructional opportunity, communication, resource allocation, and community participation. It is not a workshop that merely teaches administrators how to read a dashboard.
+
+> **Status of this example**
+>
+> Epsilon is a fictional teaching district. School figures are synthetic; proposed study materials, participant excerpts, statistical results, findings, and recommendations are illustrative unless explicitly identified otherwise. They are not evidence collected from actual participants or schools. Published scholarship and institutional guidance are cited separately; neither is an Epsilon finding.
+
+The program described here is a proposed graduate-project product, not an existing district intervention with demonstrated effects.
+
+### 1. Define the project’s problem and purpose
+
+An administrator can correctly identify an attendance or academic disparity and still make an unsupported decision about its explanation. A school might respond to elevated absenteeism by intensifying family notifications without investigating whether communication, transportation, student experience, or support procedures are relevant. Another school might purchase an intervention before examining whether students can access the help already available.
+
+Research supports treating equitable data use as a leadership-learning problem rather than simply a technical skill. Roegman et al. (2022) found that principals’ data use reflected their districts’ conceptions of equity, including attention to access, achievement, identity, and power. Their findings suggest that professional learning should examine the interpretations surrounding data, not only their calculation.
+
+Dodman et al. (2023) similarly connect data literacy with equity literacy. Their professional-development study involved teachers, not an administrator-only cohort, so it does not establish the effectiveness of the proposed Epsilon workshop. It nevertheless offers a relevant instructional principle: learning to use data for equity includes examining structural conditions and the assumptions through which evidence is understood.
+
+#### Model problem statement
+
+The problem addressed by this project is the need for a structured professional-learning resource that helps administrators move from identifying equity disparities to conducting evidence-bounded, community-informed investigations of institutional conditions.
+
+Epsilon’s synthetic indicators provide cases through which administrators can practice this reasoning. They do not demonstrate that administrators lack competence or that professional development is the principal solution to the disparities. In an actual district, a preliminary needs assessment would determine whether the need concerns administrator learning, organizational resources, unclear authority, implementation conditions, or some combination.
+
+#### Model purpose statement
+
+The purpose of this project is to develop a professional-development workshop and follow-up inquiry cycle that prepares elementary, middle, and high school administrators to interpret equity indicators, examine competing explanations, incorporate community knowledge, investigate institutional practices, and construct defensible action-and-learning plans.
+
+The product will include common instruction, differentiated Epsilon school cases, facilitated practice, performance-assessment tools, and a plan for reviewing the workshop’s quality and usefulness.
+
+#### Central project-development question
+
+> **How can a theory-informed professional-development program prepare administrators to turn equity indicators into defensible investigations and proportionate leadership decisions across elementary, middle, and high school settings?**
+
+This is a **development question**, not a hypothesis that the workshop will close achievement or attendance gaps. Any later claim about effectiveness would require evidence from an appropriate evaluation.
+
+### 2. Use the Epsilon data to establish the learning context
+
+The workshop begins with a shared district profile before participants move into school-specific work.
+
+**Table 1. Selected synthetic Epsilon results, 2024–25**
+
+| **Indicator** | **Elementary** | **Middle** | **High** |
+| --- | --- | --- | --- |
+| Schoolwide chronic absenteeism | 18.2%: 111/610 | 21.7%: 156/720 | 19.8%: 174/880 |
+| English Learner chronic absenteeism | 31.4%: 69/220 | 34.0%: 85/250 | 36.8%: 81/220 |
+| Students with Disabilities: chronic absenteeism | 33.7%: 32/95 | 37.3%: 41/110 | 35.2%: 44/125 |
+| Foster Youth chronic absenteeism | 41.7%: 10/24 | 46.4%: 13/28 | 47.1%: 16/34 |
+| Schoolwide mathematics met/exceeded standard (valid-score denominator) | 34.8%: 93/267 | 30.9%: 124/401 | 30.1%: 66/219 |
+
+*Note.* Attendance percentages reflect the application’s generated whole-student counts and rounding. Assessment and attendance results represent different eligible populations. Student groups overlap, and the schoolwide population includes subgroup students. These are fabricated teaching records, not independent samples for hypothesis testing. Source: the app’s epsilon_synthetic.py teaching-data definitions.
+
+The facilitator asks administrators to distinguish three statements:
+
+**What is supported:** The synthetic records show different reported outcomes.
+
+**What warrants investigation:** The circumstances and institutional conditions associated with those differences.
+
+**What is not established:** That any particular family characteristic, staff behavior, policy, or program caused the disparity.
+
+The workshop does not begin by assigning the elementary principal a communication intervention, the middle school principal a belonging program, and the high school principal a tutoring initiative. Those are possible responses to particular conditions—not conclusions supplied by the table.
+
+The full case packets can include the app’s other available subgroup results. However, the workshop must not invent Epsilon suspension, graduation, or ELPI findings to complete an attractive presentation. Unavailable evidence remains unavailable.
+
+### 3. The theoretical framework: What should administrator learning change?
+
+#### Model theoretical-framework narrative
+
+This project is grounded primarily in **Culturally Responsive School Leadership**, supported by Community Cultural Wealth, responsible community engagement, and evidence-informed principles of administrator professional learning. Improvement Science provides an orientation toward testing and revising leadership responses.
+
+These perspectives perform different functions. The leadership framework identifies the practices and responsibilities administrators should examine. The community-oriented perspectives shape whose knowledge is recognized. Professional-learning research informs how participants will practice. Improvement Science informs what happens after the workshop.
+
+#### Culturally Responsive School Leadership: Make administrative decisions visible
+
+Khalifa et al. (2016) identify critical self-awareness, culturally responsive school environments, teacher preparation, and community advocacy as important dimensions of leadership. Their framework directs attention beyond individual intentions toward the institution’s practices and relationships.
+
+For this project, that means administrators will practice examining **decisions within their responsibility or influence**: scheduling, staffing, referral procedures, communication, access to support, and follow-through.
+
+Mansfield and Lambrinou (2024) reinforce the importance of organizational support and student voice. Their district-plan analysis questions whether statements of commitment provide sufficient detail about implementation. The proposed workshop therefore requires participants to move from an equity commitment to an examination of what actually happens in school procedures.
+
+An administrator’s completed task should not merely say, “We value equitable access.” It should identify which access process will be examined, who experiences it, what evidence is needed, and who can change it.
+
+#### Community Cultural Wealth: Refuse unsupported deficit explanations
+
+Acevedo and Solorzano (2023) describe Community Cultural Wealth as a framework that challenges deficit interpretations of Communities of Color and recognizes resources used in navigating educational settings and racism.
+
+In the workshop, administrators must therefore examine the knowledge, relationships, advocacy, and resources students and families already use. They cannot treat nonparticipation in a school program as automatic evidence of indifference.
+
+The framework’s racialized origins remain explicit. English Learner classification, disability, foster-care status, and racial identity are not interchangeable. Case discussion must investigate relevant experiences rather than infer a uniform culture or explanation from a reporting category.
+
+#### Responsible community engagement: Give participation interpretive authority
+
+Stanley and Gilzene’s (2023) model emphasizes listening, engaging, advocating, and partnering with community-based assets. It provides a conceptual basis for treating community involvement as a substantive leadership responsibility.
+
+The workshop translates that responsibility into an observable requirement: administrators must show **how student, family, or community knowledge could change their explanation and proposed response**.
+
+A listening session designed only to confirm an already selected solution would not meet that requirement.
+
+#### Professional learning: Practice leadership rather than listen to descriptions of it
+
+Darling-Hammond et al. (2022) identify authentic, problem-based learning, collegial support, and coaching or mentoring among features associated with stronger principal development. Their review also notes limitations in the evidence and differences in access to learning opportunities.
+
+These findings inform the proposed use of case analysis, rehearsal, feedback, and follow-up. They do not establish that the exact Epsilon schedule below is optimal.
+
+Accordingly, the program includes a workshop **and a supported inquiry cycle**. Participants practice a decision, receive feedback, revise it, and later examine whether they can apply the reasoning.
+
+#### Improvement Science: Keep action connected to learning
+
+Bonney et al. (2025) found that practitioners learning Improvement Science valued collaborative inquiry while encountering difficulties resisting quick solutions and navigating organizational constraints. Their study supports including opportunities to revisit interpretations rather than treating a completed action plan as the end of learning.
+
+The workshop therefore asks administrators to identify not only an action but also the evidence that would justify, challenge, or stop it.
+
+### 4. The conceptual framework: How should the workshop produce learning?
+
+The conceptual framework now turns those scholarly commitments into the project’s proposed learning design.
+
+#### Model conceptual-framework narrative
+
+This project conceptualizes administrator learning as a supported movement from **noticing an outcome difference** to **constructing, testing, and revising a defensible leadership response**.
+
+The proposed learning process combines explicit instruction, case-based practice, community-perspective analysis, institutional-process examination, feedback, and follow-up application. Each activity produces an artifact through which the administrator’s reasoning becomes visible.
+
+The immediate intended outcomes are more accurate interpretation, clearer evidence boundaries, stronger inquiry questions, and better alignment between evidence and proposed action. Subsequent changes in administrative practice are a separate outcome requiring follow-up evidence. Changes in student opportunities and outcomes are more distant goals that cannot be established by workshop completion alone.
+
+The project’s proposed logic is:
+
+**Scholarly perspectives → Structured practice and feedback → Stronger leadership reasoning → Supported application → Possible improvements in institutional conditions**
+
+The final connection depends on implementation, resources, authority, community participation, and other conditions. This is a **proposed program logic**, not a demonstrated causal chain.
+
+**Table 2. Translating the framework into workshop design**
+
+| **Framework commitment** | **Workshop application** | **Evidence of participant learning** |
+| --- | --- | --- |
+| Evidence-bounded interpretation | Revise unsupported claims using the Epsilon records. | A verifiable statement and explicit claim boundary |
+| Institutional responsibility | Examine a school procedure and its decision points. | A process map identifying authority and evidence needs |
+| Community knowledge | Compare an initial explanation with fictional participant accounts. | A documented revision—or a justified explanation of why none is warranted |
+| Ethical stewardship | Review collection and reporting risks. | A protection plan addressing participation, access, and confidentiality |
+| Improvement-oriented leadership | Design a bounded response or next inquiry. | An action-and-learning plan with measures and revision triggers |
+
+*Note.* These are proposed instructional translations of the framework. The six-question leadership sequence comes from the white paper; the workshop activities and assessment artifacts are developed here.
+
+This framework keeps the workshop focused on what administrators **do with evidence**. Knowing the names of theories is useful, but it is not the primary performance outcome.
+
+### 5. Specify the professional-development product
+
+The proposed product is a **six-hour facilitated workshop**, excluding breaks and lunch, followed by three one-hour inquiry meetings approximately 30, 60, and 90 days later.
+
+Participants work first across school levels and then in elementary, middle, and high school groups. District administrators participate in a cross-level council examining responsibilities that cannot be resolved by one principal.
+
+The complete graduate-project product would contain:
+
+**Table 3. Components of the professional-development product**
+
+| **Component** | **What it includes** |
+| --- | --- |
+| **Facilitator guide** | Scholarly rationale, preparation notes, timing, scripts, debrief questions, and responses to predictable misconceptions |
+| **Participant workbook** | Evidence-boundary worksheet, theory-to-inquiry guide, process-map template, and action-and-learning plan |
+| **Three Epsilon case packets** | Synthetic app results plus separately labeled fictional documents and perspectives |
+| **Evaluation materials** | Entry and exit performance tasks, scoring rubric, feedback forms, and follow-up review tools |
+| **Implementation guide** | Staffing, preparation, accessibility, technology, offline alternatives, and adaptation requirements |
+
+This is more than a slide deck. Another facilitator should be able to understand the rationale, run the activities, recognize unsafe or unsupported interpretations, and evaluate the resulting work.
+
+The app supports examining indicators and timelines. Printed or accessible digital case tables provide an alternative when technology fails. Identifiable records from actual schools would not be uploaded into the public application.
+
+### 6. Build the workshop around the six leadership questions
+
+**Table 4. Proposed six-hour instructional sequence**
+
+| **Time** | **Learning activity** | **Administrator product** |
+| --- | --- | --- |
+| **30 minutes** | Complete an individual entry task: interpret a short Epsilon case and propose a next step. | Baseline reasoning sample |
+| **45 minutes** | Examine theory and revise deficit or unsupported causal statements. | Revised claim with theoretical justification |
+| **45 minutes** | Use the app to describe patterns, variation, denominators, and missing evidence. | Evidence-bound problem statement |
+| **60 minutes** | Complete differentiated elementary, middle, or high school case analysis. | School-specific inquiry questions |
+| **60 minutes** | Examine fictional community accounts and institutional artifacts. | Revised explanation and process map |
+| **60 minutes** | Convene a cross-level leadership council to identify site and district responsibilities. | Coordinated inquiry or action-and-learning plan |
+| **60 minutes** | Complete an individual transfer task, receive feedback, and revise the team plan. | Exit performance and revised plan |
+
+The learning products across this sequence make the existing six-question reasoning assessable; they do not replace it with new framework steps.
+
+During discussion, the facilitator repeatedly asks:
+
+> “What supports that statement?”  
+> “What would make you reconsider it?”  
+> “Whose knowledge is absent?”  
+> “Which decision belongs to the school, and which belongs to the district?”
+
+These questions preserve the white paper’s distinction between describing a disparity and explaining it.
+
+The session should not require administrators to announce a new intervention before leaving. A well-designed next inquiry may be the most defensible product.
+
+### 7. Differentiate the cases by administrative responsibility
+
+The three school cases share a leadership model but do not simply repeat the same activity with different percentages.
+
+**All additional documents and participant statements described below are proposed fictional teaching materials. They are not findings about Epsilon.**
+
+#### Elementary case: When an attendance response becomes usable support
+
+The elementary team begins with the elevated synthetic chronic-absenteeism rates. Its first task is to write a description without inferring that families lack commitment.
+
+The facilitator then releases fictional materials: an attendance-notification template, a referral procedure, a family account describing repeated explanations to different offices, and a contrasting account in which a staff member maintained helpful follow-through.
+
+Administrators investigate whether the described process assigns responsibility for resolving a need or only for sending a message.
+
+The principal’s work is to examine communication, coordination, staff responsibilities, and access to support—not to design a lesson for children.
+
+The team produces an **attendance-support process map** showing who receives information, who decides the next step, who follows up, and what would establish that the family obtained useful assistance.
+
+A district administrator considers whether the issue concerns site procedures or a shared service, such as interpretation, transportation, or interagency coordination. Those possibilities remain hypotheses until supported.
+
+#### Middle school case: When support creates another access problem
+
+The middle school team reviews attendance and mathematics patterns. It receives a fictional master schedule, an intervention-placement rule, selected student perspectives, and a contrasting example of a schedule that preserves access to both support and valued learning opportunities.
+
+The case asks administrators to examine a possible tradeoff: students may be assigned additional support while losing access to another course, activity, or relationship they value.
+
+Participants must not conclude that this tradeoff explains the attendance gap. Their task is to identify what scheduling and student-experience evidence would establish whether it occurs and whom it affects.
+
+The principal’s product is an **instructional-access audit plan** specifying the records to review, the student perspectives needed, and the decision rules requiring examination.
+
+The team must also distinguish what can be changed within the current timetable from what requires district staffing, course-allocation, or policy decisions.
+
+#### High school case: When “available tutoring” is not accessible help
+
+The high school team reviews the synthetic academic and attendance concerns. Its fictional packet includes tutoring schedules, participation records, eligibility rules, and student accounts describing different routes to obtaining help.
+
+Some accounts describe effective formal tutoring. Others describe timetable conflicts, unclear permission requirements, or help obtained informally through a trusted adult.
+
+Administrators distinguish **formal availability, practical accessibility, and experienced usefulness**. They cannot assume that a listed service is accessible or that nonparticipation means students do not want assistance.
+
+The principal produces an **academic-support access review** identifying what must be learned about scheduling, permission, communication, participation, and follow-through.
+
+Graduation remains a potential future inquiry domain, not an invented Epsilon finding. The case cannot use graduation claims without appropriate evidence.
+
+#### Cross-level council: What is actually a district issue?
+
+Mixed-school teams then compare their process maps.
+
+They may discover that similar-looking disparities invite different inquiries. Conversely, different school cases may raise a shared question about language access, referral ownership, or service coordination.
+
+The council must decide what warrants a district-level investigation and what remains school-specific. Similar subgroup percentages do not prove that the same cause operates at all three levels.
+
+### 8. Show what a strong administrator product looks like
+
+The following is an **illustrative plan for the elementary case**, based on the fictional materials—not a recommendation established by the synthetic chronic-absenteeism rates.
+
+#### Model evidence-linked inquiry and action plan
+
+**Observed pattern.** Epsilon Elementary’s synthetic English Learner chronic-absenteeism rate exceeds the schoolwide chronic-absenteeism rate in the stated year.
+
+**Evidence boundary.** The rate does not establish why students were absent, whether families understood communications, or whether existing supports addressed their circumstances.
+
+**Working question.** How are attendance concerns communicated and followed through, and do families experience the resulting response as usable support?
+
+**Additional evidence.** Examine the notification and referral process, authorized implementation records, and voluntarily contributed family and staff perspectives. Seek both successful and unresolved examples.
+
+**Leadership responsibility.** The principal examines site procedures and staff responsibilities. The district office examines shared interpretation or service-coordination arrangements where relevant.
+
+**Conditional response.** If the inquiry identifies unclear responsibility for follow-through, collaboratively test a defined contact-and-follow-up process. If it instead identifies an unavailable resource, change the response accordingly.
+
+**Learning measures.** Examine whether responsibility was assigned, whether planned follow-up occurred, and whether participating families report that the response addressed the identified need. Attendance outcomes may be monitored separately but would not establish the process change’s effect by themselves.
+
+**Balancing concern.** Monitor whether the process increases family burden, unnecessary contact, stigmatization, or staff workload.
+
+**Revision trigger.** Reconsider the process when families report additional burden, follow-through remains unclear, or the response fails to address the identified condition.
+
+This is stronger than “increase parent contact” because it states the uncertainty, the decision process, and the conditions under which a particular response would make sense.
+
+Immediate assistance for a documented need need not wait for a complete causal explanation. The plan should distinguish such support from a claim that the district has identified and corrected the cause of an aggregate disparity.
+
+### 9. Explain how the graduate student would develop and review the project
+
+The project-development process should be documented rather than described as “I reviewed research and made slides.”
+
+#### An evidence-aligned project-development cycle
+
+The following sequence names the development work for this example. It is a flexible, locally organized design procedure—not an independently validated model or, by itself, an empirical research design. The developer records which stages actually occurred and which remain planned.
+
+**Table 5. Project-development procedure and evidence trail**
+
+| Development step | Record to retain |
+|---|---|
+| **1. Establish the need** | Available needs evidence and a distinction between a learning problem and a resource or authority problem |
+| **2. Define users and context** | Intended administrator roles, school levels, participation conditions, and implementation constraints |
+| **3. Derive scholarly requirements** | A rationale linking each major design requirement to the framework and reviewed literature |
+| **4. Align learning** | A connection among competencies, activities, participant products, and assessment criteria |
+| **5. Develop the prototype** | Facilitator materials, case packets, participant tools, and versioned drafts |
+| **6. Obtain expert and user review** | Review questions, perspectives represented, feedback, disagreements, and accessibility concerns |
+| **7. Pilot selected elements** | What was tried, with whom, under which conditions, and what evidence was actually collected |
+| **8. Document revisions** | The issue, its supporting evidence, the change made, and remaining questions |
+| **9. Specify use and evaluation** | Implementation requirements, protections, outcome distinctions, and the evaluation still needed |
+
+The later subsections explain how these records support the project. A finished product may be accompanied by development and review evidence without claiming that its effect on leadership or student outcomes has been tested.
+
+#### Establish the proposed learning need
+
+In an actual implementation setting, the developer would begin with a brief needs assessment: an administrator case-response task, review of existing improvement-planning materials, and consultation about difficult leadership decisions.
+
+The assessment should distinguish a learning need from a resource or authority problem. Administrators may already recognize a barrier but lack the staffing, budget, or decision authority to address it.
+
+For an Epsilon-only project, this needs analysis remains a simulated design exercise. The manuscript must not report nonexistent administrator survey findings.
+
+#### Develop the instructional materials
+
+The developer connects each intended competency to instruction, practice, an artifact, and a scoring criterion. This creates a traceable design rather than a collection of activities.
+
+The fictional packets should include ambiguity and contrasting evidence. They should not train participants to guess the one explanation the author secretly prefers.
+
+#### Review with relevant perspectives
+
+A proposed formative-review panel would include administrators from the three levels, a leadership educator or methods reviewer, and family or community partners with relevant perspectives.
+
+Reviewers would examine factual accuracy, theoretical alignment, usability, developmental appropriateness, accessibility, and potential deficit framing. Community reviewers should be supported to participate meaningfully rather than asked to provide unpaid symbolic approval.
+
+#### Pilot and revise
+
+A small pilot could test instructions, timing, task difficulty, and scoring clarity. A revision record would identify the problem, the evidence informing the revision, the change made, and what still needs testing.
+
+**A developed, reviewed product is not the same as an evaluated effective program.** The final manuscript should state exactly which stages were completed.
+
+### 10. Evaluate learning without overstating impact
+
+The evaluation should distinguish four questions: Was the product usable? Did participants demonstrate the intended reasoning? Did they apply it? Did institutional conditions or student outcomes change?
+
+**Table 6. Proposed evaluation plan**
+
+| **Evaluation level** | **Evidence** | **Defensible conclusion** |
+| --- | --- | --- |
+| **Product quality** | Reviewer feedback, accessibility review, timing observations, and revision records | Whether the materials appear accurate, usable, and appropriately designed |
+| **Immediate learning** | Individual entry and exit case tasks | Whether demonstrated reasoning changed on the assessed tasks |
+| **Application** | Follow-up process maps, inquiry records, and revised plans | Whether participants used the approach in documented work |
+| **Institutional and student outcomes** | Separately planned implementation and outcome evidence | Whether conditions changed; causal attribution requires a stronger design |
+
+Participant satisfaction can identify useful improvements to the workshop. It cannot establish that participants learned, changed practice, or reduced equity gaps.
+
+#### Use a performance rubric
+
+The proposed entry and exit tasks would use different but comparable cases. Each participant—not only the school team—would produce a response. Pilot review should examine case difficulty and scoring comparability; a score difference between unequal tasks cannot be interpreted straightforwardly as a change in learning.
+
+**Table 7. Criteria for assessing administrator reasoning**
+
+| **Criterion** | **Evidence of stronger performance** |
+| --- | --- |
+| **Descriptive accuracy** | Identifies the measure, population, time period, denominator, and relevant comparison correctly |
+| **Evidence boundary** | Distinguishes findings from hypotheses and identifies what remains unknown |
+| **Equity interpretation** | Avoids unsupported deficit claims and examines relevant institutional conditions |
+| **Community participation** | Explains whose knowledge is needed and how it could change the interpretation |
+| **Leadership responsibility** | Identifies site and district decisions, owners, and feasible next steps |
+| **Action and learning** | Connects the response to evidence, safeguards, measures, and revision triggers |
+
+For a pilot, each criterion could use a **0–3 scale**: absent or contradictory, emerging, adequate, and well justified. Scorers would use anchor examples, discuss disagreements, and review a subset independently. This would be a locally developed instructional rubric, not a validated test of leadership effectiveness.
+
+Before scoring the pilot work, train scorers on the criteria and use anchor responses to make distinctions between score levels explicit. Have a subset scored independently before discussion, preserve the initial scores, review disagreements, and revise ambiguous criteria where warranted. If a revision changes the rubric’s meaning, rescore both entry and exit work using the same final criteria and retain the original scores in the review record. Report unresolved disagreements and any changes to the scoring procedure. Agreement evidence helps describe consistency; no single agreement statistic establishes the rubric’s validity or proves that participants became effective leaders.
+
+Analysis would summarize participant-level changes and criterion-specific strengths and weaknesses. Team plans would be analyzed separately; one group artifact would not be counted as independent evidence for every team member.
+
+With a small administrator cohort, transparent descriptive analysis is likely to be more informative than an elaborate significance test. Even a clear entry-to-exit improvement would show better performance on the tasks, not prove that the workshop caused durable practice change.
+
+#### Follow-up inquiry meetings
+
+At approximately **30 days**, participants review evidence collected and whether their original problem statement still fits.
+
+At **60 days**, they examine a supported response or explain why further inquiry was necessary.
+
+At **90 days**, they present what changed in their reasoning, what was implemented, what remains unresolved, and what decision follows.
+
+Bonney et al. (2025) describe the importance of continued support as practitioners confront the difficulties of applying improvement processes. That finding supports the inclusion of follow-up, without validating these particular intervals.
+
+In an Epsilon simulation, follow-up uses staged fictional evidence. In a real district, local inquiry requires approved access, appropriate permissions, and protections. Calling an activity “professional development” or a “project” does not, by itself, settle its research-review status.
+
+### 11. Organize the graduate-project manuscript
+
+The following is an illustrative five-chapter organization. Adapt chapter titles, placement of the product, and appendices to the graduate program’s current requirements.
+
+**Chapter 1: Problem and purpose.** Explain the proposed administrator-learning need, the district case, the project’s purpose, audience, scope, and limitations.
+
+**Chapter 2: Scholarship and frameworks.** Develop the leadership-centered theoretical argument and the conceptual model connecting instruction, practice, feedback, and application.
+
+**Chapter 3: Project-development procedures.** Document needs assessment, source selection, instructional alignment, material development, review, pilot procedures, and ethical safeguards.
+
+**Chapter 4: The professional-development product.** Present the facilitator guide, workshop sequence, three school cases, participant tools, and evaluation materials.
+
+**Chapter 5: Review, revisions, and implications.** Report only the review or pilot evidence actually collected. Explain revisions, implementation requirements, unresolved limitations, and the additional evaluation needed.
+
+The workshop materials would appear in the project appendices or accompanying resource package. The manuscript explains **why the product was designed this way** and what evidence supports its claims.
+
+#### What belongs in the final review-and-implications chapter
+
+Report development, review, or pilot evidence only when it was actually collected. The following are examples of defensible claim forms—not events asserted to have occurred in Epsilon: “Reviewers identified ambiguity in the facilitator instructions”; “The pilot process-mapping task required more time than planned”; or “Independent scorers interpreted the evidence-boundary criterion differently, prompting a revision.” Each would need a corresponding record in a completed project.
+
+Satisfaction feedback alone would not support “The workshop improved leadership practice.” Favorable expert review would not establish effectiveness, and a completed product would not demonstrate reduced student disparities. Those claims require the relevant implementation or outcome evidence and a defensible evaluation design. This distinction preserves the difference between producing a professional resource and testing what it accomplishes.
+
+### Closing principle
+
+The project is not complete merely because it contains an engaging presentation about equity.
+
+Its scholarly contribution is a defensible connection among theory, administrator learning, differentiated school cases, performance evidence, and the decisions participants are prepared to make.
+
+> **The theoretical framework establishes what equitable leadership requires. The conceptual framework explains how the professional learning is intended to develop that capacity. The workshop provides practice. Evaluation determines what participants actually demonstrated—and what remains unproven.**
+
+The aim is to prepare administrators to address equity gaps without confusing an indicator with an explanation, community consultation with partnership, or an action plan with evidence of improvement.
+
+### References
+
+Acevedo, N., & Solorzano, D. G. (2023). An overview of community cultural wealth: Toward a protective factor against racism. *Urban Education, 58*(7), 1470–1488. <https://doi.org/10.1177/00420859211016531>
+
+Bonney, E. N., Yurkofsky, M. M., & Capello, S. A. (2025). EdD students’ sensemaking of improvement science as a tool for change in education. *Journal of Research on Leadership Education, 20*(1), 3–31. <https://doi.org/10.1177/19427751231221032>
+
+Darling-Hammond, L., Wechsler, M. E., Levin, S., Leung-Gagné, M., & Tozer, S. (2022). *Developing effective principals: What kind of learning matters?* Learning Policy Institute. <https://learningpolicyinstitute.org/product/developing-effective-principals-report>
+
+Dodman, S. L., DeMulder, E. K., View, J. L., Stribling, S. M., & Brusseau, R. (2023). “I knew it was a problem before, but did I really?”: Engaging teachers in data use for equity. *Journal of Educational Change, 24*(4), 995–1023. <https://doi.org/10.1007/s10833-022-09477-z>
+
+Khalifa, M. A., Gooden, M. A., & Davis, J. E. (2016). Culturally responsive school leadership: A synthesis of the literature. *Review of Educational Research, 86*(4), 1272–1311. <https://doi.org/10.3102/0034654316630383>
+
+Mansfield, K. C., & Lambrinou, M. (2024). Culturally responsive leadership: A critical analysis of one school district’s five-year plan. *Frontiers in Education, 9*, Article 1385788. <https://doi.org/10.3389/feduc.2024.1385788>
+
+Roegman, R., Perkins-Williams, R., Budzyn, M., Killian-Tarr, O., & Allen, D. (2022). How conceptions of equity inform principal data use: A purposeful examination of principals from four school districts. *Educational Administration Quarterly, 58*(2), 183–222. <https://doi.org/10.1177/0013161X211056084>
+
+Stanley, D. A., & Gilzene, A. (2023). Listening, engaging, advocating and partnering (L.E.A.P): A model for responsible community engagement for educational leaders. *Journal of Research on Leadership Education, 18*(2), 253–276. <https://doi.org/10.1177/19427751221076409>
+
+## INFO BOXES
+
+[INFO BOXES 1]
+Every effort has been made to ensure that the figures on this site and in its reports are accurate. Users must double-check all figures against records at their own school or site before using or sharing them.
+
+## WIDGET LABELS AND OPTIONS
+
+button; label=Overview; value=False
+button; label=Elementary School; value=False
+button; label=Middle School; value=False
+button; label=High School; value=False
+button; label=Project; value=True
+button; label=Change school; value=False
+download_button; label=Download Framework Project (PDF); value=False
+download_button; label=Download Framework Project (Word); value=False
+radio; label=Choose a page; value=Theoretical and Conceptual Framework; options=Select School | Full Report | All Indicators | CalAPA Cycle 1 Support | Theoretical and Conceptual Framework | Equity Timeline Explorer | About This Project

@@ -1,0 +1,4 @@
+level,name,graduates,cohort_students,reporting_year,five_year_graduates,source_file,graduation_rate,status_level,change_level,color
+School,Jordan High,170.0,198,2025,4,graddownload2025.txt,85.9,3.0,4.0,4.0
+District,Los Angeles Unified,25851.0,29899,2025,547,graddownload2025.txt,86.5,3.0,3.0,3.0
+State,California,445720.0,507889,2025,11093,graddownload2025.txt,87.8,3.0,4.0,4.0
