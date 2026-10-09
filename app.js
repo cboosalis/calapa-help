@@ -210,7 +210,7 @@
           summary.replaceWith(review);review.append(summary);
         }
       }
-      if(currentUnit.area!=='start')main.querySelector('.reading').insertAdjacentHTML('beforeend',window.MENTOR.researchBlock(cycle));
+      if(currentUnit.area!=='start')main.querySelector('.reading').insertAdjacentHTML('beforeend',window.MENTOR.researchBlock(cycle,currentUnit.id));
     }
     if(parts[0]==='connections')main.querySelector('.reading>section').insertAdjacentHTML('afterend',window.MENTOR.cycleMap(state.area));
     if(parts[0]==='sources'&&parts[1])main.querySelectorAll('details').forEach(d=>{if(d.querySelector('summary')?.textContent.startsWith('Cycle '))d.open=d.querySelector('summary').textContent.startsWith('Cycle '+parts[1].slice(1));});
