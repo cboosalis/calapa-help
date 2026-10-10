@@ -1,0 +1,97 @@
+/* Scoped to the question-first overview; cycle review pages keep their layout. */
+.novice-overview {max-width:none}
+.novice-overview [id^="overview-cycle-"] {container-type:inline-size;min-width:0}
+.novice-overview .ov-map {margin:20px 0 12px}
+.novice-overview .ov-question-map {width:100%;min-width:0;table-layout:fixed;border-collapse:collapse;font-size:14px;line-height:1.5}
+.novice-overview .ov-question-map th,.novice-overview .ov-question-map td {width:25%;min-width:0;padding:12px;vertical-align:top;border:1px solid var(--line);overflow-wrap:anywhere;white-space:normal}
+.novice-overview .ov-question-map th {background:var(--pale);font-size:17px;color:var(--ink)}
+.novice-overview .ov-question-map th:nth-child(2) {background:var(--sky)}
+.novice-overview .ov-question-map th:nth-child(3) {background:var(--pink)}
+.novice-overview .ov-question-map th:nth-child(4) {background:color-mix(in srgb,var(--focus) 12%,var(--surface))}
+.ov-question-map th>span {display:block;font-size:12px;font-weight:400;color:var(--muted)}
+.novice-overview .ov-map-part {margin:0;padding:2px 0 12px}
+.novice-overview .ov-map-part+.ov-map-part {padding-top:16px;border-top:1px solid var(--line)}
+.novice-overview .ov-map-part h4 {font-size:15px;line-height:1.4;margin:0 0 4px}
+.novice-overview .ov-map-part h5 {font-size:13px;line-height:1.4;margin:14px 0 6px;color:var(--muted)}
+.novice-overview .ov-map-part .ov-part-title {font-size:13px;margin:0 0 10px;color:var(--muted)}
+.novice-overview .ov-map-question {margin:7px 0;font-size:14px;line-height:1.5}
+.ov-map-question a {color:var(--ink);text-decoration:none}
+.ov-map-question a:hover {text-decoration:underline;color:var(--blue)}
+.novice-overview .ov-map-note {font-size:12px;color:var(--muted);margin:6px 0 10px}
+.novice-overview .ov-subparts {list-style:none;padding-left:18px;margin:10px 0 16px}
+.novice-overview .ov-subparts li {margin:6px 0}
+.ov-question-map .ov-subparts {font-size:13px}
+.ov-mobile-step {display:none}
+.novice-overview .ov-templates {margin:28px 0 36px}
+.ov-template-gallery {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(190px,100%),1fr));gap:24px 18px;align-items:start}
+.novice-overview .ov-template-page {margin:0;min-width:0}
+.ov-template-expand {display:block;position:relative;width:100%;padding:0;aspect-ratio:1275/1650;border:1px solid var(--line);border-radius:3px;background:#fff;line-height:0;overflow:hidden}
+.ov-template-expand img {display:block;width:100%;height:100%;object-fit:contain}
+.novice-overview .ov-template-page figcaption {margin:10px 0 0;font-size:14px;line-height:1.5;overflow-wrap:anywhere}
+.ov-template-page figcaption strong,.ov-template-page figcaption span {display:block}
+.ov-template-page figcaption span {font-size:13px;color:var(--muted);margin:3px 0}
+.ov-template-download {display:block;font-size:14px;line-height:1.5;min-height:32px;padding-top:4px}
+#imageDialog.assessment-map-dialog[aria-label^="Cycle "] {padding:16px}
+#imageDialog.assessment-map-dialog[aria-label^="Cycle "] .image-toolbar {position:static;margin:0 0 16px}
+.novice-overview .ov-preparation {margin:28px 0 36px}
+.ov-preparation dl {margin:16px 0}
+.ov-preparation dl>div {display:grid;grid-template-columns:180px minmax(0,1fr);gap:20px;padding:14px 0;border-bottom:1px solid var(--line)}
+.ov-preparation dt {font-weight:700}
+.ov-preparation dd {margin:0;max-width:78ch}
+.novice-overview .ov-step {border-top:2px solid var(--line);padding-top:8px;margin-top:40px}
+.novice-overview .ov-step>h3 {font-size:25px}
+.novice-overview .ov-step>p,.ov-question>p,.ov-part>p {max-width:78ch}
+.novice-overview .ov-part {margin:30px 0}
+.novice-overview .ov-part>h4 {font-size:22px;line-height:1.35;margin:24px 0 12px}
+.novice-overview .ov-section-label {font-size:19px;line-height:1.4;color:var(--green);margin:24px 0 12px}
+.novice-overview .ov-question {margin:22px 0;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.novice-overview .ov-question>h6 {font-size:var(--text-size);line-height:1.5;margin:0 0 10px;font-weight:700}
+.novice-overview .ov-question>p {margin:10px 0}
+.ov-rubric-links {font-size:14px;color:var(--muted)}
+.novice-overview .ov-rubric {margin:28px 0 36px}
+.novice-overview .ov-rubric>h5 {font-size:20px;line-height:1.4;margin:0 0 14px}
+.ov-levels {display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);font-size:14px;line-height:1.55}
+.ov-level {min-width:0;padding:12px;background:var(--soft);overflow-wrap:anywhere}
+.ov-level-3 {background:color-mix(in srgb,var(--green) 12%,var(--surface))}
+.ov-level-4 {background:color-mix(in srgb,var(--blue) 12%,var(--surface))}
+.ov-level-5 {background:color-mix(in srgb,var(--focus) 14%,var(--surface))}
+.novice-overview .ov-level h6 {font-size:14px;line-height:1.4;margin:0 0 10px}
+.novice-overview .ov-level p {font-size:14px;line-height:1.55;margin:0}
+.novice-overview .ov-official {padding:12px 0;margin:0;border:0;border-bottom:1px solid var(--line)}
+.ov-official>summary {font-size:14px;min-height:44px;align-content:center}
+.ov-official>p {font-size:14px}
+.ov-official .ov-levels {margin:14px 0}
+@container (max-width:840px) {
+ .novice-overview .ov-question-map,.ov-question-map tbody {display:block}
+ .ov-question-map thead {display:none}
+ .ov-question-map tbody>tr {display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+ .novice-overview .ov-question-map td {display:block;width:auto}
+ .ov-mobile-step {display:block;font-size:16px;font-weight:700;padding:10px 12px;margin:-12px -12px 14px;background:var(--pale)}
+ .ov-question-map td:nth-child(2) .ov-mobile-step {background:var(--sky)}
+ .ov-question-map td:nth-child(3) .ov-mobile-step {background:var(--pink)}
+ .ov-question-map td:nth-child(4) .ov-mobile-step {background:color-mix(in srgb,var(--focus) 12%,var(--surface))}
+}
+@container (max-width:680px) {
+ .ov-levels {grid-template-columns:minmax(0,1fr)}
+ .ov-level {display:grid;grid-template-columns:65px minmax(0,1fr);gap:12px}
+ .novice-overview .ov-level h6 {margin:0}
+ .ov-preparation dl>div {grid-template-columns:1fr;gap:6px}
+}
+@container (max-width:500px) {
+ .ov-question-map tbody>tr {grid-template-columns:minmax(0,1fr)}
+}
+@media print {
+ .ov-template-gallery {grid-template-columns:repeat(3,minmax(0,1fr))}
+ .ov-template-page {break-inside:avoid}
+ .novice-overview [id^="overview-cycle-"] {container-type:normal;break-before:page}
+ .novice-overview .ov-question-map {display:table;font-size:9pt}
+ .ov-question-map thead {display:table-header-group}
+ .ov-question-map tbody {display:table-row-group}
+ .ov-question-map tbody>tr {display:table-row}
+ .novice-overview .ov-question-map td {display:table-cell;width:25%}
+ .ov-mobile-step {display:none}
+ .ov-levels {grid-template-columns:repeat(5,minmax(0,1fr));print-color-adjust:exact}
+ .ov-level {display:block}
+ .ov-rubric,.ov-question {break-inside:avoid}
+ .ov-official:not([open])>*:not(summary) {display:none!important}
+}

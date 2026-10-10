@@ -60,6 +60,9 @@
     return `${window.NOVICE_OVERVIEW.home()}<article class="reading guide-reading">${window.LEARNING_SUPPORT.cases()}</article>${thread(true)}`;
   }
   function cycle(id, sets) {
+    const revised=window.REVISED_CYCLES?.[id];
+    const anchor=location.hash.split('/')[2];
+    if(revised && (!anchor || revised.anchors.includes(anchor))) return revised.html;
     const fullPage={c1:window.CYCLE1_PAGE,c2:window.CYCLE2_PAGE,c3:window.CYCLE3_PAGE}[id];
     if(fullPage) return fullPage.html;
     const c=D.cycles[id]; if(!c) return home();
@@ -108,7 +111,7 @@
     const resources=document.createElement('div');resources.innerHTML=window.CURRENT_RESOURCES.render();
     for(const item of resources.querySelectorAll('.source-list li'))entries.push({title:item.querySelector('a').textContent,label:'More Sources',url:'#more-sources/'+item.id,text:item.textContent+' '+item.dataset.searchTerms});
     entries.push({title:'Terms used in CalAPA Help',label:'Glossary',url:'#glossary',text:plain(window.LEARNING_SUPPORT.glossary())});
-    for(const [i,page] of [window.CYCLE1_PAGE,window.CYCLE2_PAGE,window.CYCLE3_PAGE].entries()) for(const entry of page.search) entries.push({...entry,label:`Cycle ${i+1} guidance`,text:plain(entry.html)});
+    for(const [i,page] of [window.REVISED_CYCLES?.c1||window.CYCLE1_PAGE,window.REVISED_CYCLES?.c2||window.CYCLE2_PAGE,window.REVISED_CYCLES?.c3||window.CYCLE3_PAGE].entries()) for(const entry of page.search) entries.push({...entry,label:`Cycle ${i+1} guidance`,text:plain(entry.html)});
     entries.push({title:'Equity Gap Help',label:'Data reports and interpretation',url:'#equity-gap-help',text:plain(window.EQUITY_GAP_HELP.render())});
     for(const u of window.COURSE.units) for(const mode of ['lecture','walkthrough']) {
       const s=D.steps[u.id];

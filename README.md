@@ -1,5 +1,27 @@
 # CalAPA Help
 
+## October 9 Question-First Revision
+
+The overview now begins each cycle with a numbered question map, original blank
+template images, preparation guidance, and horizontal colored rubric summaries.
+The Cycle 1, 2, and 3 tabs open the revised question-first CTC example analyses:
+exact prompt, plain-language explanation, rubric components, example, critique,
+specific improvements, and an instructional score estimate. Full rubrics follow.
+Eight expandable teaching explanations clarify evidence collection, analysis,
+collaborative decisions, observation, and next steps without adding another case.
+
+The instructor explicitly confirmed on October 9, 2026 that the example text and
+images are cleared for public posting. Raw candidate DOCX/PDF files remain local
+and ignored. No candidate videos are included. Video-dependent estimates remain
+provisional; the examples are not officially scored exemplars.
+
+`revised-cycle-pages.js` and `assets/reviews/` are generated from the three reviewed
+local analysis pages by `scripts/integrate-reviews.cjs` (Node with Playwright).
+`revised-cycles.css` preserves the site's navigation, themes, and text-size tools.
+Older teaching-guide anchors remain available for existing supplemental links;
+the primary cycle routes and cycle search entries use the revised analyses.
+Earlier dated release notes below describe historical versions.
+
 A student-facing guide to CalAPA Version 09: cycle overviews, submission limits,
 complete rubrics, original template images, fictional examples, public-data
 reading support, adjustable text, and connected navigation.

@@ -203,6 +203,8 @@
         main.querySelector('.unit-header a[href^="sources/CalAPA_"]').href=`sources/CalAPA_C${cycle.slice(1)}_AssessmentGuide.pdf#page=${window.GUIDE_CONTENT.steps[currentUnit.id].pages[0]}`;
         main.querySelector('.reading').insertAdjacentHTML('afterbegin',window.GUIDE.stepLead(currentUnit,templateSets));
         main.querySelector('.reading').insertAdjacentHTML('beforeend',window.GUIDE.stepEnd(currentUnit));
+        const writingExample={c1:{investigate:'data',plan:'factors',act:'feedback',reflect:'reflection'},c2:{investigate:'context',plan:'decision',act:'results',reflect:'reflection'},c3:{investigate:'context',plan:'focus',act:'observation',reflect:'feedback'}}[cycle][currentUnit.id.split('-')[1]];
+        main.querySelector('.unit-header').insertAdjacentHTML('beforeend',`<p><a href="#cycle/${cycle}/writing-${cycle}-${writingExample}">Compare developing and stronger explanations for this step</a></p>`);
         if(state.mode==='walkthrough'){
           main.querySelector('.view-tabs').insertAdjacentHTML('afterend',`<p class="example-boundary"><strong>Teaching excerpt, not a complete submission.</strong> ${esc(window.GUIDE_CONTENT.steps[currentUnit.id].exampleLimit)} Public figures are identified separately from fictional meetings, quotations, work, and feedback. The excerpts are not scored exemplars or scripts for assessed meetings.</p>`);
           const summary=main.querySelector('.requirement-summary'),review=document.createElement('details');
@@ -235,7 +237,7 @@
     if(hash!==lastRoute){window.scrollTo(0,0);sidebar.classList.remove('open');document.querySelector('#menuBtn').setAttribute('aria-expanded','false');if(lastRoute)main.focus({preventScroll:true});lastRoute=hash;}
     if((['cycle','source'].includes(parts[0])&&parts[2])||(['home','equity-gap-help','glossary','more-sources','readiness'].includes(parts[0])&&parts[1])){
       const target=document.getElementById(['cycle','source'].includes(parts[0])?parts[2]:parts[1]);
-      if(target&&main.contains(target)){for(let parent=target.parentElement;parent&&parent!==main;parent=parent.parentElement)if(parent.tagName==='DETAILS')parent.open=true;target.tabIndex=-1;target.scrollIntoView();target.focus({preventScroll:true});}
+      if(target&&main.contains(target)){for(let parent=target.parentElement;parent&&parent!==main;parent=parent.parentElement)if(parent.tagName==='DETAILS')parent.open=true;target.tabIndex=target.matches('.writing-example > summary')?0:-1;target.scrollIntoView();target.focus({preventScroll:true});}
     }
   }
   function printArea(area){
@@ -247,7 +249,7 @@
     const el=event.target.closest('button,a');if(!el)return;
     if(el.tagName==='A'&&el.getAttribute('href')===location.hash&&(location.hash.startsWith('#cycle/')||location.hash.startsWith('#equity-gap-help'))){
       event.preventDefault();const id=location.hash.split('/')[location.hash.startsWith('#cycle/')?2:1],target=id?document.getElementById(id):main;
-      if(target&&main.contains(target)){target.tabIndex=-1;target.scrollIntoView();target.focus({preventScroll:true});if(!id)window.scrollTo(0,0);}return;
+      if(target&&main.contains(target)){const example=target.closest('.writing-example');if(example)example.open=true;target.tabIndex=target.matches('.writing-example > summary')?0:-1;target.scrollIntoView();target.focus({preventScroll:true});if(!id)window.scrollTo(0,0);}return;
     }
     if(el.hasAttribute('data-builder-generate')){generateEvidence();return;}
     if(el.hasAttribute('data-builder-reset')){builderState=initialBuilder(builderState.id);builder(builderState.id);hydrate();return;}

@@ -30,6 +30,18 @@
 .c1-reading figcaption{font-size:14px;line-height:1.6;margin:10px 0;color:var(--muted)}
 .c1-next a{display:inline-flex;align-items:center;gap:10px;min-height:44px}
 .c1-check{border-top:1px solid var(--line);padding-top:8px;margin-top:32px}
+.writing-intro,.writing-practice{border-top:1px solid var(--line);margin:32px 0;padding-top:8px}
+.writing-index{max-width:78ch;padding-left:24px}
+.writing-example{border:0;border-top:1px solid var(--line);border-radius:0;background:transparent;margin:16px 0;padding:16px 0;min-width:0;overflow-wrap:anywhere}
+.writing-example>summary{font-size:20px;font-weight:700;line-height:1.5;cursor:pointer;padding:5px 0;min-height:44px}
+.writing-example h4{font-size:18px;line-height:1.5;margin:24px 0 8px}
+.writing-evidence{border-left:3px solid var(--blue);padding-left:18px;margin:22px 0}
+.writing-evidence h4{color:var(--blue)}
+.writing-example .writing-developing blockquote{border-color:var(--muted)}
+.writing-example .writing-stronger h4{color:var(--green)}
+.writing-example blockquote{max-width:78ch;font-size:var(--text-size);font-style:normal}
+.writing-example li{max-width:78ch}
+.writing-example h4,.writing-stronger{scroll-margin-top:calc(var(--header-height,140px) + 22px)}
 @media(min-width:761px){.sidebar{top:var(--header-height,88px);height:calc(100dvh - var(--header-height,88px))}}
 @media(max-width:1100px){.cycle1-main,.equity-help-main{padding:28px 24px 50px}.c1-reading td,.c1-reading th{padding:9px}}
 @media(max-width:760px){
