@@ -4,16 +4,23 @@
 
 The overview now begins each cycle with a numbered question map, original blank
 template images, preparation guidance, and horizontal colored rubric summaries.
-The Cycle 1, 2, and 3 tabs open the revised question-first CTC example analyses:
+The Cycle 1, 2, and 3 tabs open the revised question-first interpolated example analyses:
 exact prompt, plain-language explanation, rubric components, example, critique,
-specific improvements, and an instructional score estimate. Full rubrics follow.
+specific improvements, and clear instructional-status notes. Full rubrics follow.
 Eight expandable teaching explanations clarify evidence collection, analysis,
 collaborative decisions, observation, and next steps without adding another case.
 
-The instructor explicitly confirmed on October 9, 2026 that the example text and
-images are cleared for public posting. Raw candidate DOCX/PDF files remain local
-and ignored. No candidate videos are included. Video-dependent estimates remain
-provisional; the examples are not officially scored exemplars.
+The example text visible in the app is newly worded instructional interpolation.
+It parallels the reviewed source scenarios without retaining the source response
+wording. Raw candidate DOCX/PDF files remain local and ignored. No candidate
+videos are included. The examples are not officially scored exemplars.
+
+The October 10 full-length rewrites retain the three reviewed scenarios and their
+data, events, and reasoning. The 79 examples are keyed by cycle and section in
+`scripts/interpolated-c1.cjs`, `interpolated-c2.cjs`, and `interpolated-c3.cjs`;
+`scripts/interpolated-examples.cjs` formats them and restores the data tables.
+`scripts/verify-interpolated-examples.cjs` compares rendered word counts with the
+local reviewed originals and exports the revised text with its app locations.
 
 `revised-cycle-pages.js` and `assets/reviews/` are generated from the three reviewed
 local analysis pages by `scripts/integrate-reviews.cjs` (Node with Playwright).

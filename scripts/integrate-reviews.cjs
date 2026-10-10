@@ -9,6 +9,8 @@ catch { ({chromium} = require('../../tools/perplexity/node_modules/playwright'))
 const site = path.resolve(__dirname, '..');
 const root = path.dirname(site);
 
+const interpolatedExamples = require('./interpolated-examples.cjs');
+
 (async () => {
   const browser = await chromium.launch({headless:true});
   const pages = {};
@@ -34,7 +36,7 @@ const root = path.dirname(site);
       const context={window:{}};
       vm.runInNewContext(fs.readFileSync(path.join(site,`cycle${cycle}-page.js`),'utf8'),context);
       const legacyHTML=context.window[`CYCLE${cycle}_PAGE`].html;
-      pages[`c${cycle}`] = await page.evaluate(({cycle,replacements,siteURL,legacyHTML}) => {
+      pages[`c${cycle}`] = await page.evaluate(({cycle,replacements,siteURL,legacyHTML,examples}) => {
         const main = document.querySelector('main');
         const route = `#cycle/c${cycle}/`;
         const aliases = {};
@@ -63,6 +65,50 @@ const root = path.dirname(site);
           alias('qualitative-analysis','A-qualitative');
         }
         main.querySelector('.intro').classList.add('guide-heading');
+        main.querySelector('.intro').innerHTML = main.querySelector('.intro').innerHTML
+          .replace(/CTC example/g, 'interpolated example')
+          .replace(/example response/g, 'interpolated response');
+        for (const article of main.querySelectorAll('article.template-review')) {
+          const example = article.querySelector('.example-response');
+          if (example) {
+            if (!Object.hasOwn(examples, article.id)) throw Error(`Missing rewrite c${cycle}/${article.id}`);
+            example.innerHTML = `<h3>Interpolated Example</h3><div class="interpolated-example">${examples[article.id]}</div>`;
+          }
+          const critique = article.querySelector('.critique');
+          if (critique) {
+            const improvements = critique.querySelector('.improvements')?.outerHTML || '';
+            const tables = [...critique.querySelectorAll('.evidence-table-wrap')].map(n => n.outerHTML).join('');
+            critique.innerHTML = `<h3>Reading the Interpolated Example</h3>${tables}<h4>Questions for review</h4>${improvements}<section class="score-judgment"><h4>Instructional status</h4><p>This rewritten teaching example preserves the scenario and its evidence for discussion. It is not an official exemplar, candidate submission, or scored response.</p></section>`;
+          }
+        }
+        const statusSection = main.querySelector('#score-summary, #scores');
+        for (const level of main.querySelectorAll('.level.estimated')) level.classList.remove('estimated');
+        if (statusSection) {
+          statusSection.innerHTML = `
+            <h2>Interpolated Example Status</h2>
+            <p>The examples on this page are newly worded instructional parallels. They are not official exemplars, not candidate submissions, and not scored responses.</p>
+            <p>Use them to study the kind of evidence and reasoning each prompt calls for, then replace the details with your own school context, records, meetings, and reflections.</p>
+          `;
+        }
+        const walker = document.createTreeWalker(main, NodeFilter.SHOW_TEXT);
+        const textNodes = [];
+        while (walker.nextNode()) textNodes.push(walker.currentNode);
+        for (const node of textNodes) {
+          node.nodeValue = node.nodeValue
+            .replace(/CTC example/g, 'interpolated example')
+            .replace(/CTC examples/g, 'interpolated examples')
+            .replace(/ctc example/g, 'interpolated example')
+            .replace(/Score profile/g, 'Example status')
+            .replace(/Rubric estimates consider all relevant responses in the interpolated example and are instructional judgments, not official scores\. Interpolated text is labeled and excluded from the estimates\./g, 'The interpolated examples are newly worded teaching parallels. They are not official scores, candidate submissions, or templates to copy.')
+            .replace(/High School P/g, 'Riverview High')
+            .replace(/Cruz[’']s Math Crew/g, 'Math Crew')
+            .replace(/The interpolated example was supplied for this local teaching review\. Its response wording is retained\. The group-selection interpolation and qualitative-table reconstruction are labeled\./g, 'The examples are full-length rewrites of material supplied for local teaching review. The scenarios, numerical evidence, and sequence inform the newly drafted prose. The qualitative findings table is a teaching reconstruction.')
+            .replace(/The highlight shows this review's estimate\./g, 'No score is assigned to the rewritten example.')
+            .replace(/These are interpolated examples of possible supporting evidence/g, 'These are categories of possible supporting evidence from the guide')
+            .replace(/Category and interpolated examples/g, 'Category and supporting evidence')
+            .replace(/The example is evidence to examine, not a model to copy\./g, 'The interpolated examples are teaching parallels to examine, not models to copy.')
+            .replace(/Original response wording and document images from the supplied interpolated example are retained; formatting and placement are adapted\./g, 'Interpolated example wording is newly drafted for instruction; original source wording is not retained in these app examples.');
+        }
         for(const image of main.querySelectorAll('img[src]')) image.setAttribute('src',replacements[image.src]);
         for(const button of main.querySelectorAll('[data-image]')) {
           button.removeAttribute('data-image'); button.setAttribute('data-figure-expand','');
@@ -83,12 +129,20 @@ const root = path.dirname(site);
         const label=document.createElement('summary'); label.textContent='Questions and reference'; contents.append(label);
         const nav=document.createElement('nav');nav.setAttribute('aria-label',`Cycle ${cycle} questions`);
         for(const source of document.querySelectorAll('#sidebar a[href^="#"]')) {
-          const a=source.cloneNode(true); a.href=route+source.hash.slice(1);nav.append(a);
+          const a=source.cloneNode(true);
+          if (a.textContent.trim() === 'Score profile') a.textContent = 'Example status';
+          a.href=route+source.hash.slice(1);nav.append(a);
         }
         contents.append(nav);main.querySelector('.intro').after(contents);
         const search=[...main.querySelectorAll('article.template-review')].map(n=>({title:n.querySelector('h2').textContent,url:route+n.id,html:n.innerHTML}));
         return {title:main.querySelector('h1').textContent, html:'<div class="revised-cycle">'+main.innerHTML+'</div>',search,anchors:[...main.querySelectorAll('[id]')].map(n=>n.id),aliases};
-      }, {cycle,replacements,siteURL:pathToFileURL(site+path.sep).href,legacyHTML});
+      }, {
+        cycle,
+        replacements,
+        siteURL:pathToFileURL(site+path.sep).href,
+        legacyHTML,
+        examples:interpolatedExamples[cycle]
+      });
     }
     fs.writeFileSync(path.join(site,'revised-cycle-pages.js'),'window.REVISED_CYCLES = '+JSON.stringify(pages)+';\n');
     console.log(JSON.stringify({cycles:Object.keys(pages),questions:Object.values(pages).map(p=>p.search.length)}));

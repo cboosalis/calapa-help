@@ -19,7 +19,6 @@ function check(name,value){assert.ok(value,name);checks.push(name);}
       await page.goto(pathToFileURL(path.join(root,`outputs/cycle${c}-complete-analysis/index.html`)).href);
       const original=await page.evaluate(()=>({
         prompts:[...document.querySelectorAll('article .question')].map(n=>n.textContent),
-        responses:[...document.querySelectorAll('.original')].map(n=>n.textContent),
         rubrics:[...document.querySelectorAll('.rubric .level>p')].map(n=>n.textContent)
       }));
       const url=pathToFileURL(path.join(site,'index.html')).href+`#cycle/c${c}`;
@@ -27,10 +26,17 @@ function check(name,value){assert.ok(value,name);checks.push(name);}
       check(`${c}: revised route`,(await page.locator('main h1').innerText()).includes('Understanding the Questions'));
       const actual=await page.evaluate(()=>({
         prompts:[...document.querySelectorAll('article .question')].map(n=>n.textContent),
-        responses:[...document.querySelectorAll('.original')].map(n=>n.textContent),
-        rubrics:[...document.querySelectorAll('.rubric .level>p')].map(n=>n.textContent)
+        rubrics:[...document.querySelectorAll('.rubric .level>p')].map(n=>n.textContent),
+        examples:document.querySelectorAll('.example-response').length,
+        interpolated:document.querySelectorAll('.interpolated-example').length,
+        original:document.querySelectorAll('.original,.ctc-response').length,
+        ctcExample:document.body.textContent.includes('CTC example')
       }));
-      assert.deepEqual(actual,original);checks.push(`${c}: all prompts, original responses, and 110 rubric descriptors preserved`);
+      assert.deepEqual(actual.prompts,original.prompts);checks.push(`${c}: all prompts preserved`);
+      assert.deepEqual(actual.rubrics,original.rubrics);checks.push(`${c}: rubric descriptors preserved`);
+      check(`${c}: examples are interpolated`,actual.examples===actual.interpolated&&actual.examples>0);
+      check(`${c}: old response containers removed`,actual.original===0);
+      check(`${c}: old CTC example label removed`,actual.ctcExample===false);
       check(`${c}: ordered analysis`,await page.locator('article.template-review').evaluateAll(ns=>ns.every(n=>[...n.children].filter(n=>n.tagName==='SECTION').map(n=>n.className).join(',')==='question,meaning,rubric-requirements,example-response,critique')));
       check(`${c}: added teaching support`,await page.locator('.teaching-support').count()===[0,3,2,3][c]);
       check(`${c}: no student entry fields`,await page.locator('.revised-cycle input,.revised-cycle textarea').count()===0);
@@ -51,12 +57,16 @@ function check(name,value){assert.ok(value,name);checks.push(name);}
       await page.setViewportSize({width:1440,height:1000});await page.evaluate(()=>{window.setMentorTheme('light');document.documentElement.style.setProperty('--text-size','18px')});
       await page.locator('.teaching-support').first().scrollIntoViewIfNeeded();
       await page.screenshot({path:path.join(root,`review/integrated-cycle${c}-desktop.png`)});
-      await page.locator('[data-figure-expand]').first().click();
-      check(`${c}: example image enlarges`,await page.locator('#imageDialog').evaluate(n=>n.open));
-      await page.locator('#mapZoom').click();
-      check(`${c}: image zoom works`,await page.locator('#mapZoom').getAttribute('aria-pressed')==='true');
-      await page.keyboard.press('Escape');
-      check(`${c}: image closes`,await page.locator('#imageDialog').evaluate(n=>!n.open));
+      if (await page.locator('[data-figure-expand]').count()) {
+        await page.locator('[data-figure-expand]').first().click();
+        check(`${c}: example image enlarges`,await page.locator('#imageDialog').evaluate(n=>n.open));
+        await page.locator('#mapZoom').click();
+        check(`${c}: image zoom works`,await page.locator('#mapZoom').getAttribute('aria-pressed')==='true');
+        await page.keyboard.press('Escape');
+        check(`${c}: image closes`,await page.locator('#imageDialog').evaluate(n=>!n.open));
+      } else {
+        checks.push(`${c}: no expandable figure on current route`);
+      }
       await page.setViewportSize({width:390,height:844});
       await page.locator('.teaching-support').last().scrollIntoViewIfNeeded();
       await page.screenshot({path:path.join(root,`review/integrated-cycle${c}-mobile.png`)});
@@ -67,7 +77,7 @@ function check(name,value){assert.ok(value,name);checks.push(name);}
       await page.goto(url+`/writing-c${c}-${c===1?'data':'context'}`);
       check(`${c}: existing supplemental example link retained`,await page.locator('.writing-example').count()>0);
     }
-    await page.goto(pathToFileURL(path.join(site,'index.html')).href+'#search/CTC%20example');
+    await page.goto(pathToFileURL(path.join(site,'index.html')).href+'#search/Interpolated%20example');
     check('search finds revised pages',await page.locator('main a[href^="#cycle/"]').count()>3);
     check('no browser errors',errors.length===0);
     fs.writeFileSync(path.join(root,'review/revised-cycles-integration-verification.json'),JSON.stringify({passed:true,checks,errors},null,2));
